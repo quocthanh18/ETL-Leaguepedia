@@ -1,17 +1,20 @@
 import pandas as pd
 
 
-def players_transformer():
-    players_pd = pd.read_csv("../staging/extracted/players.csv")
+def players_transformer(**kwargs):
+    # players_pd = pd.read_csv("../staging/extracted/players.csv")
+    players_pd = pd.read_csv(kwargs.get("dest") + "extracted/players.csv")
     renames = players_pd.groupby("Player")["AllName"].apply(", ".join).to_frame().reset_index()
     main = players_pd.drop_duplicates(subset=["Player"], keep="first").reset_index(drop=True)
     main = pd.merge(main, renames, on="Player", how="left").drop(columns=["AllName_x"]).rename(columns={"AllName_y": "AllName"})
     main["IsRetired"] = main["IsRetired"].astype(bool)
     main["ToWildrift"] = main["ToWildrift"].astype(bool)
     main = main.replace([pd.NaT], [None])
-    return main
-def tournaments_transformer():
-    tournaments = pd.read_csv("../staging/extracted/tournaments.csv")
+    main.to_csv(kwargs.get("dest") + "transformed/players.csv", index=False)
+    return 
+def tournaments_transformer(**kwargs):
+    # tournaments = pd.read_csv("../staging/extracted/tournaments.csv")
+    tournaments = pd.read_csv(kwargs.get("dest") + "extracted/tournaments.csv")
     tournaments["DateStart"] = pd.to_datetime(tournaments["DateStart"])
     tournaments["Date"] = pd.to_datetime(tournaments["Date"])
     major_regions =[
@@ -27,22 +30,31 @@ def tournaments_transformer():
     ]
     tournaments = tournaments[tournaments["League"].isin(major_regions)]
     filtered_TCL = tournaments[~tournaments["League"].str.contains("TCL")]
-    return filtered_TCL
+    filtered_TCL.to_csv(kwargs.get("dest") + "transformed/tournaments.csv", index=False)
+    return 
 
-def tournamentresults_transformer(major_regions):
-    tournamentresults_pd = pd.read_csv("../staging/extracted/tournamentresults.csv")
+def tournamentresults_transformer(**kwargs):
+    # tournamentresults_pd = pd.read_csv("../staging/extracted/tournamentresults.csv")
+    tournamentresults_pd = pd.read_csv(kwargs.get("dest") + "extracted/tournamentresults.csv")
+    major_regions = pd.read_csv(kwargs.get("dest") + "transformed/tournaments.csv")["OverviewPage"]
     filtered_tournamentresults = tournamentresults_pd[tournamentresults_pd["OverviewPage"].isin(major_regions)]
     filtered_TCL = filtered_tournamentresults[~filtered_tournamentresults["OverviewPage"].str.contains("TCL")]
-    return filtered_TCL
+    filtered_TCL.to_csv(kwargs.get("dest") + "transformed/tournamentresults.csv", index=False)
+    return 
 
-def scoreboardgames_transformer(major_regions):
-    scoreboardgames_pd = pd.read_csv("../staging/extracted/scoreboardgames.csv")
+def scoreboardgames_transformer(**kwargs):
+    # scoreboardgames_pd = pd.read_csv("../staging/extracted/scoreboardgames.csv")
+    scoreboardgames_pd = pd.read_csv(kwargs.get("dest") + "extracted/scoreboardgames.csv")
+    major_regions = pd.read_csv(kwargs.get("dest") + "transformed/tournaments.csv")["OverviewPage"]
     filtered_scoreboardgames = scoreboardgames_pd[scoreboardgames_pd["OverviewPage"].isin(major_regions)]
-    return filtered_scoreboardgames
+    filtered_scoreboardgames.to_csv(kwargs.get("dest") + "transformed/scoreboardgames.csv", index=False)
+    return 
 
-def teams_transformer():
-    teams_pd = pd.read_csv("../staging/extracted/teams.csv",dtype={"IsDisbanded":bool})
-    return teams_pd
+def teams_transformer(**kwargs):
+    # teams_pd = pd.read_csv("../staging/extracted/teams.csv",dtype={"IsDisbanded":bool})
+    teams_pd = pd.read_csv(kwargs.get("dest") + "extracted/teams.csv",dtype={"IsDisbanded":bool})
+    teams_pd.to_csv(kwargs.get("dest") + "transformed/teams.csv", index=False)
+    return 
 
 def main():
     tournaments = tournaments_transformer()

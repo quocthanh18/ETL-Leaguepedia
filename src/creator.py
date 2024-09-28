@@ -1,8 +1,5 @@
 import psycopg2
-import os
-from dotenv import load_dotenv
-
-load_dotenv()
+from airflow.models import Variable
 
 
 def create_players_tables(db_con):
@@ -119,10 +116,10 @@ def create_teams_table(db_con):
     cur.close()
     return
 def main():
-    conn = psycopg2.connect(database=os.getenv("dbname"),
-                        user=os.getenv("user"),
-                        password=os.getenv("password"),
-                        host=os.getenv("host")
+    conn = psycopg2.connect(database=Variable.get("ETL_dbname"),
+                        user=Variable.get("user"),
+                        password=Variable.get("password"),
+                        host=Variable.get("host")
                         )
     
     create_players_tables(conn)
@@ -134,6 +131,3 @@ def main():
     create_scoreboardgames_table(conn)
 
     create_teams_table(conn)
-if __name__ == "__main__":
-    main()
-
