@@ -1,4 +1,8 @@
 OverviewPage,DateStart,Date,Region,Country,EventType,League,DateStart__precision,Date__precision
+Ultraliga/2025 Season/Promotion,2024-09-10,2024-09-18,EMEA,Poland,Online,Ultraliga,1,1
+Ultraliga/Season 0 Playoffs,2018-12-08,2018-12-23,Europe,Poland,Offline,Ultraliga,1,1
+Ultraliga/Season 0 Stage 1,2018-10-22,2018-11-21,Europe,Poland,Online,Ultraliga,1,1
+Ultraliga/Season 0 Stage 2,2018-11-26,2018-12-05,Europe,Poland,Online,Ultraliga,1,1
 Ultraliga/Season 1,2019-01-22,2019-03-06,Europe,Poland,Online,Ultraliga,1,1
 Ultraliga/Season 1 Playoffs,2019-03-12,2019-03-27,Europe,Poland,Online,Ultraliga,1,1
 Ultraliga/Season 10,2023-05-29,2023-07-20,EMEA,Poland,Online,Ultraliga,1,1
@@ -406,6 +410,10 @@ ZOTAC CUP LoL EU West 7a,2020-03-28,2020-03-28,Europe,,Online,ZOTAC CUP,1,1
 ZOTAC CUP LoL EU West 7b,2020-04-11,2020-04-11,Europe,,Online,ZOTAC CUP,1,1
 ZOTAC CUP LoL EU West 8,2020-04-25,2020-04-25,Europe,,Online,ZOTAC CUP,1,1
 ZOTAC CUP LoL EU West 9,2020-05-09,2020-05-09,Europe,,Online,ZOTAC CUP,1,1
+TECHLABS CUP KZ 2013,2013-12-07,2013-12-07,CIS,Kazakhstan,Offline,TECHLABS,1,1
+TECHLABS CUP UA 2013,2013-08-24,2013-08-31,CIS,Ukraine,Online/Offline,TECHLABS,1,1
+Technorama Christmas LAN Party EUNE 2013,2013-12-21,2013-12-22,Europe,Lithuania,,Technorama,1,1
+Technorama Christmas LAN Party EUW 2013,2013-12-21,2013-12-22,Europe,Lithuania,,Technorama,1,1
 Technorama Corsair Challenge,,,Europe,,,Technorama,,
 Technorama Invitational Vilnius,2013-04-17,2013-04-17,Europe,Lithuania,,Technorama,1,1
 TECNOFIELDS 3D,,,LAS,,,unknown,,
@@ -902,10 +910,8 @@ Ultraliga/2024 Season/Spring Playoffs,2024-03-12,2024-03-23,EMEA,Poland,Online,U
 Ultraliga/2024 Season/Spring Split,2024-01-16,2024-02-28,EMEA,Poland,Online,Ultraliga,1,1
 Ultraliga/2024 Season/Summer Playoffs,2024-07-24,2024-08-03,EMEA,Poland,Online,Ultraliga,1,1
 Ultraliga/2024 Season/Summer Split,2024-06-04,2024-07-17,EMEA,Poland,Online,Ultraliga,1,1
-Ultraliga/2025 Season/Promotion,2024-09-10,2024-09-18,EMEA,Poland,Online,Ultraliga,1,1
-Ultraliga/Season 0 Playoffs,2018-12-08,2018-12-23,Europe,Poland,Offline,Ultraliga,1,1
-Ultraliga/Season 0 Stage 1,2018-10-22,2018-11-21,Europe,Poland,Online,Ultraliga,1,1
-Ultraliga/Season 0 Stage 2,2018-11-26,2018-12-05,Europe,Poland,Online,Ultraliga,1,1
+Rising Stars/Season 2/EUW Qualifiers,2022-05-11,2022-05-12,MENA,,Online,Rising Stars,1,1
+RIV4L College League 2019,2019-02-04,2019-05-18,Europe,Belgium,Online/Offline,RIV4L College League,1,1
 RIV4L College League 2020 UEM Qualifier,2020-07-01,2020-07-01,Europe,Belgium,Online,RIV4L College League,1,1
 RIV4L Lan Tour 2019,2019-03-01,2019-12-01,Europe,Belgium,Online/Offline,RIV4L Lan Tour,1,1
 Road to Gamepolis,2020-09-12,2020-09-13,Europe,Spain,Online,Road to Gamepolis,1,1
@@ -1314,7 +1320,8 @@ TCL Division 2/2024 Season/Summer Season,2024-05-21,2024-07-16,EMEA,Turkey,Onlin
 TCL Division 2/2024 Season/Winter Playoffs,2024-03-27,2024-04-03,EMEA,Turkey,Online,TCL Division 2,1,1
 TCL Division 2/2024 Season/Winter Season,2024-01-18,2024-03-13,EMEA,Turkey,Online,TCL Division 2,1,1
 TCL Division 2/2025 Season/Promotion,2024-09-04,2024-09-04,EMEA,Turkey,Online,TCL Division 2,1,1
-TCL Season Cup 2024,2024-01-05,2024-01-12,EMEA,Turkey,Online,TCL Season Cup,1,1
+TCL Season Cup 2023,2024-01-05,2024-01-12,EMEA,Turkey,Online,TCL Season Cup,1,1
+TCL Season Cup 2024,2024-10-01,,EMEA,Turkey,Online,TCL Season Cup,1,
 TCL/2014 Season,2013-12-01,2014-07-12,Turkey,Turkey,,,1,1
 TCL/2014 Season/Championship,2014-07-05,2014-07-12,Turkey,Turkey,Offline,Riot Games,1,1
 TCL/2014 Season/Championship/Qualifiers,2014-06-28,2014-06-29,Turkey,Turkey,Online,World Championship,1,1
@@ -1388,6 +1395,7 @@ Team 7AM Winter Cup 2,2020-12-02,2020-12-02,Europe,Belgium,Online,Team 7AM Winte
 Team 7AM Winter Cup 3,2020-12-16,2020-12-16,Europe,Belgium,Online,Team 7AM Winter Cup,1,1
 Team ALTERNATE Female Cup 1,2015-10-04,2015-10-04,Europe,Germany,Online,,1,1
 Team Amazigh LOL Cup 2023,2023-09-19,2023-09-27,,Tunisia,Online/Offline,Team Amazigh LOL Cup,1,1
+Team Amazigh LOL Cup 2023,2023-09-19,2023-09-27,EMEA,Tunisia,Online/Offline,Team Amazigh LOL Cup,1,1
 Team Infamous'i Eesti turniir 2019,2019-04-27,2019-04-28,Europe,Estonia,,Unknown,1,1
 Team Infused Challenger Cup,2013-12-06,2013-12-08,Europe,,Online,Team Infused,1,1
 Team Razer 1v1 Road to Glory,2015-06-27,2015-06-28,North America,,Online,,1,1
@@ -1402,10 +1410,9 @@ TEC/Season 3/Qualifiers/Qualifier 4,2024-09-21,2024-09-21,EMEA,Europe,Online,T-e
 TEC/Season 3/Swiss Stage,2024-09-23,2024-10-23,EMEA,Europe,Online,T-esports Championship,1,1
 TECHLABS CUP 2013 GRAND FINAL,2013-11-16,2013-11-17,CIS,Russia,Offline,TECHLABS,1,1
 TECHLABS CUP BY 2013,2013-09-28,2013-09-28,CIS,Belarus,Offline,TECHLABS,1,1
-TECHLABS CUP KZ 2013,2013-12-07,2013-12-07,CIS,Kazakhstan,Offline,TECHLABS,1,1
-TECHLABS CUP UA 2013,2013-08-24,2013-08-31,CIS,Ukraine,Online/Offline,TECHLABS,1,1
-Technorama Christmas LAN Party EUNE 2013,2013-12-21,2013-12-22,Europe,Lithuania,,Technorama,1,1
-Technorama Christmas LAN Party EUW 2013,2013-12-21,2013-12-22,Europe,Lithuania,,Technorama,1,1
+PG Nationals/2020 Season/Spring Promotion/Open Qualifier,2019-12-02,2019-12-11,Europe,Italy,Online,PG Nationals,1,1
+PG Nationals/2020 Season/Spring Season,2020-01-22,2020-02-27,Europe,Italy,Offline,PG Nationals,1,1
+PG Nationals/2020 Season/Staff Rumble,2020-05-24,2020-05-25,Europe,Italy,Offline,PG Esports Events,1,1
 PG Nationals/2020 Season/Summer Playoffs,2020-07-13,2020-08-02,Europe,Italy,Offline,PG Nationals,1,1
 PG Nationals/2020 Season/Summer Promotion,2020-05-13,2020-05-15,Europe,Italy,Offline,PG Nationals,1,1
 PG Nationals/2020 Season/Summer Promotion/Open Qualifier,2020-04-29,2020-05-07,Europe,Italy,Offline,PG Nationals,1,1
@@ -1792,7 +1799,6 @@ Red Bull Factions/2022 Season/Qualifier 2,2022-09-30,2022-09-30,Europe,Italy,Onl
 Red Bull Itemania 2017,2017-12-09,2017-12-09,Europe,Switzerland,Offline,Red Bull Itemania,1,1
 Red Bull Itemania 2018,2018-12-01,2018-12-01,Europe,Switzerland,Offline,Red Bull Itemania,1,1
 Red Bull Itemania 2019,2019-12-07,2019-12-07,Europe,Switzerland,Offline,Red Bull Itemania,1,1
-Red Bull League of Its Own,2023-12-09,2023-12-09,International,Germany,Offline,Red Bull League of Its Own,1,1
 Red Bull Player One 2014,,2014-10-18,Brazil,,,Red Bull Player One 2014,,1
 Red Bull Player One 2015,,2015-11-08,Brazil,,,Red Bull Player One 2014,,1
 Red Bull Player One 2016,,2016-11-13,Brazil,Brazil,,Red Bull Player One 2014,,1
@@ -1904,8 +1910,9 @@ Rising Stars Invitational/Invitational 4,2013-02-04,2013-02-07,North America,,On
 Rising Stars Invitational/Invitational 5,2013-02-11,2013-02-14,North America,,Online,Rising Stars Invitational,1,1
 Rising Stars Invitational/Invitational 6,2013-02-18,2013-02-21,North America,,Online,Rising Stars Invitational,1,1
 Rising Stars/Season 2,2022-05-17,2022-05-19,MENA,United Arab Emirates,Online,Rising Stars,1,1
-Rising Stars/Season 2/EUW Qualifiers,2022-05-11,2022-05-12,MENA,,Online,Rising Stars,1,1
-RIV4L College League 2019,2019-02-04,2019-05-18,Europe,Belgium,Online/Offline,RIV4L College League,1,1
+National ESL Premier League/Season IX,,,North America,,,,,
+National ESL Premier League/Season V,,2013-03-04,North America,,Online,ESL,,1
+National ESL Premier League/Season VI,,2013-06-15,North America,,Online,ESL,,1
 National ESL Premier League/Season VII,,,North America,,,,,
 National ESL Premier League/Season VIII,,,North America,,,,,
 National ESL Pro Series/Season III,2012-04-13,2012-07-06,North America,,Online,ESL Pro Series,1,1
@@ -2403,9 +2410,9 @@ PG Nationals/2019 Season/Summer Promotion/Open Qualifier,2019-04-30,2019-05-12,E
 PG Nationals/2019 Season/Summer Season,2019-06-02,2019-07-15,Europe,Italy,Offline,PG Nationals,1,1
 PG Nationals/2020 Season/Spring Playoffs,2020-03-03,2020-03-29,Europe,Italy,Offline,PG Nationals,1,1
 PG Nationals/2020 Season/Spring Promotion,2019-12-17,2019-12-19,Europe,Italy,Offline,PG Nationals,1,1
-PG Nationals/2020 Season/Spring Promotion/Open Qualifier,2019-12-02,2019-12-11,Europe,Italy,Online,PG Nationals,1,1
-PG Nationals/2020 Season/Spring Season,2020-01-22,2020-02-27,Europe,Italy,Offline,PG Nationals,1,1
-PG Nationals/2020 Season/Staff Rumble,2020-05-24,2020-05-25,Europe,Italy,Offline,PG Esports Events,1,1
+LPLOL/2025 Season/Promotion,2024-09-05,2024-09-13,EMEA,Portugal,Online,Liga Portuguesa,1,1
+LPPL/2016 Season/Spring Season,2016-01-19,2016-04-13,China,China,Offline,Tencent LoL Pro League,1,1
+LPPL/2016 Season/Summer Season,2016-05-30,2016-07-18,China,China,Offline,Tencent LoL Pro League,1,1
 LSPL/2014 Season/Spring,2014-02-18,2014-04-24,China,China,Offline,LoL Secondary Pro League,1,1
 LSPL/2014 Season/Spring/Qualifier,2014-02-13,2014-02-16,China,China,Offline,LoL Secondary Pro League,1,1
 LSPL/2014 Season/Summer,2014-06-10,2014-08-14,China,China,Offline,LoL Secondary Pro League,1,1
@@ -2903,9 +2910,9 @@ National ESL Premier League/Season II/Premier Groups,2011-09-05,2011-12-18,North
 National ESL Premier League/Season III,2012-03-28,2012-05-30,North America,,Online,ESL,1,1
 National ESL Premier League/Season III/Premier Groups,2012-03-28,2012-03-28,North America,,Online,ESL,1,1
 National ESL Premier League/Season IV,2012-08-16,2012-10-25,North America,,Online,ESL,1,1
-National ESL Premier League/Season IX,,,North America,,,,,
-National ESL Premier League/Season V,,2013-03-04,North America,,Online,ESL,,1
-National ESL Premier League/Season VI,,2013-06-15,North America,,Online,ESL,,1
+Liga Nexo/2024 Season/Split 3,2024-04-22,2024-05-28,EMEA,Spain,Online,Liga Nexo,1,1
+Liga Nexo/2024 Season/Split 3 Playoffs,2024-06-04,2024-06-10,EMEA,Spain,Online,Liga Nexo,1,1
+Liga Nexo/2024 Season/Split 3 Relegations,2024-06-25,2024-06-25,EMEA,Spain,Online,Liga Nexo,1,1
 Liga Promessa/2020 Season/Summer Season,2020-08-31,2020-09-29,Europe,Portugal,,Liga Promessa,1,1
 Liga Promessa/2021 Season/Spring Relegation,2021-05-14,2021-05-16,Europe,Portugal,Online,Liga Promessa,1,1
 Liga Promessa/2021 Season/Spring Season,2021-03-03,2021-04-25,Europe,Portugal,Online,Liga Promessa,1,1
@@ -3403,9 +3410,9 @@ LPLOL/2024 Season/Spring Playoffs,2024-03-14,2024-04-05,EMEA,Portugal,Online,Lig
 LPLOL/2024 Season/Spring Season,2024-01-25,2024-03-08,EMEA,Portugal,Online,Liga Portuguesa,1,1
 LPLOL/2024 Season/Summer Playoffs,2024-07-04,2024-07-20,EMEA,Portugal,Online,Liga Portuguesa,1,1
 LPLOL/2024 Season/Summer Season,2024-05-23,2024-06-28,EMEA,Portugal,Online,Liga Portuguesa,1,1
-LPLOL/2025 Season/Promotion,2024-09-05,2024-09-13,EMEA,Portugal,Online,Liga Portuguesa,1,1
-LPPL/2016 Season/Spring Season,2016-01-19,2016-04-13,China,China,Offline,Tencent LoL Pro League,1,1
-LPPL/2016 Season/Summer Season,2016-05-30,2016-07-18,China,China,Offline,Tencent LoL Pro League,1,1
+LCS Proving Grounds/2022 Season/Spring/Circuit Qualifier 2,2022-02-21,2022-03-15,North America,,Online,Proving Grounds Circuit,1,1
+LCS Proving Grounds/2022 Season/Spring/Open Qualifier 1,2022-01-10,2022-01-11,North America,,Online,Proving Grounds Circuit,1,1
+LCS Proving Grounds/2022 Season/Spring/Open Qualifier 2,2022-02-14,2022-02-15,North America,,Online,Proving Grounds Circuit,1,1
 LCS Proving Grounds/2022 Season/Summer,2022-08-03,2022-08-31,North America,,,NA Academy League,1,1
 LCS Proving Grounds/2022 Season/Summer/Circuit Qualifier 1,2022-05-30,2022-06-21,North America,,Online,Proving Grounds Circuit,1,1
 LCS Proving Grounds/2022 Season/Summer/Circuit Qualifier 2,2022-07-11,2022-08-02,North America,,Online,Proving Grounds Circuit,1,1
@@ -3903,9 +3910,8 @@ Liga Nexo/2024 Season/Split 1 Relegations,,,EMEA,Spain,Online,Liga Nexo,,
 Liga Nexo/2024 Season/Split 2,2024-01-29,2024-03-14,EMEA,Spain,Online,Liga Nexo,1,1
 Liga Nexo/2024 Season/Split 2 Playoffs,2024-03-18,2024-04-02,EMEA,Spain,Online,Liga Nexo,1,1
 Liga Nexo/2024 Season/Split 2 Relegations,2024-03-19,2024-04-11,EMEA,Spain,Online,Liga Nexo,1,1
-Liga Nexo/2024 Season/Split 3,2024-04-22,2024-05-28,EMEA,Spain,Online,Liga Nexo,1,1
-Liga Nexo/2024 Season/Split 3 Playoffs,2024-06-04,2024-06-10,EMEA,Spain,Online,Liga Nexo,1,1
-Liga Nexo/2024 Season/Split 3 Relegations,2024-06-25,2024-06-25,EMEA,Spain,Online,Liga Nexo,1,1
+Intel Arabian Cup 2020/Lebanon/Split 2,2020-07-24,2020-09-12,MENA,Lebanon,,Intel Arabian Cup,1,1
+Intel Arabian Cup 2020/Morocco/Split 1,2020-05-29,2020-07-11,MENA,Morocco,,Intel Arabian Cup,1,1
 Intel Arabian Cup 2020/Morocco/Split 1/Group 9-16,2020-05-29,2020-07-11,MENA,Morocco,,Intel Arabian Cup,1,1
 Intel Arabian Cup 2020/Morocco/Split 2,2020-07-14,2020-09-14,MENA,Morocco,,Intel Arabian Cup,1,1
 Intel Arabian Cup 2020/Oman/Split 1,2020-05-29,2020-07-17,MENA,Oman,,Intel Arabian Cup,1,1
@@ -4397,15 +4403,15 @@ LCO/2024 Season/Split 1,2024-01-15,2024-02-21,Asia Pacific,Australia,,LoL Circui
 LCO/2024 Season/Split 1 Playoffs,2024-02-26,2024-04-28,Asia Pacific,Australia,,LoL Circuit Oceania,1,1
 LCO/2024 Season/Split 2,2024-05-27,2024-07-09,Asia Pacific,Australia,,LoL Circuit Oceania,1,1
 LCO/2024 Season/Split 2 Playoffs,2024-07-15,2024-07-22,Asia Pacific,Australia,,LoL Circuit Oceania,1,1
+LCP/2025 Season/Split 1,,,Asia Pacific,Taiwan,,League of Legends Championship Pacific,,
 LCS Game Changers 2023,2023-09-02,2023-09-23,North America,North America,Online/Offline,LCS Game Changers,1,1
 LCS Proving Grounds/2021 Season/Spring,2021-03-30,2021-04-25,North America,,,NA Academy League,1,1
 LCS Proving Grounds/2021 Season/Summer,2021-09-02,2021-09-26,North America,United States,Online,NA Academy League,1,1
 LCS Proving Grounds/2021 Season/Summer/Proving Grounds Qualifiers,2021-08-09,2021-08-20,North America,United States,Online,Unified Grand Prix,1,1
 LCS Proving Grounds/2022 Season/Spring,2022-03-16,2022-04-15,North America,,,NA Academy League,1,1
 LCS Proving Grounds/2022 Season/Spring/Circuit Qualifier 1,2022-01-12,2022-02-01,North America,North America,Online,Proving Grounds Circuit,1,1
-LCS Proving Grounds/2022 Season/Spring/Circuit Qualifier 2,2022-02-21,2022-03-15,North America,,Online,Proving Grounds Circuit,1,1
-LCS Proving Grounds/2022 Season/Spring/Open Qualifier 1,2022-01-10,2022-01-11,North America,,Online,Proving Grounds Circuit,1,1
-LCS Proving Grounds/2022 Season/Spring/Open Qualifier 2,2022-02-14,2022-02-15,North America,,Online,Proving Grounds Circuit,1,1
+Guardians League/2020 Season/Off Season Cup,2020-10-22,2020-11-06,Latin America,Peru,Online,Guardians League,1,1
+Guardians League/2020 Season/Opening Playoffs,2020-04-23,2020-05-08,Latin America,Peru,Online,Guardians League,1,1
 Guardians League/2020 Season/Opening Season,2020-01-23,2020-04-23,Latin America,Peru,Online,Guardians League,1,1
 Guardians League/2020 Season/Tiebreakers,2020-08-21,2020-08-21,Latin America,Peru,Online,Guardians League,1,1
 Gunnar Invitational,2012-11-24,2012-12-23,China,China,Online,,1,1
@@ -4904,8 +4910,8 @@ Intel Arabian Cup 2020/Jordan/Split 1,2020-05-29,2020-07-03,MENA,Jordan,,Intel A
 Intel Arabian Cup 2020/Jordan/Split 2,2020-07-07,2020-08-24,MENA,Jordan,,Intel Arabian Cup,1,1
 Intel Arabian Cup 2020/Kuwait,2020-05-29,2020-09-11,MENA,Kuwait,,Intel Arabian Cup,1,1
 Intel Arabian Cup 2020/Lebanon/Split 1,2020-05-29,2020-07-21,MENA,Lebanon,,Intel Arabian Cup,1,1
-Intel Arabian Cup 2020/Lebanon/Split 2,2020-07-24,2020-09-12,MENA,Lebanon,,Intel Arabian Cup,1,1
-Intel Arabian Cup 2020/Morocco/Split 1,2020-05-29,2020-07-11,MENA,Morocco,,Intel Arabian Cup,1,1
+Go4LoL/Brazil/2012/December,,,Brazil,,,ESL,,
+Go4LoL/Brazil/2012/November,,,Brazil,,,ESL,,
 Go4LoL/Brazil/2013/April,,,Brazil,,,ESL,,
 Go4LoL/Brazil/2013/August,,,Brazil,,,ESL,,
 Go4LoL/Brazil/2013/December,,,Brazil,,,ESL,,
@@ -5404,8 +5410,8 @@ Guardians League/2019 Season/Opening Season/Tournament 4,2019-07-13,2019-07-19,L
 Guardians League/2019 Season/Opening Season/Tournament 5,2019-07-27,2019-08-02,Latin America,Peru,Online,Guardians League,1,1
 Guardians League/2020 Season/Closing Playoffs,2020-07-23,2020-08-14,Latin America,Peru,Online,Guardians League,1,1
 Guardians League/2020 Season/Closing Season,2020-06-04,2020-07-17,Latin America,Peru,Online,Guardians League,1,1
-Guardians League/2020 Season/Off Season Cup,2020-10-22,2020-11-06,Latin America,Peru,Online,Guardians League,1,1
-Guardians League/2020 Season/Opening Playoffs,2020-04-23,2020-05-08,Latin America,Peru,Online,Guardians League,1,1
+EU LCS/Season 3/Summer Promotion/Qualifiers/Lille/Qualifier,2013-03-13,2013-03-14,Europe,,Online,Europe League Championship Series,1,1
+EU LCS/Season 3/Summer Promotion/Qualifiers/Ranked 5s,2013-04-12,2013-04-14,Europe,Germany,Online,Europe League Championship Series,1,1
 EU LCS/Season 3/Summer Season,2013-06-15,2013-08-17,Europe,Germany,Offline,Europe League Championship Series,1,1
 European Masters/2018 Season/Spring,2018-04-09,2018-04-29,Europe,,Online and Offline,,1,1
 European Masters/2018 Season/Spring/Main Event,2018-04-14,2018-04-29,Europe,,Online and Offline,European Masters,1,1
@@ -5904,8 +5910,8 @@ Go4LoL Pro Asia Season 1,2012-04-17,2012-05-31,SEA,China,Online/Weekly,ESL Pro S
 Go4LoL Pro Asia Season 2,2012-07-31,2012-08-24,China,China,Online/Weekly,ESL Pro Series,1,1
 Go4LoL Pro Asia Season 3,2012-10-11,2012-11-13,China,,Online,ESL Pro Series,1,1
 Go4LoL/Asia/2011/November,,2011-11-27,SEA,,,ESL,,1
-Go4LoL/Brazil/2012/December,,,Brazil,,,ESL,,
-Go4LoL/Brazil/2012/November,,,Brazil,,,ESL,,
+ESL Euro Series/Summer 2014,2014-07-29,2014-09-18,Europe,,Online,ESL Major Series,1,1
+ESL Euro Series/Winter 2014,2014-10-31,2014-12-09,Europe,,Online,ESL Major Series,1,1
 ESL EuroCup 2019/Finals,2019-10-30,2019-10-31,Europe,Italy,Offline,ESL EuroCup,1,1
 ESL EuroCup 2019/Playoffs,2019-09-03,2019-09-05,Europe,Italy,Online,ESL EuroCup,1,1
 ESL European Challenger Circuit: Poland,2012-07-28,2012-07-29,Europe,Poland,Offline,ESL,1,1
@@ -6404,8 +6410,8 @@ EU LCS/Season 3/Summer Playoffs,2013-08-23,2013-08-25,Europe,Germany,Offline,Eur
 EU LCS/Season 3/Summer Promotion,2013-05-03,2013-05-06,Europe,Germany,Offline,Europe League Championship Series,1,1
 EU LCS/Season 3/Summer Promotion/Qualifiers/Go4LoL,2013-03-31,2013-04-11,Europe,,Online,Europe League Championship Series,1,1
 EU LCS/Season 3/Summer Promotion/Qualifiers/Lille,2013-03-23,2013-03-24,Europe,France,Offline,Europe League Championship Series,1,1
-EU LCS/Season 3/Summer Promotion/Qualifiers/Lille/Qualifier,2013-03-13,2013-03-14,Europe,,Online,Europe League Championship Series,1,1
-EU LCS/Season 3/Summer Promotion/Qualifiers/Ranked 5s,2013-04-12,2013-04-14,Europe,Germany,Online,Europe League Championship Series,1,1
+Dell Gaming Championship SEA 2020,,,SEA,Thailand,,Dell Gaming Championship,,
+Dell Invitational Cup,2013-02-23,2013-02-24,SEA,Vietnam,Online,Dell Invitational Cup,1,1
 Dell Invitational Cup II,2013-04-27,2013-04-28,SEA,Vietnam,Online,Dell Invitational Cup,1,1
 Dell Invitational Cup III,2013-07-06,2013-07-07,SEA,Vietnam,Online,Dell Invitational Cup,1,1
 Dell Invitational Cup IV,2013-08-31,2013-09-01,SEA,Vietnam,Online,Dell Invitational Cup,1,1
@@ -6904,8 +6910,8 @@ ESL Dutch Championship/2019 Season/Winter Qualifiers/Qualifier 4,2019-09-05,2019
 ESL Dutch Championship/2019 Season/Winter Season,2019-09-23,2019-11-04,Europe,Netherlands,Online,ESL Dutch,1,1
 ESL Euro Series/Spring 2014,2014-03-08,2014-06-09,Europe,,Online,ESL Major Series,1,1
 ESL Euro Series/Summer 2013,2013-08-13,2013-10-24,Europe,,Online,ESL Major Series,1,1
-ESL Euro Series/Summer 2014,2014-07-29,2014-09-18,Europe,,Online,ESL Major Series,1,1
-ESL Euro Series/Winter 2014,2014-10-31,2014-12-09,Europe,,Online,ESL Major Series,1,1
+Circuito Nacional Perú/2020 Season/Opening Season/Tournament 3,2020-04-25,2020-04-26,Latin America,Peru,Online,Circuito Nacional Peru,1,1
+Circuito Nacional Perú/2020 Season/Opening Season/Tournament 4,2020-05-09,2020-05-10,Latin America,Peru,Online,Circuito Nacional Peru,1,1
 Circuito Nacional Perú/2021 Season/Closing Season,2021-06-05,2021-07-18,Latin America,Peru,Online,Circuito Nacional Peru,1,1
 Circuito Nacional Perú/2021 Season/Closing Season/Tournament 1,2021-06-05,2021-06-13,Latin America,Peru,Online,Circuito Nacional Peru,1,1
 Circuito Nacional Perú/2021 Season/Closing Season/Tournament 2,2021-06-19,2021-06-27,Latin America,Peru,Online,Circuito Nacional Peru,1,1
@@ -7404,8 +7410,8 @@ Dantes Invitational,2023-12-15,2023-12-20,North America,,Online,Dantes Invitatio
 Day1 Streamer Lift,2023-10-31,2023-10-31,Japan,Japan,Online,,1,1
 DDS League/2015 Season/Season 1,,,China,,,,,
 Defiance 2024,2024-08-17,2024-08-31,North America,,,Defiance,1,1
-Dell Gaming Championship SEA 2020,,,SEA,Thailand,,Dell Gaming Championship,,
-Dell Invitational Cup,2013-02-23,2013-02-24,SEA,Vietnam,Online,Dell Invitational Cup,1,1
+Cactus Cup/Qualifier 4,2020-10-17,2020-10-17,Europe,,Online,Nicecactus,1,1
+Campionato Piazza Esport/Playoffs,2020-11-16,2020-12-01,Europe,Italy,Online,Circuito Piazza eSports,1,1
 Campionato Piazza Esport/Qualifier,2020-09-19,2020-09-23,Europe,Italy,Online,Circuito Piazza eSports,1,1
 Campionato Piazza Esport/Regular Season,2020-10-12,2020-11-09,Europe,Italy,Online,Circuito Piazza eSports,1,1
 Campus Esports Challenger 2023,2023-02-09,2023-02-12,Vietnam,Vietnam,,,1,1
@@ -7904,8 +7910,9 @@ Circuito Nacional Perú/2020 Season/Closing Season/Tournament 4,2020-07-25,2020-
 Circuito Nacional Perú/2020 Season/Opening Season,2020-03-07,2020-05-10,Latin America,Peru,Online,Circuito Nacional Peru,1,1
 Circuito Nacional Perú/2020 Season/Opening Season/Tournament 1,2020-03-07,2020-03-15,Latin America,Peru,Online,Circuito Nacional Peru,1,1
 Circuito Nacional Perú/2020 Season/Opening Season/Tournament 2,2020-04-11,2020-04-12,Latin America,Peru,Online,Circuito Nacional Peru,1,1
-Circuito Nacional Perú/2020 Season/Opening Season/Tournament 3,2020-04-25,2020-04-26,Latin America,Peru,Online,Circuito Nacional Peru,1,1
-Circuito Nacional Perú/2020 Season/Opening Season/Tournament 4,2020-05-09,2020-05-10,Latin America,Peru,Online,Circuito Nacional Peru,1,1
+Alienware Arena North America: Winter,2012-02-06,2012-02-16,North America,,Online,Alienware,1,1
+Alienware Cup,2012-07-22,2012-07-22,Europe,,Online,Alienware,1,1
+Alienware Fall Brawl 1v1 Tournament,2014-09-13,2014-09-14,North America,,Online,,1,1
 Alienware Game Arena/North America/2018 Season/Championship,2018-12-01,2018-12-01,North America,United States,Online,Alienware,1,1
 Alienware Game Arena/North America/2018 Season/Online Qualifier,2018-10-13,2018-11-04,North America,United States,Online,Alienware,1,1
 Alienware Season Fall 2011 Champions,,,North America,,,,,
@@ -7953,7 +7960,6 @@ AORUS League 2018/Cono Sur,2018-03-03,2018-09-16,LAS,,Online,AUROS League,1,1
 AORUS League 2018/Cono Sur/Tournament 1,2018-03-03,2018-03-25,LAS,,Online,AUROS League,1,1
 AORUS League 2018/Cono Sur/Tournament 2,2018-05-26,2018-06-10,LAS,,Online,AUROS League,1,1
 AORUS League 2018/Cono Sur/Tournament 3,2018-09-01,2018-09-16,LAS,,Online,AUROS League,1,1
-APAC League/2025 Season/Split 1,,,Asia Pacific,Taiwan,,APAC League,,
 APG Premier League/Season 2,2013-06-01,2013-08-11,China,,Online,APG Premier League,1,1
 Arab Esports League/2021 Season/Spring,2021-03-19,2021-03-21,MENA,,,Arab Esports League,1,1
 Arab Esports League/2021 Season/Spring/Qualifiers,2021-02-18,2021-03-11,MENA,,,Arab Esports League,1,1
@@ -8404,8 +8410,6 @@ Cactus Cup/Final,2020-10-24,2020-10-24,Europe,,Online,Nicecactus,1,1
 Cactus Cup/Qualifier 1,2020-09-26,2020-09-26,Europe,,Online,Nicecactus,1,1
 Cactus Cup/Qualifier 2,2020-10-03,2020-10-03,Europe,,Online,Nicecactus,1,1
 Cactus Cup/Qualifier 3,2020-10-10,2020-10-10,Europe,,Online,Nicecactus,1,1
-Cactus Cup/Qualifier 4,2020-10-17,2020-10-17,Europe,,Online,Nicecactus,1,1
-Campionato Piazza Esport/Playoffs,2020-11-16,2020-12-01,Europe,Italy,Online,Circuito Piazza eSports,1,1
 14aine Esport,2020-04-14,2020-04-26,Europe,France,Online,14aine Esport,1,1
 178.com LoL Pro League/Season 1,2011-10-17,2011-10-26,China,China,Online,178.com LoL Pro League,1,1
 2010 World Cyber Games,2010-09-30,2010-10-03,International,United States,Offline,World Cyber Games,1,1
@@ -8711,6 +8715,7 @@ Campionato Piazza Esport/Playoffs,2020-11-16,2020-12-01,Europe,Italy,Online,Circ
 2023 KeG Championship,2023-08-19,2023-08-20,Korea,South Korea,Online,KeG Championship,1,1
 2023 Mastercard x SNACK Champions Open,2023-02-25,2023-02-26,PCS,Singapore,Offline,,1,1
 2023 Mid-Season Invitational,2023-05-02,2023-05-21,International,United Kingdom,Offline,Mid-Season Invitational,1,1
+2023 Red Bull League of Its Own,2023-12-09,2023-12-09,International,Germany,Offline,Red Bull League of Its Own,1,1
 2023 Season Kickoff,2022-12-29,2023-01-11,International,,Online/Offline,Season 2023 Kickoff,1,1
 2023 Season Kickoff/Brazil,2023-01-10,2023-01-10,Brazil,Brazil,Offline,Season 2023 Kickoff,1,1
 2023 Season Kickoff/China,2023-01-11,2023-01-11,China,China,Offline,Season 2023 Kickoff,1,1
@@ -8740,6 +8745,7 @@ Campionato Piazza Esport/Playoffs,2020-11-16,2020-12-01,Europe,Italy,Online,Circ
 2024 KeG Championship,2024-08-17,2024-08-18,Korea,South Korea,Online,KeG Championship,1,1
 2024 Mid-Season Invitational,2024-05-01,2024-05-19,International,China,Offline,Mid-Season Invitational,1,1
 2024 Pre-Summer Event Match,2024-05-20,2024-05-20,International,South Korea,Offline,,1,1
+2024 Red Bull League of Its Own,2024-12-15,2024-12-15,International,France,Offline,Red Bull League of Its Own,1,1
 2024 Season World Championship,2024-09-25,2024-11-02,International,,Offline,World Championship,1,1
 2024 Season World Championship/Main Event,2024-10-03,2024-11-02,International,,Offline,World Championship,1,1
 2024 Season World Championship/Play-In,2024-09-25,2024-09-29,International,,Offline,World Championship,1,1
@@ -8868,8 +8874,9 @@ ACL Sydney 2014,2014-07-19,2014-07-20,Oceania,Australia,Offline,Australian Cyber
 Aegis Champion League/2023 Season/Fall Playoffs,2023-11-10,2023-12-15,North America,United States,Online,Aegis Champion League,1,1
 Aegis Champion League/2023 Season/Fall Season,2023-09-22,2023-11-04,North America,United States,Online,Aegis Champion League,1,1
 Aegis Champion League/2023 Season/Summer Playoffs,2023-07-24,2023-08-18,North America,United States,Online,Aegis Champion League,1,1
+Aegis Champion League/2023 Season/Summer Playoffs,2023-07-24,2023-08-18,North America,United States,Online,Aegis Champion League,1,1
 Aegis Champion League/2023 Season/Summer Season,2023-06-02,2023-07-21,North America,United States,Online,Aegis Champion League,1,1
-Aegis Champion League/2024 Season/Summer Season,2024-02-21,2024-04-05,North America,United States,Online,Aegis Champion League,1,1
+Aegis Champion League/2024 Season/Fall Season,2024-09-27,2024-11-19,North America,United States,Online,Aegis Champion League,1,1
 Aegis Champion League/2024 Season/Winter Playoffs,2024-04-12,2024-05-10,North America,United States,Online,Aegis Champion League,1,1
 Aegis Champion League/2024 Season/Winter Season,2024-02-21,2024-04-05,North America,United States,Online,Aegis Champion League,1,1
 AESF e-Masters Chengdu 2020,,,Asia,China,,AESF e-Masters,,
@@ -8903,6 +8910,3 @@ Alienware Arena Europe: Fall,2011-11-26,2011-12-08,Europe,,Online,Alienware,1,1
 Alienware Arena Europe: Spring,2012-04-21,2012-05-03,Europe,,Online,Alienware,1,1
 Alienware Arena Europe: Winter,2012-02-04,2012-02-16,Europe,,Online,Alienware,1,1
 Alienware Arena North America: Spring,2012-04-21,2012-05-03,North America,,Online,Alienware,1,1
-Alienware Arena North America: Winter,2012-02-06,2012-02-16,North America,,Online,Alienware,1,1
-Alienware Cup,2012-07-22,2012-07-22,Europe,,Online,Alienware,1,1
-Alienware Fall Brawl 1v1 Tournament,2014-09-13,2014-09-14,North America,,Online,,1,1

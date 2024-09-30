@@ -9,6 +9,7 @@ def teams_loader(**kwargs):
     for row in teams.itertuples(index=None,name=None):
         cur.execute("INSERT INTO teams VALUES (%s, %s, %s, %s, %s, %s)", row)
     cur.close()
+    kwargs.get("db_con").commit()
     return
 
 def players_loader(**kwargs):
@@ -33,6 +34,7 @@ def players_loader(**kwargs):
                 allname_table = (row.Player, name)
                 cur.execute("""INSERT INTO playerspronames VALUES (%s, %s)""", allname_table)
     cur.close()
+    kwargs.get("db_con").commit()
     return 
 
 def tournaments_loader(**kwargs):
@@ -48,6 +50,8 @@ def tournaments_loader(**kwargs):
         print(parameters)
         cur.execute("INSERT INTO tournaments VALUES (%s, %s, %s, %s, %s, %s, %s)", parameters)
     cur.close()
+    kwargs.get("db_con").commit()
+
     return 
 
 def tournamentresults_loader(**kwargs):
@@ -64,6 +68,8 @@ def tournamentresults_loader(**kwargs):
         print(parameters)
         cur.execute("INSERT INTO tournamentresults VALUES (%s, %s, %s, %s)", parameters)
     cur.close()
+    kwargs.get("db_con").commit()
+
     return
 
 def scoreboardgames_loader(**kwargs):
@@ -94,6 +100,8 @@ def scoreboardgames_loader(**kwargs):
             team2_picks = (row.GameId, row.team2, team2picks[idx], role)
             cur.execute("INSERT INTO gamepicks VALUES (%s, %s, %s, %s)", team1_picks)
             cur.execute("INSERT INTO gamepicks VALUES (%s, %s, %s, %s)", team2_picks)
+    cur.close()
+    kwargs.get("db_con").commit()
     return
 def main():
     conn = psycopg2.connect(database=Variable.get("ETL_dbname"),

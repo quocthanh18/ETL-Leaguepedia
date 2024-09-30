@@ -139,19 +139,9 @@ scoreboardgames_loader = PythonOperator(
     dag=dag,
     op_kwargs=site_dict
 )
-def commit(**kwargs):
-    conn = kwargs.get("db_con")
-    conn.commit()
-    return
-commit = PythonOperator(
-    task_id='commit',
-    python_callable=commit,
-    dag=dag,
-    op_kwargs=site_dict
-)
 
-# [teams_extractor, tournaments_extractor, tournamentresults_extractor, player_extractor, scoreboardgames_extractor] >> tournament_transformer
-# tournament_transformer >> [players_transformer, teams_transformer, tournamentresults_transformer, scoreboardgames_transformer] >> tables_creator
-# tables_creator >> [teams_loader, players_loader, tournaments_loader, scoreboardgames_loader] >> tournamentresults_loader >> commit
-tournamentresults_loader >> commit
+
+[teams_extractor, tournaments_extractor, tournamentresults_extractor, player_extractor, scoreboardgames_extractor] >> tournament_transformer
+tournament_transformer >> [players_transformer, teams_transformer, tournamentresults_transformer, scoreboardgames_transformer] >> tables_creator
+tables_creator >> [teams_loader, players_loader, tournaments_loader, scoreboardgames_loader] >> tournamentresults_loader
 

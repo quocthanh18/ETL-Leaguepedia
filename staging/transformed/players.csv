@@ -1,5 +1,7 @@
 Player,Country,Birthdate,ResidencyFormer,Team,Residency,Role,FavChamps,RoleLast,IsRetired,ToWildrift,Birthdate__precision,AllName
-Panj,Serbia,1998-08-30,Europe,,EMEA,Coach,,Coach,False,False,1.0,"Panj247, Panj"
+Pangjin,South Korea,2001-01-06,,,Korea,Bot,,Bot,False,False,1.0,"Pangjin, A1daed, PanG jin"
+PanikaWoW,Slovakia,,Europe,,EMEA,Jungle,,Jungle,False,False,,PanikaWoW
+Panj,Serbia,1998-08-30,Europe,,EMEA,Coach,,Coach,False,False,1.0,"Panj, Panj247"
 Panky (Christopher Pankhurst),United Kingdom,1992-03-05,,,Europe,Caster,,Caster,True,False,1.0,Panky (Christopher Pankhurst)
 Panky (Uğur Taş),Turkey,1996-01-17,,,Turkey,Top,"Poppy,Camille,Rumble,Gnar",Top,True,False,1.0,Panky (Uğur Taş)
 Pann,Germany,,Europe,E WIE EINFACH E-SPORTS,EMEA,Support,,Support,False,False,,"Pann, Maximilian, Pan (Maximilian Abels)"
@@ -17,7 +19,7 @@ PapaSmithy,Qatar,1987-01-26,Oceania,FlyQuest,PCS,Manager,"Rumble,Alistar,Ezreal"
 Papil,Greece,2002-12-19,Europe,Pegasus Esports,EMEA,Support,,Support,False,False,1.0,"Papil, PapilGRE"
 papillon,China,,,,China,Jungle,,Jungle,True,False,,"Papillon, Fiend, Monsters (Tang Hai-Qin), Ocean (Tang Hai-Qin)"
 PapiSosa,Mexico,1997-06-27,,Movistar R7,Latin America,Streamer,,Content Creator,False,False,1.0,PapiSosa
-Papiteero,Portugal,2003-09-20,Europe,,EMEA,Top,,Top,False,False,1.0,Papiteero
+Papiteero,Portugal,2003-09-20,Europe,Anorthosis Famagusta Esports,EMEA,Top,,Top,False,False,1.0,Papiteero
 papryze,Australia,,Oceania,,Asia Pacific,Top,"Riven,Camille,Ryze,Akali",Top,False,False,,Papryze
 Parad1sE,Taiwan,,,,LMS,Support,,Support,True,False,,Parad1sE
 Paradox (Dimitris Tsiavos),Greece,,,,Europe,Bot,"Kai'Sa,Xayah,Kalista,Sivir",Bot,True,False,,Paradox (Dimitris Tsiavos)
@@ -93,7 +95,7 @@ Pawko,Poland,2001-05-15,,,Europe,Bot,Ezreal,Bot,True,False,1.0,Pawko
 PawN,South Korea,1997-01-26,,,Korea,Coach,"Fizz,Nidalee,Jayce",Coach,False,False,1.0,"PawN, WonSEok, WonSuck"
 Pawned,Spain,,Europe,,EMEA,Coach,,Assistant Coach,False,False,,Pawned
 PawnGypsy,United States,1993-02-09,,,North America,Top,"Rengar,Olaf,Irelia",Top,True,False,1.0,PawnGypsy
-pawp,Turkey,2000-06-10,Europe,,EMEA,Jungle,"Lee Sin,Nidalee,Jarvan IV,Rek'Sai",Jungle,False,False,1.0,Pawp
+pawp,Turkey,2000-06-10,Europe,Brod &amp; Friends,EMEA,Jungle,"Lee Sin,Nidalee,Jarvan IV,Rek'Sai",Jungle,False,False,1.0,Pawp
 Paws,Australia,,,,Oceania,Support,,Support,True,False,,Paws
 Pawsu,United States,,,,North America,Bot,,Bot,True,False,,Pawsu
 Paxii,Germany,1996-08-30,Europe,BRUTE,EMEA,Coach,,Positional Coach,False,False,1.0,Paxii
@@ -185,7 +187,7 @@ PerfectBeing,Tunisia,2001-02-02,,,EMEA,Mid,,Mid,False,False,1.0,"PerfectBeing, L
 Perfection (Jan Lüdiger),Germany,,,,Europe,Jungle,,Jungle,True,False,,Perfection (Jan Lüdiger)
 Perfume,Taiwan,,,,LMS,Support,,Support,True,False,,Perfume
 Perhapstky,Hong Kong,,,,LMS,Support,,Support,True,False,,"Perhapstky, Perhaps"
-Pericolo,Italy,2001-01-08,,Lobstar,EMEA,,"Draven,Jhin,Varus,Aphelios",Bot,False,False,1.0,Pericolo
+Pericolo,Italy,2001-01-08,,Lobstar,EMEA,Bot,"Draven,Jhin,Varus,Aphelios",Bot,False,False,1.0,Pericolo
 Perisha,Serbia,,,,Europe,Support,,Support,True,False,,Perisha
 PerkyPie,United States,,,,North America,Bot,,Bot,False,False,,PerkyPie
 Perkz,Croatia,1998-09-30,Europe,,EMEA,Mid,"Lucian,Yasuo,LeBlanc",Mid,False,False,1.0,"Perkz, Luka the Bazooka, Perks, Uma Jan"
@@ -291,9 +293,10 @@ Piccione,Italy,,Europe,,EMEA,Mid,,Mid,False,False,,Piccione
 Pick,Finland,1998-09-02,,,Europe,Support,Braum,Support,True,False,1.0,Pick
 Picknn,Brazil,,,,Brazil,Mid,,Mid,False,False,,Picknn
 Picoca,Brazil,,,,Brazil,Streamer,"Twisted Fate,Anivia,Nidalee",Streamer,True,False,,Picoca
-Pieck,Mexico,,LAN,,Latin America,Bot,,Bot,True,False,,"Pieck, Nymue, Venus (Roberto Galán)"
-Piemaster,United States,,,,North America,Bot,,Bot,True,False,,Piemaster
-Pier0,Peru,2000-11-02,,,Latin America,Support,,Support,True,False,1.0,"Pier0, Chocotejin"
+Pieck,Mexico,,LAN,,Latin America,Bot,,Bot,True,False,,Pieck
+Oc,Vietnam,,Southeast Asia,,Vietnam,Support,Thresh,Support,True,False,,"Oc, OcVoDich, Sol (Trần Đức Huy)"
+Ocana,Spain,,Europe,,EMEA,Top,,Top,False,False,,Ocana
+Ocaust,Romania,2000-07-06,,Gamers404,EMEA,Top,,Top,False,False,1.0,Ocaust
 Occlumats,Italy,1994-08-08,Europe,,EMEA,Top,"Ornn,Renekton,Swain,Aatrox,Urgot",Top,False,False,1.0,Occlumats
 Ocean (Nicolás Pérez),Chile,,,,Latin America,Jungle,,Jungle,False,False,,"Ocean (Nicolás Pérez), OcyaN"
 Oceann,Portugal,2002-03-09,Europe,Grow uP eSports,EMEA,Bot,"Kai'Sa,Xayah,Ezreal",Bot,False,False,1.0,Oceann
@@ -340,7 +343,7 @@ Oktopus,Iceland,1995-10-06,,,Europe,Bot,"Caitlyn,Sivir,Kai'Sa,Tristana",Bot;Mana
 Olcham,South Korea,2006-11-01,,,Korea,Mid,,Mid,False,False,1.0,Olcham
 OldB,South Korea,,,,Korea,Jungle,,Jungle,True,False,,"OldB, Combo, Old B"
 Oleg (Oleg Borisov),Russia,1998-02-13,,,CIS,Mid,"Orianna,Zoe,Galio,Fizz",Mid,True,False,1.0,Oleg (Oleg Borisov)
-Oleg (Oleg Karkachev),Russia,2004-04-08,CIS,eSports Cologne e.V.,EMEA,Jungle,"Taliyah,Orianna,Yasuo,Bel'Veth,Udyr",Jungle,False,False,1.0,"Oleg (Oleg Karkachev), Antik, Antvikosmall"
+Oleg (Oleg Karkachev),Russia,2004-04-08,CIS,Venomcrest Esports,EMEA,Jungle,"Taliyah,Orianna,Yasuo,Bel'Veth,Udyr",Jungle,False,False,1.0,"Oleg (Oleg Karkachev), Antik, Antvikosmall"
 Olejka Carry,Russia,,,,CIS,Support,,Support,True,False,,Olejka Carry
 Oliver,United Kingdom,,,,Europe,Support,,Support,True,False,,"Oliver, Oli (Oli Colletti), Olıver"
 Oliver (Oliver Sufia),Venezuela,,,Janus Panter,Latin America,Top,,Top,False,False,,"Oliver (Oliver Sufia), Shym"
@@ -548,7 +551,7 @@ Pain (Giulio Siena),Italy,,Europe,,EMEA,Mid,Zed,Mid,False,False,,"Pain (Giulio S
 Pain (Lê Quốc Anh),Vietnam,,,Team Secret (Vietnamese Team),Vietnam,Bot,,Bot,False,False,,"Pain (Lê Quốc Anh), Pain5"
 pain (Pang Kun-Long),China,,,,China,Support,,Support,False,False,,Pain (Pang Kun-Long)
 Pain (Radhi Nadim Garma),Tunisia,,,,,Support,,Support,True,False,,"Pain (Radhi Nadim Garma), Painlolz"
-Painful,Sweden,,Europe,Nativz,EMEA,Mid,,Mid,False,False,,Painful
+Painful,Sweden,,Europe,Venomcrest Esports,EMEA,Mid,,Mid,False,False,,Painful
 Painless,United States,,,,North America,Support,,Support,True,False,,Painless
 PainN,Spain,1997-07-19,,,Europe,Mid,,Mid,True,False,1.0,"PainN, PaaiinN, Paiin, PaiinN"
 Painshell,Philippines,,,Converse University,Asia Pacific,Mid,,Mid,False,False,,"Painshell, Duckman"
@@ -599,9 +602,10 @@ Pandar,Germany,1995-02-16,Europe,DKB XPERION NXT RAW,EMEA,Coach,"Thresh,Rakan,Ca
 PandasLove,Colombia,,,,Latin America,Jungle,,Jungle,True,False,,PandasLove
 Pandora,Brazil,2000-12-27,,,Brazil,Support,,Support,True,False,1.0,Pandora
 Panduro,Chile,,,,LAS,Mid,,Mid,True,False,,Panduro
-Pangjin,South Korea,2001-01-06,,,Korea,Bot,,Bot,False,False,1.0,"Pangjin, A1daed, PanG jin"
-PanikaWoW,Slovakia,,Europe,,EMEA,Jungle,,Jungle,False,False,,PanikaWoW
-Nio,Germany,2000-11-07,Europe,MOUZ NXT,EMEA,Support,,Support,False,False,1.0,"Nio3, Nio"
+NintendudeX,United States,1995-07-28,,,North America,Jungle,"Olaf,Riven",Jungle,True,False,1.0,"NDudeX, Nintendude, NintendudeX"
+Ninyamn,Chile,,,,LAS,Mid,,Mid,True,False,,Ninyamn
+Ninyo,Israel,,,,,Jungle,,Jungle,True,False,,Ninyo
+Nio,Germany,2000-11-07,Europe,MOUZ NXT,EMEA,Support,,Support,False,False,1.0,"Nio, Nio3"
 Niomode,Greece,1998-12-02,,,Europe,Support,Leona,Support,True,False,1.0,Niomode
 Nios,,2005-11-19,,,EMEA,Jungle,,Jungle,False,False,1.0,Nios
 Nipphu,Argentina,1994-09-23,Latin America South,,Latin America,Top,"Tryndamere,Vladimir",Top,False,False,1.0,Nipphu
@@ -623,7 +627,7 @@ Nite (Ardian Spahiu),Germany,1998-05-25,Europe,Kaufland Hangry Knights,EMEA,Mid,
 Nith,Argentina,,,,Latin America,Top,,Top,True,False,,Nith
 Nithien,Portugal,,,,Europe,Top,,Top,True,False,,Nithien
 Nitinho,Portugal,,,,Europe,Support,"Thresh,Nautilus,Janna",Support,True,False,,Nitinho
-Nitjit,France,,Europe,Venomcrest Esports,EMEA,Bot,,Bot,False,False,,Nitjit
+Nitjit,France,,Europe,,EMEA,Bot,,Bot,False,False,,Nitjit
 Niton,Poland,2004-12-25,,,EMEA,Jungle,,Jungle,False,False,1.0,Niton
 NitriX,United Kingdom,1996-08-30,,,Europe,Top,"Lee Sin,Jayce",Top,True,False,1.0,NitriX
 nitro,Germany,,Europe,,EMEA,Coach,,Mid,False,False,,"Nitro, Nitrowastaken"
@@ -892,9 +896,10 @@ Obsess,Germany,1997-08-23,Europe,VfB eSports,EMEA,Jungle,,Jungle,False,False,1.0
 Obsessed,Argentina,,,,Latin America,Jungle,,Jungle,True,False,,Obsessed
 Obstinatus,Portugal,2002-12-13,Europe,UCAM Esports,EMEA,Support,,Support,False,False,1.0,Obstinatus
 Obvious,Denmark,,,,Europe,Jungle,"Elise,Kha'Zix,Lee Sin",Jungle,True,False,,"Obvious, Obv (Dennis Sørensen)"
-Oc,Vietnam,,Southeast Asia,,Vietnam,Support,Thresh,Support,True,False,,"Oc, OcVoDich, Sol (Trần Đức Huy)"
-Ocana,Spain,,Europe,,EMEA,Top,,Top,False,False,,Ocana
-Ocaust,Romania,2000-07-06,,Gamers404,EMEA,Top,,Top,False,False,1.0,Ocaust
+NanCheon,South Korea,1999-01-29,,,Korea,Coach,,Coach,False,False,1.0,"Earlgrey, NanCheon"
+Nandisko,Spain,,,,Europe,Top,"Gangplank,Fiora,Riven",Top,True,False,,"Nandisko, Nandisk0"
+Nando,Spain,,,,Europe,Coach,,Head Coach,True,False,,Nando
+Nani,Canada,,,Mirage Alliance Baguette,North America,Jungle,,Jungle,False,False,,Nani
 Naniinaa,Netherlands,2001-07-28,,,EMEA,Manager,"Miss Fortune,Jhin,Volibear",Manager,False,False,1.0,Naniinaa
 Nannini,Venezuela,2001-10-05,,Janus Panter,Latin America,Bot,,Bot,False,False,1.0,Nannini
 Nano (Albert Wuelleh),United States,,,ConViction,North America,Coach,,Head Coach;Mid,False,False,,Nano (Albert Wuelleh)
@@ -970,7 +975,7 @@ Navatar,Greece,2002-11-20,Europe,,EMEA,Jungle,"Rek'Sai,Hecarim,Lee Sin,Diana",Ju
 Navi (Kevin Artavia),Costa Rica,,,,Latin America,Bot,,Bot,True,False,,Navi (Kevin Artavia)
 Navio,Germany,1999-12-20,,,Europe,Mid,"Vayne,Riven,Jhin",Mid,True,False,1.0,Navio
 Navy,Vietnam,,SEA,,Vietnam,Streamer,,Content Creator,False,False,,Navy
-Nawa,Turkey,2006-06-30,Turkey,,EMEA,Bot,,Bot,False,False,1.0,Nawa
+Nawa,Turkey,2006-06-30,Turkey,NASR eSports Turkey,EMEA,Bot,,Bot,False,False,1.0,Nawa
 Nawaf,Saudi Arabia,2002-03-20,,Baam Esports,EMEA,Bot,,Bot,False,False,1.0,"Nawaf, ALJUAID"
 Naxfer,Ecuador,,,,Latin America,Top,,Top,True,False,,Naxfer
 Naxyy,Denmark,,Europe,,EMEA,Bot,,Bot,False,False,,"Naxyy, Jensen (Christian Jensen), JensenJR"
@@ -984,7 +989,7 @@ Naz (Chen Tien-Chih),Taiwan,1993-12-01,,,LMS,Manager,"Lee Sin,Ryze,Nocturne",CEO
 Naz (Matias Costanzo),Argentina,2001-06-25,,,Latin America,Jungle,,Jungle,True,False,1.0,Naz (Matias Costanzo)
 Nazgul,Serbia,2000-10-04,Europe,,EMEA,Top,,Top,False,False,1.0,Nazgul
 Nazrat,Bulgaria,2003-07-28,Europe,Colors Esport,EMEA,Mid,,Mid,False,False,1.0,"Nazrat, Alien (Pavel Yotov)"
-NBA,Russia,2004-07-30,,Fly5,EMEA,Bot,"Kai'Sa,Zeri,Samira",Bot,False,False,1.0,NBA
+NBA,Russia,2004-07-30,,FLY5,EMEA,Bot,"Kai'Sa,Zeri,Samira",Bot,False,False,1.0,NBA
 nBeezy,Germany,,Europe,,EMEA,Top,,Top,False,False,,NBeezy
 Nbs,Lithuania,1990-08-13,,,Europe,Top,"Jayce,Malphite,Elise,Kennen",Top,True,False,1.0,"Nbs, Nbslol"
 Ncsk,South Korea,2003-01-10,,,Korea,Bot,,Bot,False,False,1.0,Ncsk
@@ -1003,7 +1008,7 @@ neca247,Serbia,,,,Europe,Bot,,Bot,True,False,,"Neca247, Neca, Nemanja247"
 Necro (Richard Hyža),Slovakia,2003-12-16,Europe,,EMEA,Mid,,Mid,False,False,1.0,"Necro (Richard Hyža), Necropolisa, Necropolisak"
 Necromartin,Slovakia,1995-07-17,Europe,,EMEA,Top,"Jayce,Gnar,Gangplank,Kayle",Top,False,False,1.0,"Necromartin, Necro (Martin Jucha)"
 Nectaar,Australia,,Oceania,,Asia Pacific,Top,,Top,False,False,,Nectaar
-Nedara,Serbia,,Europe,Crvena zvezda Esports,EMEA,Support,,Support,False,False,,Nedara
+Nedara,Serbia,,Europe,,EMEA,Support,,Support,False,False,,Nedara
 Nedge,China,,,,China,Top,,Top,True,False,,"Nedge, Ruizz"
 Neeck,Argentina,,,,LAS,Mid,,Mid,True,False,,Neeck
 Neep,Indonesia,1997-06-23,,,SEA,Support,"Alistar,Zyra,Morgana",Support,True,True,1.0,Neep
@@ -1037,7 +1042,7 @@ Nemky,Serbia,,Europe,,EMEA,Coach,,Head Coach,False,False,,Nemky
 Nemo,China,2000-01-06,,,North America,Streamer,,Content Creator,False,False,1.0,Nemo
 Nemo (Nguyễn Phạm Hoàng Long),Vietnam,2004-11-25,,,Vietnam,Bot,,Bot,False,False,1.0,Nemo (Nguyễn Phạm Hoàng Long)
 Nemoh,Japan,1999-09-18,Japan,Riot Games Inc.,Asia Pacific,Caster,,Color Caster,False,False,1.0,"Nemoh, 弱者ネ申"
-Nenad,Serbia,2004-02-11,,Partizan Esports,EMEA,Top,"Darius,Sett,K'Sante",Top,False,False,1.0,Nenad
+Nenad,Serbia,2004-02-11,,Crvena zvezda Esports,EMEA,Top,"Darius,Sett,K'Sante,Olaf",Top,False,False,1.0,Nenad
 Nene,Peru,,Latin America North,,Latin America,Mid,,Mid,True,False,,"Nene, Janoz, Nen3"
 Nenris,Germany,2001-06-28,Europe,Team BDS Valkyries,EMEA,Bot,,Bot,False,False,1.0,"Nenris, Nenrislol"
 neny,China,2003-09-28,,Invictus Gaming,China,Mid,,Mid,False,False,1.0,Neny
@@ -1174,7 +1179,7 @@ NikeZ,Chile,,,,LAS,Jungle,"Hecarim,Vi",Jungle,True,False,,"NikeZ, NıkeZ"
 Niki (Abdelkarim Ibnoumoutahar),Morocco,,,,EMEA,Top,,Top,False,False,,"Niki (Abdelkarim Ibnoumoutahar), Ich bin Niki, Ňiki"
 Niki (Nicolas Lehner),Czech Republic,,Europe,,EMEA,Support,,Support,False,False,,"Niki (Nicolas Lehner), Niki je bůh, NikiJeBug"
 Nikitou,Spain,2007-05-26,,,EMEA,Jungle,,Jungle,False,False,1.0,Nikitou
-Nikiyas,Greece,,,,EMEA,Bot,,Bot,False,False,,Nikiyas
+Nikiyas,Greece,,,FoxFire (Turkish Team),EMEA,Bot,,Bot,False,False,,Nikiyas
 Niko (Nikola Slaný),Czech Republic,,Europe,,EMEA,Top,,Top,False,False,,"Niko (Nikola Slaný), Unlucky (Nikola Slaný), Unlucky Niko"
 Niko (Nikolay Forkin),Venezuela,1992-05-04,,,North America,Top,,Top,True,False,1.0,Niko (Nikolay Forkin)
 Niko3333,Denmark,1993-02-02,,,Europe,Support,"Lulu,Zyra",Support,True,False,1.0,Niko3333
@@ -1215,10 +1220,10 @@ Nino (Giannis Konomis),Greece,2006-01-23,Europe,Team Insidious,EMEA,Top,,Top,Fal
 Niño Palo,Spain,1995-11-25,Europe,,EMEA,Bot,,Bot,False,False,1.0,"Niño Palo, Raziel"
 Niño Rata,Colombia,,,,LAN,Support,,Support,True,False,,Niño Rata
 Ninten,Spain,,Europe,,EMEA,Support,"Morgana,Thresh,Leona,Nami",Support,False,False,,"Ninten, Ninten2k, Nintendo, Nintendokun"
-NintendudeX,United States,1995-07-28,,,North America,Jungle,"Olaf,Riven",Jungle,True,False,1.0,"NintendudeX, NDudeX, Nintendude"
-Ninyamn,Chile,,,,LAS,Mid,,Mid,True,False,,Ninyamn
-Ninyo,Israel,,,,,Jungle,,Jungle,True,False,,Ninyo
-Monrobbo,United Kingdom,2000-01-07,,,Europe,Mid,,Mid,True,False,1.0,"Manrobbo, Monrobbo"
+Mono,Germany,,,,EMEA,Bot,,Bot,False,False,,Mono
+Monokotiledon,Turkey,,,,Turkey,Top,,Top,True,False,,Monokotiledon
+monoxide,United States,,,,North America,Jungle,,Jungle,False,False,,"Monoxide, Pete"
+Monrobbo,United Kingdom,2000-01-07,,,Europe,Mid,,Mid,True,False,1.0,"Monrobbo, Manrobbo"
 Monsieur,Venezuela,1998-01-14,Latin America North,,Latin America,Mid,"Viktor,Xerath,Lucian,Taliyah",Mid,True,False,1.0,"Monsieur, The World 21"
 Monster (Wang Jia-Ming),China,,,,China,Coach,,Head Coach,True,False,,Monster (Wang Jia-Ming)
 Monstrob,France,1998-07-05,Europe,Once Upon A Team,EMEA,Mid,,Mid,False,False,1.0,Monstrob
@@ -1428,7 +1433,7 @@ Mxe,Turkey,2003-01-13,Turkey,Ramboot Club,EMEA,Support,,Support,False,False,1.0,
 mxx,China,,,Team WE Academy,China,Jungle,,Jungle,False,False,,Mxx
 My name is luke,Austria,,,,Europe,Bot,,Bot,True,False,,My name is luke
 Myaiachii,Netherlands,1999-05-28,Europe,,EMEA,Support,"Kha'Zix,Lee Sin,Alistar",Support,False,False,1.0,Myaiachii
-MyCash,Czech Republic,,Europe,Fly5,EMEA,Top,,Top,False,False,,MyCash
+MyCash,Czech Republic,,Europe,FLY5,EMEA,Top,,Top,False,False,,MyCash
 Myckio,France,,Europe,,EMEA,Bot,,Bot,False,False,,Myckio
 MyCurse,Chile,,,,Latin America,Mid,,Mid,True,False,,MyCurse
 MyDog II,Hong Kong,,,,LMS,Support,,Support,True,False,,"MyDog II, MyDoGg IV"
@@ -1518,7 +1523,7 @@ Naka,Colombia,,,,LAN,Support,,Support,True,False,,Naka
 Nakar,Poland,2003-08-01,Europe,,EMEA,Support,"Rakan,Renata Glasc,Leona",Support,False,False,1.0,"Nakar, Nakarek"
 Naked,France,,,,Europe,Mid,,Mid,True,False,,Naked
 Nakhla,Tunisia,,,,EMEA,Mid,,Mid,False,False,,"Nakhla, Chjra, Najib, Nakhlaaa, Nakla, Palm Treee"
-Nakimura,Egypt,,,Pegasus Esports,EMEA,,,Jungle,False,False,,Nakimura
+Nakimura,Egypt,,,Pegasus Esports,EMEA,Jungle,,Jungle,False,False,,Nakimura
 Nakji (Yoo Suk-jin),South Korea,1996-09-14,,,Korea,Mid,,Mid,True,False,1.0,Nakji (Yoo Suk-jin)
 Nako (Cristian Flores),Chile,,,,Latin America,Mid,,Mid,False,False,,Nako (Cristian Flores)
 Nakuteiken,Canada,,,,North America,Jungle,,Jungle,True,False,,Nakuteiken
@@ -1547,10 +1552,9 @@ Nana7,Hong Kong,,,,China,Support,"Janna,Lulu,Yuumi,Sona",Support,False,False,,Na
 Nanaite,Brazil,2005-02-24,,Laranja Mecânica,Brazil,Support,Thresh,Support,False,False,1.0,Nanaite
 Nanaue (Phùng Đức Tài),Vietnam,2006-06-14,,Vikings Esports (2023 Vietnamese Team),Vietnam,Top,,Top,False,False,1.0,"Nanaue (Phùng Đức Tài), Đức Tài (Nanaue), Hoopa (Phùng Đức Tài), Lost (Phùng Đức Tài)"
 Nanaue (Zac Nanaue),Brazil,,,,Brazil,Jungle,,Jungle,True,False,,Nanaue (Zac Nanaue)
-NanCheon,South Korea,1999-01-29,,,Korea,Coach,,Coach,False,False,1.0,"NanCheon, Earlgrey"
-Nandisko,Spain,,,,Europe,Top,"Gangplank,Fiora,Riven",Top,True,False,,"Nandisko, Nandisk0"
-Nando,Spain,,,,Europe,Coach,,Head Coach,True,False,,Nando
-Nani,Canada,,,Mirage Alliance Baguette,North America,Jungle,,Jungle,False,False,,Nani
+MidKing,South Korea,1992-06-15,,,Korea,Support,,Support,True,False,1.0,"Haiakan, Haikan, MidKing"
+Midlord,China,,,,China,Coach,,Assistant Coach,False,False,,Midlord
+Midnexus,South Korea,,,,Korea,Mid,,Mid,True,False,,"Midnexus, Nexus (Lee Jun-woo)"
 Midnight,Spain,,Europe,,EMEA,Mid,,Mid,False,False,,Midnight
 Mido,Brazil,2000-05-05,,,Brazil,Support,,Support,True,False,1.0,"Mido, Midoriya, YoruJoy"
 Midorima,United States,,,,North America,Bot,,Bot,False,False,,Midorima
@@ -1662,7 +1666,7 @@ MindSoul,Russia,,,,CIS,Mid,,Mid,True,False,,MindSoul
 MinE (Han Seung-min),South Korea,,,,Korea,Mid,,Mid,True,False,,MinE (Han Seung-min)
 Mine (Tao Jun),China,,,,China,Bot,,Bot,True,False,,"Mine (Tao Jun), Tsoor"
 mine x pumpkin,,,,,Europe,Bot,,Bot,True,False,,Mine x pumpkin
-Minec,Czech Republic,2004-07-22,Europe,Axolotl,EMEA,,"Bel'Veth,Zyra,Viego",Jungle,False,False,1.0,Minec
+Minec,Czech Republic,2004-07-22,Europe,Axolotl,EMEA,Jungle,"Bel'Veth,Zyra,Viego",Jungle,False,False,1.0,Minec
 minemaciek,Poland,2004-07-16,Europe,Rebels Gaming,EMEA,Support,,Support,False,False,1.0,Minemaciek
 Minerva,Brazil,1995-11-09,,Ilha das Lendas,Brazil,Streamer,"Zyra,Viego,Syndra,Diana,Graves,Evelynn",Streamer,False,False,1.0,"Minerva, MinervaTT"
 Ming (Cho Min),South Korea,,,,Korea,Jungle,,Jungle,True,False,,"Ming (Cho Min), MinE (Cho Min)"
@@ -1875,9 +1879,11 @@ Monkey (Kasper Jensen),Denmark,1998-08-21,,,Europe,Jungle,"Nidalee,Graves,Qiyana
 Monkey750,Syria,,,,EMEA,Jungle,,Jungle,False,False,,Monkey750
 monki,China,2004-02-16,,EDward Gaming Youth Team,China,Jungle,,Jungle,False,False,1.0,"Monki, Clean"
 Monnr,Poland,2004-10-01,,,EMEA,Top,,Top,False,False,1.0,Monnr
-Mono,Germany,,,,EMEA,Bot,,Bot,False,False,,Mono
-Monokotiledon,Turkey,,,,Turkey,Top,,Top,True,False,,Monokotiledon
-monoxide,United States,,,,North America,Jungle,,Jungle,False,False,,"Monoxide, Pete"
+Mateusz,Canada,,,,North America,Top,,Mid,True,False,,Mateusz
+Matheushn,Brazil,,,,Brazil,Top,,Top,True,False,,Matheushn
+Mathy (Matias Cabrera),Argentina,2002-04-08,,Onnei Esports,Latin America,Mid,,Mid,False,False,1.0,Mathy (Matias Cabrera)
+MathyasS,Czech Republic,,,,Europe,Coach,,Support;Coach,True,False,,MathyasS
+Mati,Poland,1994-02-12,,,Europe,Top,"Irelia,Fiora,Shen",Top,True,False,1.0,Mati
 Matias,France,2000-09-22,Europe,GameWard,EMEA,Bot,Kai'Sa,Bot,False,False,1.0,"Matias, Matias0, Matiaslaclasse, MLc"
 Matilda,Turkey,1999-12-01,,,Turkey,Top,,Top,True,False,1.0,"Matilda, King Ragnar"
 Matimm,Chile,,,,Latin America,Bot,,Bot,True,False,,Matimm
@@ -2204,9 +2210,9 @@ Midget Gizmo,Portugal,1999-05-21,,Novasphere Gaming,North America,Coach,"Graves,
 Midigo2,United States,,,,North America,Support,,Support,False,False,,Midigo2
 Midir,South Korea,2006-10-15,,Nongshim RedForce Academy,Korea,Top,,Top,False,False,1.0,"Midir, Woolcon"
 Midkid,Turkey,,Turkey,,EMEA,Mid,,Mid,False,False,,Midkid
-MidKing,South Korea,1992-06-15,,,Korea,Support,,Support,True,False,1.0,"MidKing, Haiakan, Haikan"
-Midlord,China,,,,China,Coach,,Assistant Coach,False,False,,Midlord
-Midnexus,South Korea,,,,Korea,Mid,,Mid,True,False,,"Midnexus, Nexus (Lee Jun-woo)"
+Maartendo,Netherlands,1998-12-28,,24 7 Tower Dive,EMEA,Top,Kennen,Mid,False,False,1.0,Maartendo
+Maat,Portugal,,Europe,,EMEA,Jungle,,Jungle,False,False,,Maat
+Mabrey,United States,1994-06-18,,Dignitas,North America,Coach,Ezreal,Strategic Coach,False,False,1.0,"Mabrey, Impactful, MabreyBABY"
 Mabud,United States,,,,North America,Top,,Top,False,False,,Mabud
 Mac,United Kingdom,1994-02-13,Europe,Team Vitality,EMEA,Manager,,LEC Head Manager,False,False,1.0,Mac
 Mac (Geordie McAleer),Australia,1992-01-08,Oceania,,PCS,Caster,"Kha'Zix,Shyvana,Volibear",Caster,False,False,1.0,"Mac (Geordie McAleer), MacMate"
@@ -2247,7 +2253,7 @@ Madi,Germany,2000-02-06,,,Europe,Bot,"Jhin,Ezreal,Xayah",Bot,True,False,1.0,"Mad
 Madi XO,United Arab Emirates,1996-05-03,,,EMEA,Bot,"Caitlyn,Aphelios,Kalista",Bot,False,False,1.0,"Madi XO, Madi (Madiha Naz)"
 MadLife,South Korea,1992-10-05,,Riot Games Inc.,Korea,Analyst,"Blitzcrank,Alistar,Thresh,Sona",Analyst,False,False,1.0,MadLife
 madlifeonur,Turkey,2001-06-24,Turkey,,EMEA,Support,,Support,False,False,1.0,"Madlifeonur, Ansgar, Minor, Onur (Onur Yıldırım)"
-Madly,Turkey,1999-03-13,Turkey,,EMEA,Coach,,Coach,False,False,1.0,Madly
+Madly,Turkey,1999-03-13,Turkey,,EMEA,Coach,,Top,False,False,1.0,Madly
 Madneps,Russia,1987-01-10,,,CIS,Manager,"Ashe,Miss Fortune,Vayne",General Manager,True,False,1.0,"Madneps, Dododo"
 Madness (Dhari Al-Mutairi),Kuwait,,,,EMEA,Jungle,,Jungle,True,False,,Madness (Dhari Al-Mutairi)
 Madness (Gökhan Uçar),Turkey,1996-08-20,,,Turkey,Bot,Caitlyn,Bot,True,False,1.0,Madness (Gökhan Uçar)
@@ -2356,7 +2362,7 @@ malf,France,1995-11-01,,,Europe,Jungle,"Fiddlesticks,Lee Sin",Jungle,True,False,
 MalfusX,United States,1987-06-30,,,North America,Caster,,Caster,True,False,1.0,MalfusX
 MalhevenLord,Argentina,,,,LAS,Jungle,,Jungle,True,False,,MalhevenLord
 Mali (Lidia Dib),Mexico,,,INFINITY Female,Latin America,Bot,,Substitute,False,False,,Mali (Lidia Dib)
-Mali Mrav,Serbia,,Europe,Crvena zvezda Esports,EMEA,Bot,,Bot,False,False,,"Mali Mrav, Miša (Miloš Lukić)"
+Mali Mrav,Serbia,,Europe,,EMEA,Bot,,Bot,False,False,,"Mali Mrav, Miša (Miloš Lukić)"
 Malice,Sweden,1997-02-22,Europe,Ruddy Esports,EMEA,Jungle,,Jungle,False,False,1.0,"Malice, Murthh, Sebastian (Sebastian Edholm), Sedholm"
 MaliG,Portugal,,Europe,,EMEA,Mid,,Mid,False,False,,MaliG
 Malio Klintas,Portugal,,Europe,Keypulse Esports,EMEA,Coach,,Head Coach,False,False,,"Malio Klintas, Malio"
@@ -2397,7 +2403,7 @@ Manki,Germany,2000-05-16,Europe,,EMEA,Bot,"Xayah,Lucian,Vayne",Bot,False,False,1
 ManLaLa,Hong Kong,1995-08-15,,,Oceania,Bot,"Kalista,Kai'Sa,Sivir",Bot,True,False,1.0,ManLaLa
 Manny (José Garcia),Mexico,1998-01-09,,All Knights,Latin America,Owner,"Braum,Bard,Thresh,Karma",Team Manager,False,False,1.0,"Manny (José Garcia), Manny (José Manuel Garcia Lugo)"
 Manny (Manfred Shek),Hong Kong,,,,PCS,Coach,,Coach,True,False,,"Manny (Manfred Shek), Reign (Manfred Shek)"
-Mano (Axel Jouzac),France,,Europe,Skillcamp,EMEA,Mid,,Mid,False,False,,"Mano (Axel Jouzac), Manoblood"
+Mano (Axel Jouzac),France,,Europe,,EMEA,Mid,,Mid,False,False,,"Mano (Axel Jouzac), Manoblood"
 Manolete,Spain,,Europe,,EMEA,Bot,,Bot,False,False,,Manolete
 ManolinGuilder,Brazil,,,,Brazil,Bot,"Caitlyn,Lucian",Bot,True,False,,ManolinGuilder
 Manolito,Chile,2000-07-31,LAS,,Latin America,Top,"Fiora,Jayce",Top,False,False,1.0,Manolito
@@ -2471,7 +2477,7 @@ Marksboy,United States,,,,North America,Bot,"Caitlyn,Xayah,Jhin",Bot,True,False,
 Marky (Marc Ilagan),Philippines,,Southeast Asia,,SEA,Bot,,Bot,True,False,,"Marky (Marc Ilagan), Marky0123"
 Marky (Pedro José Serrano),Spain,2002-09-23,Europe,Movistar KOI,EMEA,Top,"Aatrox,Camille",Top,False,False,1.0,"Marky (Pedro José Serrano), Mαrky"
 MarkZ,United States,1991-06-29,,Riot Games Inc.,North America,Manager,,LCS Commissioner,False,False,1.0,MarkZ
-Marlley,Czech Republic,,Europe,Fly5,EMEA,Support,"Bard,Janna,Maokai",Support,False,False,,Marlley
+Marlley,Czech Republic,,Europe,FLY5,EMEA,Support,"Bard,Janna,Maokai",Support,False,False,,Marlley
 marlon (Igor Tomczyk),Poland,2004-01-14,Europe,,EMEA,Support,,Support,False,False,1.0,Marlon (Igor Tomczyk)
 Marlon (Marlon González),Colombia,,,,Latin America,Jungle,Rek'Sai,Jungle,True,False,,Marlon (Marlon González)
 Marma,Czech Republic,,Europe,,EMEA,Support,,Support,False,False,,"Marma, Marmadoc, Marmadog"
@@ -2540,14 +2546,13 @@ Mata (Alberto Mata),Costa Rica,,,,Latin America,Jungle,,Jungle,True,False,,Mata 
 Matai,Belgium,1999-07-25,Europe,,EMEA,Top,,Top,True,False,1.0,"Matai, Tyrôk, Tyrokx"
 Mataz,Mexico,2001-01-19,Latin America North,Fuego,Latin America,Jungle,"Graves,Kha'Zix,Rengar,Nidalee,Elise,Karthus,Kai'Sa",Jungle,False,False,1.0,"Mataz, Inkoz Jr, LlaMataz"
 Matebuff,Hungary,1999-09-26,Europe,,EMEA,Bot,"Ezreal,Tristana,Jhin,Kalista",Bot,False,False,1.0,"Matebuff, Hi im mate, Mate, Stiles"
-Mateusz,Canada,,,,North America,Top,,Mid,True,False,,Mateusz
-Matheushn,Brazil,,,,Brazil,Top,,Top,True,False,,Matheushn
-Mathy (Matias Cabrera),Argentina,2002-04-08,,Onnei Esports,Latin America,Mid,,Mid,False,False,1.0,Mathy (Matias Cabrera)
-MathyasS,Czech Republic,,,,Europe,Coach,,Support;Coach,True,False,,MathyasS
-Mati,Poland,1994-02-12,,,Europe,Top,"Irelia,Fiora,Shen",Top,True,False,1.0,Mati
+longstafff,United Kingdom,,Europe,,EMEA,Support,,Support,True,False,,Longstafff
+Lönnar,Sweden,,Europe,,EMEA,Bot,,Bot,False,False,,Lönnar
+Lony,Canada,2005-03-10,,Calamity Esports,North America,Mid,,Mid,False,False,1.0,Lony
+Looca,Netherlands,2001-10-20,Europe,,EMEA,Top,,Top,False,False,1.0,"Looca, Luca (Luca Hansen)"
 Looch,Australia,,,,Oceania,Mid,,Mid,True,False,,Looch
 Look,Brazil,2000-01-18,,Rise Gaming,Brazil,Support,,Support,False,False,1.0,Look
-Looki,Germany,,,Direct Rising eSports,EMEA,Bot,,Bot,False,False,,Looki
+Looki,Germany,,,DKB XPERION NXT,EMEA,Bot,,Bot,False,False,,Looki
 LooLaa,Czech Republic,,,,Europe,Support,,Support,True,False,,LooLaa
 Loolil,Switzerland,,,,Europe,Support,,Support,True,False,,Loolil
 Loona,United States,,,,North America,Top,,Top,False,False,,Loona
@@ -2580,7 +2585,7 @@ Lornoc,France,2002-05-02,,,Europe,Bot,,Bot,True,False,1.0,"Lornoc, Strive (Norbe
 lorofatz,Germany,,Europe,,EMEA,Mid,,Mid,False,False,,Lorofatz
 Losan,Spain,,,,Europe,Coach,,Coach,True,False,,Losan
 LoSing,Hong Kong,1994-08-21,,,Asia Pacific,Caster,,Caster,False,False,1.0,LoSing
-Lospa,South Korea,2002-09-30,,FUT Esports,Korea,Support,Pyke,Support,False,False,1.0,Lospa
+Lospa,South Korea,2002-09-30,,,Korea,Support,Pyke,Support,False,False,1.0,Lospa
 Lost,New Zealand,1999-04-04,Oceania,,North America,Bot,Lucian,Bot,False,False,1.0,"Lost, Zero (Lawrence Hui)"
 Lost Highway,Uruguay,,,,LAS,Jungle,,Jungle,True,False,,Lost Highway
 Lost in a Moment,Canada,,,,North America,Bot,,Bot,True,False,,"Lost in a Moment, Rapidx"
@@ -2730,10 +2735,10 @@ Lumerion,Luxembourg,2000-11-04,Europe,,EMEA,Top,"Shen,Camille,Tryndamere",Top,Fa
 Lumi,Germany,,Europe,SK Gaming Avarosa,EMEA,Support,,Support,False,False,,Lumi
 Lumos,South Korea,,,DRX Academy,Korea,Support,,Support,False,False,,"Lumos, A SUP (Kim Jae-min), SUP (Kim Jae-min)"
 Luna (Giovana Lunardeli),Brazil,2003-08-19,,paiN Gaming Academy,Brazil,Support,,Support,False,False,1.0,"Luna (Giovana Lunardeli), Lunardelii"
-Luna (Jang Kyung-ho),South Korea,1995-08-05,,,Korea,Support,Thresh,Support,False,False,1.0,"Luna (Jang Kyung-ho), 루나어린이"
+Luna (Jang Kyung-ho),South Korea,1995-08-05,,,Korea,Support,Thresh,Support,True,False,1.0,"Luna (Jang Kyung-ho), 루나어린이"
 Luna (Josh Allen),United Kingdom,1993-06-18,,,Oceania,Support,"Soraka,Braum,Cassiopeia,Alistar",Support,True,False,1.0,Luna (Josh Allen)
-Luna (Luis Sanchez),Venezuela,2000-10-19,,Briar Cliff University,North America,Mid,"Ahri,Hwei,Draven,Jinx",Mid,False,False,1.0,"Luna (Luis Sanchez), Luna (Luis Sánchez)"
-Luna (Luis Sánchez),Venezuela,2000-10-30,,Team Dizzy,North America,Mid,"Ahri,Hwei,Draven,Jinx",Mid,False,False,1.0,"Luna (Luis Sanchez), Luna (Luis Sánchez)"
+Luna (Luis Sanchez),Venezuela,2000-10-19,,Team Dizzy,North America,Mid,"Ahri,Hwei,Draven,Jinx",Mid,False,False,1.0,"Luna (Luis Sánchez), Luna (Luis Sanchez)"
+Luna (Luis Sánchez),Venezuela,2000-10-30,,Team Dizzy,North America,Mid,"Ahri,Hwei,Draven,Jinx",Mid,False,False,1.0,"Luna (Luis Sánchez), Luna (Luis Sanchez)"
 Luna (Luna Sanchez),Venezuela,,,3v Team,Latin America,Bot,,Bot,False,False,,Luna (Luna Sanchez)
 Luna (Woo Seung-hyeon),South Korea,,,,Korea,Bot,,Bot,True,False,,Luna (Woo Seung-hyeon)
 lunacia,United States,,,,North America,Top,,Top,False,False,,Lunacia
@@ -2858,7 +2863,7 @@ M1ra,Greece,,,,EMEA,Top,,Top,False,False,,"M1ra, Mira, Mira1"
 M1STAKEN,Netherlands,,Europe,,EMEA,Jungle,,Jungle,False,False,,"M1STAKEN, M1SSA, MEESHØØG"
 M3N,Iraq,,,Over Power Gaming Center,EMEA,Mid,,Mid;Manager,False,False,,"M3N, SSG M3N"
 M4,Taiwan,,,,LMS,Jungle,,Jungle,True,False,,"M4, MiHanna"
-M4DDITO,Canada,2001-07-30,,CCG Esports,North America,,"Aphelios,Sivir,Jhin,Yuumi",Analyst,False,False,1.0,M4DDITO
+M4DDITO,Canada,2001-07-30,,CCG Esports,North America,Analyst,"Aphelios,Sivir,Jhin,Yuumi",Analyst,False,False,1.0,M4DDITO
 M4ge,Chile,,,,LAS,Support,,Support,True,False,,"M4ge, HAIFtsu"
 M4nk3y,Netherlands,1994-06-28,,,Europe,Mid,"Vel'Koz,Anivia,Orianna,Vladimir",Mid,True,False,1.0,M4nk3y
 M4ple,Colombia,,,,Latin America,Mid,,Mid,True,False,,"M4ple, IMaple, IRuby, Ruby (Juan Ramos)"
@@ -2867,9 +2872,9 @@ M4ttXD,Italy,,Europe,Corinthians Clan,EMEA,Coach,,Coach,False,False,,M4ttXD
 M6msu,Estonia,,Europe,,EMEA,Jungle,,Jungle,False,False,,M6msu
 Ma11a,Taiwan,,,,PCS,Bot,,Bot,False,False,,Ma11a
 Maareg,Czech Republic,2004-06-15,Europe,,EMEA,Top,,Top,False,False,1.0,Maareg
-Maartendo,Netherlands,1998-12-28,,24 7 Tower Dive,EMEA,Top,Kennen,Mid,False,False,1.0,Maartendo
-Maat,Portugal,,Europe,,EMEA,Jungle,,Jungle,False,False,,Maat
-Mabrey,United States,1994-06-18,,Dignitas,North America,Coach,Ezreal,Strategic Coach,False,False,1.0,"Mabrey, Impactful, MabreyBABY"
+Leoto,United States,,,Aquinas College,North America,Top,,Top,False,False,,Leoto
+Leozuxo,Brazil,1995-04-14,,,Brazil,Jungle,,Jungle,True,False,1.0,Leozuxo
+Lep,Brazil,1996-02-28,,,Brazil,Top,"Irelia,Jax,Fiora",Top,True,False,1.0,"Lep, Irelia (Pedro Marcari), Irelia (Player)"
 Lepancake,Canada,,,Cleary University,North America,Support,,Support,False,False,,Lepancake
 Lepo,Greece,1998-09-13,,,Europe,Bot,"Jhin,Vayne,Lee Sin",Bot,True,False,1.0,Lepo
 Leptiru,Turkey,,,,EMEA,Support,,Support,False,False,,Leptiru
@@ -3100,7 +3105,7 @@ Lixiao,China,,,,China,Jungle,,Jungle,True,False,,Lixiao
 Liyo,United States,2001-12-07,,Juniata College,North America,Bot,,Bot,False,False,1.0,Liyo
 Liz (Elizabeth Sousa),Brazil,1999-10-09,,,Brazil,Streamer,,Streamer,True,False,1.0,Liz (Elizabeth Sousa)
 Liz (Tativat Nakvichiean),Thailand,,,,SEA,Support,Alistar,Support,True,False,,Liz (Tativat Nakvichiean)
-LizaBear,,,,Dragoon's Goons,North America,,Yuumi,Manager;Support,False,False,,LizaBear
+LizaBear,,,,,North America,Manager,Yuumi,Manager;Support,False,False,,LizaBear
 Lizardh,Belgium,,Europe,,EMEA,Top,,Top,True,False,,Lizardh
 Lizardsking,Russia,,,,CIS,Jungle,,Jungle,True,False,,Lizardsking
 lizheng,China,,,,China,Jungle,,Jungle,True,False,,"Lizheng, Lovely (Li Zheng)"
@@ -3176,11 +3181,9 @@ Longmao,China,,,,China,Top,,Top,False,False,,Longmao
 LongPanda,South Korea,,,,Korea,Top,Vladimir,Top,True,False,,"LongPanda, Lpanda, S지x롱판다x존S"
 Longqi,China,,,,China,Top,,Top,False,False,,Longqi
 Longshadow1,Germany,,,,Europe,Top,,Top,True,False,,Longshadow1
-longstafff,United Kingdom,,Europe,,EMEA,Support,,Support,True,False,,Longstafff
-Lönnar,Sweden,,Europe,,EMEA,Bot,,Bot,False,False,,Lönnar
-Lony,Canada,2005-03-10,,Calamity Esports,North America,Mid,,Mid,False,False,1.0,Lony
-Looca,Netherlands,2001-10-20,Europe,,EMEA,Top,,Top,False,False,1.0,"Looca, Luca (Luca Hansen)"
-Lachtan,Czech Republic,,,,Europe,Mid,,Mid,True,False,,"LachtanHoralka, Lachtan"
+Labrov,Greece,2002-02-12,Europe,Team BDS,EMEA,Support,"Thresh,Bard,Alistar,Pyke",Support,False,False,1.0,"Labr0v, Labrovv, Labrov"
+Lac,Argentina,2001-04-21,,Undead Gaming,Latin America,Bot,"Ezreal,Kai'Sa,Vayne,Aphelios",Bot,False,False,1.0,"Lac, 1Lac"
+Lachtan,Czech Republic,,,,Europe,Mid,,Mid,True,False,,"Lachtan, LachtanHoralka"
 Lacis,Latvia,,Europe,,EMEA,Mid,,Mid,False,False,,Lacis
 LaCo,South Korea,1994-02-18,,,Korea,Support,,Support,True,False,1.0,LaCo
 Lactea,South Korea,,,,Korea,Bot,"Draven,Yasuo",Bot,True,False,,"Lactea, Bing (Han Gi-hyeon)"
@@ -3324,7 +3327,7 @@ Lazy (Bradley Marx),United States,1992-04-01,,,North America,Coach,,Head Coach,T
 Lazy (Matthias Fidan),Germany,,,,Europe,Top,,Top,True,False,,Lazy (Matthias Fidan)
 Lazy (Qu Run-Fan),China,2001-04-19,,,China,Jungle,,Jungle,True,False,1.0,Lazy (Qu Run-Fan)
 Lazyboy,Hong Kong,,,,LMS,Bot,,Bot,True,False,,Lazyboy
-LazyFeel,Vietnam,2007-03-19,,DRX Academy,Vietnam,,,Bot,False,False,1.0,LazyFeel
+LazyFeel,Vietnam,2007-03-19,,DRX Academy,Vietnam,Bot,,Bot,False,False,1.0,LazyFeel
 LBB,Taiwan,1997-12-02,Taiwan,,Asia Pacific,Coach,,Head Coach,False,False,1.0,"LBB, Green1e, Greenie, LB"
 lcberg,China,1999-01-03,,,China,Top,,Top,True,False,1.0,"Lcberg, Icberg, TianCi"
 lDASl,Saudi Arabia,1995-07-06,,Optimum Esport Girls,EMEA,Mid,"Lissandra,Syndra,Quinn,Diana",Mid,False,False,1.0,"LDASl, Das (Dalia Abdulnasser Shair), Holy Stalker"
@@ -3454,7 +3457,7 @@ Lenore,Colombia,1998-09-18,LAN,Riot Games Inc.,Latin America,Caster,"Jinx,Jhin,V
 Lenpace,Guatemala,2003-02-27,,,Latin America,Top,"Akali,Kai'Sa,Aatrox",Top,False,False,1.0,Lenpace
 Lens,Turkey,,,Supernova,North America,Bot,,Bot,False,False,,"Lens, Snitch"
 Lenvim,Taiwan,,,Tongtex Suns,PCS,Top,,Top,False,False,,Lenvim
-Leny,France,,,Venomcrest Esports,EMEA,Top,,Top,False,False,,Leny
+Leny,France,,,,EMEA,Top,,Top,False,False,,Leny
 Leo (Dai Cheng),China,,,,China,Coach,,Mid,True,False,,Leo (Dai Cheng)
 Leo (Han Gyeo-re),South Korea,2000-01-12,,Geekay Esports,Korea,Bot,,Bot,False,False,1.0,Leo (Han Gyeo-re)
 Leo (Kim Ji-hoon),South Korea,,,,Korea,Support,,Support,True,False,,Leo (Kim Ji-hoon)
@@ -3486,9 +3489,10 @@ Leonidas (Kaan Gülcan),Turkey,,,,Turkey,Support,,Support,True,False,,Leonidas (
 Leonyx,United States,1993-09-01,,,North America,Manager,Vayne,Creative Director;Bot,True,False,1.0,Leonyx
 Leoo,Turkey,,Turkey,,EMEA,Support,,Support,True,False,,"Leoo, Leooo"
 Leosia,Poland,,,,EMEA,Jungle,,Jungle,False,False,,Leosia
-Leoto,United States,,,Aquinas College,North America,Top,,Top,False,False,,Leoto
-Leozuxo,Brazil,1995-04-14,,,Brazil,Jungle,,Jungle,True,False,1.0,Leozuxo
-Lep,Brazil,1996-02-28,,,Brazil,Top,"Irelia,Jax,Fiora",Top,True,False,1.0,"Lep, Irelia (Pedro Marcari), Irelia (Player)"
+Kolossos,Greece,,,,EMEA,Support,,Support,False,False,,Kolossos
+Kolthro,United States,1998-09-16,,Ember Foxes,North America,Coach,,Jungle,False,False,1.0,"Kolthro, Meslos Dad"
+Komandata,Bulgaria,,Europe,,EMEA,Bot,,Bot,False,False,,Komandata
+komedyja,Poland,,Europe,Zero Tenacity,EMEA,Manager,,General Manager,False,False,,Komedyja
 Komil,Poland,1997-06-12,Europe,,EMEA,Owner,,Owner,True,False,1.0,Komil
 Komodo,Turkey,1994-02-01,,,Turkey,Coach,"Ezreal,Janna,Kassadin,Pantheon",Coach,True,False,1.0,Komodo
 Komuro,Colombia,,,,Latin America,Coach,,Head Coach,False,False,,"Komuro, Dios Plan"
@@ -3541,7 +3545,7 @@ Koudys,Czech Republic,,Europe,,EMEA,Coach,"Vayne,Graves,Lucian",Head Coach,False
 koughi,Chile,1999-01-18,Latin America South,,Latin America,Jungle,"Olaf,Kindred,Nidalee",Jungle,True,False,1.0,"Koughi, Køughi, Vicer"
 Kouke,Peru,1994-12-10,Latin America North,Tomorrow Esports,Latin America,Coach,"Lee Sin,Olaf,Jax",Head Coach,False,False,1.0,"Kouke, Green Okido, ZeroZeroYon, ZZY (Jorge Bravo)"
 Koukin,Ecuador,,,,LAN,Bot,,Bot,True,False,,Koukin
-Kourosh,,,Europe,Rich Gang (Norwegian Team),EMEA,Mid,,Mid,False,False,,Kourosh
+Kourosh,,,Europe,,EMEA,Mid,,Mid,False,False,,Kourosh
 Kousamek,Czech Republic,,Europe,,EMEA,Support,,Support,False,False,,"Kousamek, Shy jan"
 Koussay,Tunisia,2005-05-03,,Fog Esports,EMEA,Mid,,Mid,False,False,1.0,"Koussay, Koussay3"
 KOUT,Argentina,,,,Latin America,Top,,Top,True,False,,"KOUT, 7KOUT7, EstebanPa"
@@ -3617,7 +3621,7 @@ Krpy,Czech Republic,,Europe,,EMEA,Top,,Top,False,False,,Krpy
 Kruimel,Netherlands,1995-04-23,Europe,,EMEA,Mid,"Viktor,Malzahar,Ziggs,Taliyah",Mid,False,False,1.0,Kruimel
 Kruppi,France,,Europe,,EMEA,Support,,Support,False,False,,Kruppi
 Krush,South Korea,2002-02-15,,,Korea,Support,,Support,True,False,1.0,Krush
-Krvavy,South Korea,1995-10-26,,,Korea,Coach,,Coach,False,False,1.0,Krvavy
+Krvavy,South Korea,1995-10-26,,,Korea,Coach,,Coach,True,False,1.0,Krvavy
 Kryder,Belgium,,Europe,,EMEA,Bot,,Bot,False,False,,Kryder
 Krykiet,Poland,1995-08-21,,,Europe,Bot,,Bot,True,False,1.0,"Krykiet, Crykee"
 KryRa,Canada,2005-08-14,,CCG Esports,North America,Jungle,,Jungle,False,False,1.0,KryRa
@@ -3627,7 +3631,7 @@ Krystof,Czech Republic,2000-08-15,,,EMEA,Support,,Support,False,False,1.0,"Kryst
 krytybu,Norway,,Europe,DMG Esports Norway,EMEA,Top,,Top,False,False,,Krytybu
 Kryze,Sweden,1999-07-01,Europe,Solary,EMEA,Top,,Top,False,False,1.0,Kryze
 Kryzpo,Chile,2000-09-30,Latin America South,,Latin America,Top,"Sion,Urgot,Jayce,Gnar",Top,False,False,1.0,Kryzpo
-Krzysztof (CIS Player),,,,,Europe,,,Bot,True,False,,Krzysztof (CIS Player)
+Krzysztof (CIS Player),,,,,Europe,Bot,,Bot,True,False,,Krzysztof (CIS Player)
 ks9999,Serbia,,,,Europe,Jungle,,Jungle,True,False,,Ks9999
 KSAEZ,Turkey,2000-11-12,Turkey,Beşiktaş Esports,EMEA,Mid,,Mid,False,False,1.0,KSAEZ
 Kshuna,United States,,,,North America,Bot,,Bot,True,False,,Kshuna
@@ -3648,7 +3652,7 @@ Kucho,Peru,1993-06-10,,,LAN,Support,"Nidalee,Lee Sin,Thresh",Support,True,False,
 Kuchta,Czech Republic,,Europe,,EMEA,Coach,,Head Coach,False,False,,Kuchta
 Kuddurs,Czech Republic,,,,Europe,Support,"Thresh,Soraka",Support,True,False,,"Kuddurs, Kundus"
 Kuderic,United States,,,,North America,Mid,,Bot,True,False,,Kuderic
-Kudo (Nguyễn Minh Hiếu),Vietnam,2004-11-08,,,Vietnam,,,Mid,False,False,1.0,Kudo (Nguyễn Minh Hiếu)
+Kudo (Nguyễn Minh Hiếu),Vietnam,2004-11-08,,,Vietnam,Mid,,Mid,False,False,1.0,Kudo (Nguyễn Minh Hiếu)
 Kudol,Vietnam,,Southeast Asia,,SEA,Support,,Support,True,False,,"Kudol, Shinichi"
 Kudy,,1998-09-09,,,EMEA,Jungle,"Elise,Graves,Olaf,Xin Zhao",Jungle,False,False,1.0,Kudy
 Kuhz,United States,1999-10-18,,Ohio Northern University,North America,Support,"Leona,Galio,Sett,Senna,Blitzcrank",Support,False,False,1.0,Kuhz
@@ -3796,8 +3800,9 @@ LA9,United States,,,,North America,Coach,Gangplank,Head Coach;Manager,True,False
 Laatch,Sweden,2001-04-24,Europe,,EMEA,Bot,,Bot,False,False,1.0,"Laatch, Cyber (Felix Melin), Julciaaa, Laa7ch"
 Laba,Taiwan,1999-03-15,Taiwan,,Asia Pacific,Coach,"Rengar,Lee Sin,Nidalee",Coach,True,False,1.0,Laba
 Labokop,Greece,,Europe,,EMEA,Caster,,Mid,False,False,,Labokop
-Labrov,Greece,2002-02-12,Europe,Team BDS,EMEA,Support,"Thresh,Bard,Alistar,Pyke",Support,False,False,1.0,"Labrov, Labr0v, Labrovv"
-Lac,Argentina,2001-04-21,,Undead Gaming,Latin America,Bot,"Ezreal,Kai'Sa,Vayne,Aphelios",Bot,False,False,1.0,"Lac, 1Lac"
+Ketim,Poland,2005-09-02,Europe,,EMEA,Jungle,"Graves,Maokai",Jungle,False,False,1.0,"Ketim, Slinger"
+Ketrab,Poland,2004-01-09,Europe,,EMEA,Mid,,Mid,False,False,1.0,"Ketrab, KeT raB"
+Ketsuo,United Kingdom,,Europe,Ruddy Painkillers,EMEA,Mid,,Mid,False,False,,Ketsuo
 Kev1n,Germany,1993-01-15,Europe,,EMEA,Top,"Irelia,Jax",Top,True,False,1.0,"Kev1n, Kevin (Kevin Rubiszewski)"
 Kevaman,Republic of Ireland,1999-02-11,,,Europe,Bot,,Bot,True,False,1.0,Kevaman
 Kevao,Brazil,,,,Brazil,Support,,Support,True,False,,Kevao
@@ -3835,7 +3840,7 @@ Khalis,South Korea,1999-12-27,,,Korea,Top,,Top,False,False,1.0,Khalis
 Khan,South Korea,1995-12-22,,Dplus KIA,Korea,Streamer,Jayce,Streamer,False,False,1.0,"Khan, Hanlabong"
 khaN (Stuar Romero),Peru,1996-09-30,,,Latin America,Support,,Support,False,False,1.0,"KhaN (Stuar Romero), KhaN1996"
 Khang,Sweden,,Europe,,EMEA,Bot,,Bot,False,False,,Khang
-Khanh (Lê Quốc Khánh),Vietnam,,,Baby Whales,Vietnam,,,Jungle,False,False,,Khanh (Lê Quốc Khánh)
+Khanh (Lê Quốc Khánh),Vietnam,,,Baby Whales,Vietnam,Jungle,,Jungle,False,False,,Khanh (Lê Quốc Khánh)
 Khanh (Michael Luu),Denmark,,Europe,,EMEA,Bot,,Bot,False,False,,Khanh (Michael Luu)
 Khantos,Romania,2001-06-06,Europe,,EMEA,Bot,,Bot,False,False,1.0,"Khantos, Keltra, XKhantos"
 Khappaccino,United States,,,,North America,Bot,,Bot,False,False,,Khappaccino
@@ -4063,7 +4068,7 @@ Knudsen,Denmark,2001-06-08,,,Europe,Bot,Yasuo,Bot,True,False,1.0,Knudsen
 Knut,China,,,,SEA,Jungle,,Jungle,True,False,,Knut
 Knut Erik,Norway,,Europe,,EMEA,Jungle,,Jungle,False,False,,"Knut Erik, Knut Eric"
 Ko0n,Iceland,,,,Europe,Jungle,,Jungle,True,False,,Ko0n
-Koala (Alexis Gonzalez),France,,,Esprit Shōnen,EMEA,Top,,Top,False,False,,"Koala (Alexis Gonzalez), K0ala"
+Koala (Alexis Gonzalez),France,,,,EMEA,Top,,Top,False,False,,"Koala (Alexis Gonzalez), K0ala"
 Koala (Braulio Hernandez),Mexico,2003-04-10,,,Latin America,Top,"Jax,Swain,Volibear",Top,False,False,1.0,"Koala (Braulio Hernandez), El Koala, Lkoala"
 Koala (Dennis Berg),Switzerland,,,,Europe,Support,,Support,True,False,,"Koala (Dennis Berg), Koala with a Hat"
 Koala (Lin Chih-Chiang),Taiwan,1995-08-16,LMS,,Asia Pacific,Coach,"Bard,Thresh,Nami",Assistant Coach,False,False,1.0,Koala (Lin Chih-Chiang)
@@ -4107,10 +4112,9 @@ Kold,Denmark,1995-02-22,Europe,,Europe,Coach,"Jarvan IV,Elise,Lee Sin",Assistant
 Koldo,Spain,2000-11-07,Europe,UCAM Esports,EMEA,Jungle,"Gragas,Lee Sin",Jungle,False,False,1.0,"Koldo, KoIdo, Køldo"
 Kolia,China,,,,China,Coach,,Strategic Coach,True,False,,"Kolia, Loveletter"
 Kolios,France,,Europe,eSports Cologne e.V.,EMEA,Support,"Nautilus,Rakan,Rell,Renata Glasc",Support,False,False,,Kolios
-Kolossos,Greece,,,,EMEA,Support,,Support,False,False,,Kolossos
-Kolthro,United States,1998-09-16,,Ember Foxes,North America,Coach,,Jungle,False,False,1.0,"Kolthro, Meslos Dad"
-Komandata,Bulgaria,,Europe,,EMEA,Bot,,Bot,False,False,,Komandata
-komedyja,Poland,,Europe,Zero Tenacity,EMEA,Manager,,General Manager,False,False,,Komedyja
+kaitur,Italy,,,,Europe,Support,"Thresh,Alistar,Rakan,Morgana",Support,True,False,,Kaitur
+Kaiwing,Hong Kong,1996-10-27,Taiwan,Frank Esports,Asia Pacific,Support,"Thresh,Leona",Support,False,False,1.0,"Kaiwing, LING (Ling Kai Wing)"
+Kaixuan,China,,,,China,Support,,Support,False,False,,"Kaixuan, Xunyu"
 Kaiy1,China,,,,China,Jungle,,Jungle,True,False,,Kaiy1
 Kaiz,Vietnam,2000-05-29,,,Vietnam,Jungle,"Lee Sin,Vi,Gragas",Jungle,False,False,1.0,"Kaiz, KaiZZ"
 Kaizen (Kaizen Asiedu),United States,1990-10-16,,,North America,Broadcast Talent,Hecarim,Broadcast Talent,True,False,1.0,"Kaizen (Kaizen Asiedu), Primal (Kaizen Asiedu)"
@@ -4194,14 +4198,14 @@ Kanon (Khenn Pragale),Philippines,,Southeast Asia,,SEA,Support,,Support,True,Fal
 Kanonbob,United States,,,University of South Florida,North America,Mid,,Mid,False,False,,Kanonbob
 Kanra,Peru,1998-01-30,Latin America South,,Latin America,Top,"Jax,Irelia,Camille",Top,False,False,1.0,Kanra
 Kanryuu,,,,,Europe,Coach,,Assistant Coach,True,False,,Kanryuu
-Kanske,Sweden,2002-02-04,Europe,Rich Gang (Norwegian Team),EMEA,Support,,Support,False,False,1.0,Kanske
+Kanske,Sweden,2002-02-04,Europe,,EMEA,Support,,Support,False,False,1.0,Kanske
 Kantoshi,Colombia,2002-04-24,,,Latin America,Top,,Top,False,False,1.0,Kantoshi
 Kanz,Colombia,,,,Latin America,Jungle,,Jungle,True,False,,Kanz
 Kaol,China,2002-03-05,,,Europe,Top,"Jax,Camille,Vladimir",Top,True,False,1.0,Kaol
 Kaori,Turkey,2001-07-09,Turkey,Beşiktaş Esports,EMEA,Bot,"Kai'Sa,Lee Sin,Lucian,Ezreal",Bot,False,False,1.0,"Kaori, Kaor1"
 Kaoru,Philippines,2000-02-28,Southeast Asia,,SEA,Jungle,"Rakan,Pyke,Lee Sin",Support,True,False,1.0,Kaoru
 Kaov,Brazil,1992-05-01,,,Brazil,Coach,"Renekton,Irelia,Shen",Coach,True,False,1.0,Kaov
-Kaplica,Poland,2005-08-23,Europe,IMProve Team,EMEA,Top,,Top,False,False,1.0,Kaplica
+Kaplica,Poland,2005-08-23,Europe,,EMEA,Top,,Top,False,False,1.0,Kaplica
 Kapo,Italy,1998-09-21,Europe,,EMEA,Bot,Tristana,Bot,False,False,1.0,Kapo
 KappaBeetle,Finland,2001-01-11,Europe,,EMEA,Bot,,Bot,False,False,1.0,"KappaBeetle, Beetle"
 KappaSoleil,Canada,,,,North America,Support,,Support,True,False,,"KappaSoleil, Kappasun, Sarasun"
@@ -4357,7 +4361,7 @@ Kejila,Norway,,Europe,,EMEA,Mid,,Mid,False,False,,Kejila
 Kekiz,Germany,,,,Europe,Bot,,Bot,True,False,,Kekiz
 kekko80,,,Europe,,EMEA,Top,"Gangplank,Aatrox,Sion",Top,False,False,,Kekko80
 Keksik,Czech Republic,,Europe,,EMEA,Jungle,,Jungle,False,False,,Keksik
-Kektz,Slovenia,1994-03-06,Europe,Crvena zvezda Esports,EMEA,Top,"Gnar,Cho'Gath,Kennen,Sion",Top,False,False,1.0,"Kektz, Kektzzz"
+Kektz,Slovenia,1994-03-06,Europe,Crvena zvezda Esports,EMEA,Top,"Gnar,Cho'Gath,Kennen,Sion",Top;Positional Coach,False,False,1.0,"Kektz, Kektzzz"
 kelin,China,,,,China,Bot,,Bot,False,False,,"Kelin, LuXun"
 Kellie,Spain,,Europe,Dream Makers,EMEA,Support,,Support,False,False,,Kellie
 Kellin,South Korea,2001-02-01,,Dplus KIA,Korea,Support,"Rumble,Heimerdinger,Yuumi,Renata Glasc,Rakan,Nami",Support,False,False,1.0,"Kellin, 김형규"
@@ -4425,10 +4429,11 @@ Kesha,Sweden,1997-08-24,Europe,G2 Esports,EMEA,Streamer,Nunu &amp; Willump,Conte
 kestrel,Sweden,1995-10-17,,,Europe,Bot,"Vayne,Ezreal,Caitlyn",Bot,True,False,1.0,Kestrel
 KeTa,Romania,,Europe,,EMEA,Bot,,Bot,False,False,,KeTa
 Keter Class SCP,United States,1995-07-15,,Purdue University Northwest,North America,Manager,"Ekko,Qiyana,Brand",Manager,False,False,1.0,Keter Class SCP
-Ketim,Poland,2005-09-02,Europe,,EMEA,Jungle,"Graves,Maokai",Jungle,False,False,1.0,"Ketim, Slinger"
-Ketrab,Poland,2004-01-09,Europe,Forsaken (Polish Team),EMEA,Mid,,Mid,False,False,1.0,"Ketrab, KeT raB"
-Ketsuo,United Kingdom,,Europe,Ruddy Painkillers,EMEA,Mid,,Mid,False,False,,Ketsuo
-Joe Jacko,United States,,,University of Southern California,North America,Coach,,Head Coach,False,False,,"JoeJacko, Joe Jacko"
+Joe (Hsu Li-Geng),Taiwan,2002-08-16,,,Asia Pacific,Support,,Support,False,False,1.0,Joe (Hsu Li-Geng)
+Joe (Péter Ligeti),Hungary,,,,Europe,Support,,Support,True,False,,Joe (Péter Ligeti)
+Joe (Philipe Mazetti),Brazil,,,,Brazil,Coach,,Head Coach,False,False,,Joe (Philipe Mazetti)
+Joe Cix,Germany,,,,Europe,Support,,Support,True,False,,Joe Cix
+Joe Jacko,United States,,,University of Southern California,North America,Coach,,Head Coach,False,False,,"Joe Jacko, JoeJacko"
 Joe Marsh,United States,,,T1,North America,Owner,,Chief Executive Officer,False,False,,Joe Marsh
 Joe Momma,United States,,,,North America,Coach,,Analyst,True,False,,Joe Momma
 Joekerism,United Kingdom,,,,Europe,Bot,,Bot,True,False,,Joekerism
@@ -4437,7 +4442,7 @@ Joelito (Joel Basso),Argentina,1996-10-07,Latin America South,,Latin America,Mid
 Joelito (Joel Gutiérrez),Mexico,,Latin America North,,Latin America,Mid,,Mid,True,False,,"Joelito (Joel Gutiérrez), Joelios"
 Joep,Netherlands,2001-10-08,,,Europe,Bot,,Bot,True,False,1.0,Joep
 JoeSnow,Ecuador,,,,Latin America,Bot,,Bot,True,False,,"JoeSnow, Joe Snow"
-Joexy,Turkey,2003-07-26,Turkey,,EMEA,Support,"Renata Glasc,Bard",Support,False,False,1.0,Joexy
+Joexy,Turkey,2003-07-26,Turkey,FUT Esports,EMEA,Support,"Renata Glasc,Bard",Support,False,False,1.0,Joexy
 Joey,United States,1998-10-21,,,North America,Coach,"Janna,Lulu,Bard,Nautilus",Assistant Coach;Support,False,False,1.0,"Joey, TheAirIsDry"
 Jofu Joestar,Vietnam,2004-12-02,,,North America,Jungle,Rek'Sai,Jungle,False,False,1.0,Jofu Joestar
 Joggerss,Canada,,,,North America,Jungle,,Jungle,True,False,,Joggerss
@@ -4522,7 +4527,7 @@ Joushi,United States,1994-07-07,,,North America,Caster,"Gnar,Jayce,Twisted Fate"
 Joust,Thailand,,,,SEA,Jungle,,Jungle,True,False,,Joust
 Jouvis,Germany,,Europe,,EMEA,Top,,Top,False,False,,Jouvis
 Jouzef,Iraq,2002-11-30,,University of Michigan,North America,Jungle,"Xin Zhao,Taliyah,Lucian,Draven",Jungle,False,False,1.0,Jouzef
-Jovian,Greece,1997-11-22,Europe,Dynamo Eclot,EMEA,Coach,,Head Coach,False,False,1.0,"Jovian, Voidterror"
+Jovian,Greece,1997-11-22,Europe,,EMEA,Coach,,Head Coach,False,False,1.0,"Jovian, Voidterror"
 Jovirone,Brazil,1998-09-25,,,Brazil,Jungle,"Lee Sin,Kha'Zix,Kayn,Nidalee,Graves",Jungle,False,False,1.0,Jovirone
 Jow,Brazil,1993-08-13,,,Brazil,Bot,,Bot,True,False,1.0,Jow
 Joxardo,Ecuador,,,,Latin America,Top,,Top,False,False,,"Joxardo, Any lonely, Im not jox, Jox"
@@ -4548,7 +4553,7 @@ Jree,Sweden,1993-03-03,,,Europe,Support,"Blitzcrank,Zyra,Zilean",Support,True,Fa
 JS (Lee Jae-seung),South Korea,,,,Korea,Top,"Maokai,Nautilus",Top,True,False,,"JS (Lee Jae-seung), TT (Lee Jae-seung)"
 JSaito,Spain,,Europe,,EMEA,Bot,,Bot,False,False,,"JSaito, Saito (Julio Montero)"
 Jsawy,Taiwan,2004-05-30,,,Asia Pacific,Mid,,Mid,False,False,1.0,Jsawy
-JSkillz,Egypt,,,3BL Esports,EMEA,,,Content Creator,False,False,,"JSkillz, Just Skillz, JusTSkiLLzZ"
+JSkillz,Egypt,,,3BL Esports,EMEA,Streamer,,Content Creator,False,False,,"JSkillz, Just Skillz, JusTSkiLLzZ"
 Jsura,United States,,,,North America,Bot,,Bot,True,False,,Jsura
 JTL,Colombia,2001-06-12,,Waia Snikt,Latin America,Top,"Renekton,Dr. Mundo,Aatrox",Top,False,False,1.0,JTL
 Jtoru,Costa Rica,1996-08-13,Latin America North,,Latin America,Top,"Vel'Koz,Malzahar,LeBlanc",Top,True,False,1.0,Jtoru
@@ -4677,7 +4682,7 @@ kabbie,South Korea,2001-12-17,,Los Grandes,Korea,Support,Rell,Support,False,Fals
 Kabe,Hong Kong,1994-10-12,Taiwan,,China,Coach,,Assistant Coach,False,False,1.0,"Kabe, MaN, MyticQ"
 Kabir,India,1999-02-17,,Spinebusters E-Sport,EMEA,Coach,"Pantheon,Shen,Tahm Kench,Trundle,Jarvan IV,Thresh,Braum",Skill Acquisition Assist Labor,False,False,1.0,Kabir
 Kabishou,China,,,,China,Support,,Support,False,False,,Kabishou
-Kaboom,Turkey,2006-03-14,,GMBLERS ESPORTS,EMEA,,"Lillia,Viego,Xin Zhao,Graves",Jungle,False,False,1.0,Kaboom
+Kaboom,Turkey,2006-03-14,,FoxFire (Turkish Team),EMEA,Jungle,"Lillia,Viego,Xin Zhao,Graves",Jungle,False,False,1.0,Kaboom
 Kabosu,China,,,,China,Bot,,Bot,True,False,,"Kabosu, Crack AD, Jiajun"
 Kabs,Denmark,,Europe,,EMEA,Support,,Support,False,False,,"Kabs, Kaabs"
 KABUKING,Japan,,,,Japan,Jungle,,Jungle,True,False,,"KABUKING, Zange2nodesi, Zangetsunodesi"
@@ -4750,9 +4755,11 @@ Kaiting,Austria,,,,Europe,Bot,,Bot,True,False,,Kaiting
 Kaito (Kaito Mitsufuji),Japan,1999-03-08,Japan,,PCS,Mid,Syndra,Mid,False,False,1.0,"Kaito (Kaito Mitsufuji), Silver (Kaito Mitsufuji)"
 Kaito (Marcos Leiva),Chile,,,,Latin America,Mid,,Mid,True,False,,Kaito (Marcos Leiva)
 KaitoS,Spain,,,,Europe,Bot,,Bot,True,False,,KaitoS
-kaitur,Italy,,,,Europe,Support,"Thresh,Alistar,Rakan,Morgana",Support,True,False,,Kaitur
-Kaiwing,Hong Kong,1996-10-27,Taiwan,Frank Esports,Asia Pacific,Support,"Thresh,Leona",Support,False,False,1.0,"Kaiwing, LING (Ling Kai Wing)"
-Kaixuan,China,,,,China,Support,,Support,False,False,,"Kaixuan, Xunyu"
+Jaden (Xu Peng),China,,,,China,Bot,,Bot,True,False,,Jaden (Xu Peng)
+Jadko,Denmark,2000-07-24,Europe,,EMEA,Top,,Top,False,False,1.0,Jadko
+Jadom,Ecuador,,,,Latin America,Support,,Support,True,False,,Jadom
+Jadran,Denmark,,,,Europe,Mid,,Mid,True,False,,Jadran
+Jadsz,Brazil,,,MIRAI KICKS,Brazil,Coach,,Owner;Assistant Coach,False,False,,Jadsz
 Jae,Germany,,,,Europe,Support,,Support,True,False,,Jae
 Jaeger,Germany,1996-06-23,Europe,,EMEA,Top,Riven,Top,False,False,1.0,"Jaeger, Smitty, Smitty J, SmittyJ"
 Jaeger (Japanese Caster),Japan,,,,PCS,Caster,,Caster,False,False,,Jaeger (Japanese Caster)
@@ -4888,7 +4895,7 @@ Jeff (Vương Xuân Đức),Vietnam,,Southeast Asia,FPT Hanoi,Vietnam,Bot,"Vayne
 JeffLee,China,1999-03-26,,,China,Top,,Top,True,False,1.0,"JeffLee, Jeff (Li Jia-Feng)"
 Jeffrey,Netherlands,1999-07-19,Europe,,EMEA,Coach,"Lucian,Vayne,Vladimir",Coach,False,False,1.0,"Jeffrey, XFang"
 JeiiZe,Mexico,1995-09-24,Latin America North,Tomorrow Esports,Latin America,Manager,"Poppy,Singed,Jax,Rumble",Support,False,False,1.0,"JeiiZe, Coffey, Papo"
-Jejky,Czech Republic,1998-08-26,Europe,Dynamo Eclot,EMEA,Jungle,"Kha'Zix,Lee Sin,Jarvan IV",Jungle,False,False,1.0,Jejky
+Jejky,Czech Republic,1998-08-26,Europe,,EMEA,Jungle,"Kha'Zix,Lee Sin,Jarvan IV",Jungle,False,False,1.0,Jejky
 Jekko (Jemal Revazishvili),Georgia,,Europe,,EMEA,Jungle,,Jungle,False,False,,Jekko (Jemal Revazishvili)
 Jekyll,Czech Republic,,,,Europe,Support,,Bot,True,True,,"Jekyll, Jekylla, Jkl"
 Jellal,Australia,,Oceania,Team Bliss,Asia Pacific,Coach,,Assistant Coach,False,False,,Jellal
@@ -5071,12 +5078,11 @@ Jochnes,Germany,,,,Europe,Mid,,Mid,True,False,,"Jochnes, 5555555555555 IQ"
 Jocke,Serbia,1999-07-26,Europe,,EMEA,Bot,"Akali,Riven,Nidalee,Irelia",Bot,False,False,1.0,"Jocke, Jocke is back"
 Jockster,Brazil,1996-02-18,,INTZ,Brazil,Coach,"Veigar,Leona,Janna",Positional Coach,False,False,1.0,Jockster
 Jodin,Dominican Republic,,Latin America North,,Latin America,Support,"Leona,Thresh",Support,True,False,,Jodin
-Joe (Hsu Li-Geng),Taiwan,2002-08-16,,,Asia Pacific,Support,,Support,False,False,1.0,Joe (Hsu Li-Geng)
-Joe (Péter Ligeti),Hungary,,,,Europe,Support,,Support,True,False,,Joe (Péter Ligeti)
-Joe (Philipe Mazetti),Brazil,,,,Brazil,Coach,,Head Coach,False,False,,Joe (Philipe Mazetti)
-Joe Cix,Germany,,,,Europe,Support,,Support,True,False,,Joe Cix
-iLinksY,Malaysia,1997-09-16,,,SEA,Support,,Support,True,False,1.0,"ILinks, ILinksY"
-IlllIma,South Korea,2002-09-20,,Forsaken (Polish Team),Korea,Top,,Top,False,False,1.0,"IlllIma, Illima, 마태석"
+Ilgar,Turkey,2004-04-13,,GLORE,EMEA,Jungle,,Jungle,False,False,1.0,"Shredded, Ilgar"
+ili,Turkey,,,,Turkey,Coach,,Head Coach,True,False,,Ili
+ili ili ili,United States,,,,North America,Support,,Support,True,False,,"Ili ili ili, Kinoscorpia"
+iLinksY,Malaysia,1997-09-16,,,SEA,Support,,Support,True,False,1.0,"ILinksY, ILinks"
+IlllIma,South Korea,2002-09-20,,,Korea,Top,,Top,False,False,1.0,"IlllIma, Illima, 마태석"
 Illumi,Honduras,,,,Latin America,Jungle,,Jungle,True,False,,Illumi
 illusion (Chen Xin-Lin),China,1990-08-09,,,China,Coach,"Nocturne,Jarvan IV,Evelynn",Assistant Coach,False,False,1.0,Illusion (Chen Xin-Lin)
 Illusion (Han Jae-ung),South Korea,,,,Oceania,Bot,,Bot,True,False,,Illusion (Han Jae-ung)
@@ -5139,7 +5145,7 @@ inchesevan,United States,,,,North America,Support,,Support,True,False,,Incheseva
 Inchi,Taiwan,,,,Asia Pacific,Mid,,Coach,False,False,,Inchi
 Incon,United States,,,,North America,Coach,,Analyst;Assistant Coach,True,False,,"Incon, Envenom V2, Inconspicuous"
 Incursio,Australia,1999-11-08,Oceania,Antic Esports,Asia Pacific,Mid,"Katarina,Viego,Yone,Zed",Mid,False,False,1.0,Incursio
-Indecision,Bulgaria,2002-11-21,Europe,aNc Outplayed,EMEA,Jungle,,Jungle,False,False,1.0,Indecision
+Indecision,Bulgaria,2002-11-21,Europe,Crvena zvezda Esports,EMEA,Jungle,,Jungle,False,False,1.0,Indecision
 InDeed,Germany,1999-09-06,Europe,,EMEA,Mid,"Zoe,Corki",Mid,True,False,1.0,InDeed
 Independent,Spain,1998-09-19,Europe,Ramboot Club,EMEA,Coach,,Head Coach,False,False,1.0,"Independent, Inde"
 Indifferent,Spain,1998-11-03,Europe,Vitality Rising Bees,EMEA,Support,"Kalista,Diana,Ashe,Kindred",Support,False,False,1.0,"Indifferent, Indiff, Vicky"
@@ -5190,7 +5196,7 @@ Inoue,Brazil,,,,Brazil,Bot,"Ezreal,Kai'Sa,Lucian,Caitlyn",Bot,True,False,,Inoue
 Inqui,Dominican Republic,,,,Latin America,Top,,Top,True,False,,"Inqui, 17NDKHY"
 Insane,Costa Rica,1997-02-17,,,Latin America,Coach,,Head Coach,True,False,1.0,Insane
 Insane (Kuba Grzechnik),Poland,2000-07-17,Europe,,EMEA,Support,,Support,False,False,1.0,Insane (Kuba Grzechnik)
-Insane (Taieb Kraiem),Tunisia,,,,EMEA,,,Support,False,False,,"Insane (Taieb Kraiem), Insane1"
+Insane (Taieb Kraiem),Tunisia,,,,EMEA,Support,,Support,False,False,,"Insane (Taieb Kraiem), Insane1"
 Insanity,United States,1999-09-22,,Shopify Rebellion,North America,Mid,,Mid,False,False,1.0,"Insanity, InsanityXXX"
 Insanity (Daniela Flores),Mexico,,,,Latin America,Mid,,Mid,True,False,,Insanity (Daniela Flores)
 inSec,South Korea,1993-06-29,,,Korea,Jungle,"Lee Sin,Zed,Olaf,Renekton,Shaco",Jungle,True,False,1.0,InSec
@@ -5388,12 +5394,9 @@ Jad,Vietnam,2001-01-13,,,Vietnam,Support,,Support,True,False,1.0,Jad
 Jadax,Peru,,,,Latin America,Top,,Top,True,False,,Jadax
 Jadelit,Poland,,,,Europe,Bot,,Bot,True,False,,Jadelit
 Jaden (Vicente Espinoza),Chile,,,,Latin America,Coach,"Rakan,Braum,Tahm Kench",Head Coach,False,False,,Jaden (Vicente Espinoza)
-Jaden (Xu Peng),China,,,,China,Bot,,Bot,True,False,,Jaden (Xu Peng)
-Jadko,Denmark,2000-07-24,Europe,,EMEA,Top,,Top,False,False,1.0,Jadko
-Jadom,Ecuador,,,,Latin America,Support,,Support,True,False,,Jadom
-Jadran,Denmark,,,,Europe,Mid,,Mid,True,False,,Jadran
-Jadsz,Brazil,,,MIRAI KICKS,Brazil,Coach,,Owner;Assistant Coach,False,False,,Jadsz
-Hong2,Taiwan,2002-10-24,,,Asia Pacific,Jungle,,Jungle,False,False,1.0,"CuteSnake, 許永宏, Hong2, Babyhong2"
+HoneyRain,Taiwan,,,,LMS,Bot,,Bot,True,False,,"RaiN (Cheng Hao), HoneyRain"
+honeyTeng,South Korea,,,,Korea,Top,Riven,Top,True,False,,"HoneyTeng, HoneyTeng1"
+Hong2,Taiwan,2002-10-24,,,Asia Pacific,Jungle,,Jungle,False,False,1.0,"Hong2, Babyhong2, CuteSnake, 許永宏"
 HongA,South Korea,2002-08-05,,,Korea,Bot,,Bot,True,False,1.0,"HongA, Hong A"
 HongCono,South Korea,1997-09-23,,,Korea,Coach,,Head Coach,True,False,1.0,"HongCono, 19, Lee (Lee Dae-hyeong)"
 HongQ,Taiwan,2007-07-02,,CTBC Flying Oyster,Asia Pacific,Mid,,Mid,False,False,1.0,"HongQ, 吉娃娃只有5歲"
@@ -5690,11 +5693,11 @@ ikRyong,South Korea,1997-03-28,,FunPlus Phoenix,Korea,Analyst,,Analyst,False,Fal
 ikssu,South Korea,1996-10-22,,,Korea,Top,Gragas,Top,False,False,1.0,"Ikssu, Er5su, Erssu"
 Ikuhro,Portugal,,,,Europe,Top,,Top,True,False,,Ikuhro
 iLegion,Egypt,1996-07-13,,Riot Games Inc.,,Caster,"Kha'Zix,Hecarim,Evelynn,Twitch",Caster,False,False,1.0,"ILegion, Legion (Taha Abdel Moneim)"
-iLEVI,Albania,1998-05-16,Europe,,EMEA,Support,"Rakan,Pyke,Rell",Support,False,False,1.0,"ILEVI, Levi (Besmir Jakupi)"
-Ilgar,Turkey,2004-04-13,,GLORE,EMEA,Jungle,,Jungle,False,False,1.0,"Ilgar, Shredded"
-ili,Turkey,,,,Turkey,Coach,,Head Coach,True,False,,Ili
-ili ili ili,United States,,,,North America,Support,,Support,True,False,,"Ili ili ili, Kinoscorpia"
-Harvey (Đàm Quang Huy),Vietnam,2002-06-05,,,Vietnam,Mid,,Mid,True,False,1.0,"Doker, Harvey (Đàm Quang Huy), DHQ"
+iLEVI,Albania,1998-05-16,Europe,Anorthosis Famagusta Esports,EMEA,Support,"Rakan,Pyke,Rell",Support,False,False,1.0,"ILEVI, Levi (Besmir Jakupi)"
+Harunabi,Germany,1997-03-23,,eSports Cologne e.V.,EMEA,Mid,"Galio,Orianna",Mid,False,False,1.0,Harunabi
+Harunika,Japan,,,,Japan,Mid,,Mid,True,False,,Harunika
+Harvey,Taiwan,,,,LMS,Bot,,Bot,True,False,,Harvey
+Harvey (Đàm Quang Huy),Vietnam,2002-06-05,,,Vietnam,Mid,,Mid,True,False,1.0,"Harvey (Đàm Quang Huy), DHQ, Doker"
 Hasagi,Slovenia,2002-10-11,,SPIKE Syndicate,EMEA,Top,,Top,False,False,1.0,Hasagi
 Hasbak,Denmark,,Europe,,EMEA,Mid,,Mid,False,False,,"Hasbak, Víví, Vivifica"
 Hashem,Syria,,Europe,,EMEA,Bot,,Bot,False,False,,"Hashem, Azazel, Azazel2, Fallen Azazel, Wifey buff"
@@ -5811,7 +5814,7 @@ Helcrank,Peru,2002-05-13,,First Gaming,Latin America,Top,,Top,False,False,1.0,He
 helforca,,2006-06-12,,KATANA (Turkish Team),EMEA,Mid,,Mid,False,False,1.0,Helforca
 Helgis,Sweden,,,,Europe,Jungle,,Jungle,True,False,,Helgis
 Helior,Chile,,Latin America South,,Latin America,Manager,"Gnar,Rumble,Ryze",Esports Manager,True,False,,"Helior, ISG Helior"
-Helios (Nguyễn Khắc Chánh Tín),Vietnam,,,Baby Whales,Vietnam,,,Support,False,False,,Helios (Nguyễn Khắc Chánh Tín)
+Helios (Nguyễn Khắc Chánh Tín),Vietnam,,,Baby Whales,Vietnam,Support,,Support,False,False,,Helios (Nguyễn Khắc Chánh Tín)
 Helios (Shin Dong-jin),South Korea,1993-06-20,,Riot Games Inc.,Korea,Broadcast Talent,"Lee Sin,Shyvana,Jarvan IV",Coach,False,False,1.0,Helios (Shin Dong-jin)
 Helios (Trịnh Mạnh Hà),Vietnam,,Southeast Asia,,Vietnam,Support,,Support,True,False,,"Helios (Trịnh Mạnh Hà), Gentle (Trịnh Mạnh Hà), Perceus, Percy (Trịnh Mạnh Hà)"
 Helios (Yuen Hei Hiun),Hong Kong,1990-01-21,,,China,Coach,,Coach,True,False,1.0,"Helios (Yuen Hei Hiun), ANA2k"
@@ -5927,7 +5930,7 @@ HipsterG,United States,,,,North America,Bot,,Bot,True,False,,HipsterG
 Hirai,South Korea,1982-03-26,,KT Rolster,Korea,Coach,,Head Coach,False,False,1.0,Hirai
 Hirefort,Argentina,,,,Latin America,Jungle,,Jungle,True,False,,Hirefort
 Hirishin,United States,1991-06-19,,,North America,Top,"Vladimir,Kha'Zix,Orianna,Diana",Top,True,False,1.0,Hirishin
-HiRit,South Korea,1998-07-24,,FUT Esports,Korea,Top,Jayce,Top,False,False,1.0,"HiRit, HiRit1"
+HiRit,South Korea,1998-07-24,,,Korea,Top,Jayce,Top,False,False,1.0,"HiRit, HiRit1"
 Hiro (Alexandre El Hodebey),,2002-06-23,Europe,One More Esports,EMEA,Top,,Top,False,False,1.0,"Hiro (Alexandre El Hodebey), H ι r o, Hiro1"
 Hiro (Lee Woo-suk),South Korea,1987-07-28,,,Korea,Coach,"Corki,Graves",Head Coach,True,False,1.0,"Hiro (Lee Woo-suk), I Rush I, Soul (Lee Woo-suk)"
 Hiro (Nguyên Đại Hải),Czech Republic,2000-08-27,Europe,BRUTE,EMEA,Bot,"Jhin,Kalista,Tristana",Bot,False,False,1.0,"Hiro (Nguyên Đại Hải), Hiro Hai"
@@ -6005,9 +6008,10 @@ Honest (Kuriakos Mastraggelopoulos),Greece,,,,EMEA,Jungle,,Jungle,False,False,,H
 Honey (Daniel Ahokas),Finland,,Europe,Bastu Five,EMEA,Bot,,Bot,False,False,,Honey (Daniel Ahokas)
 Honey (Park Bo-heon),South Korea,2000-09-08,,,Korea,Bot,,Bot,False,False,1.0,Honey (Park Bo-heon)
 Honeymoon,Argentina,,,,Latin America,Support,,Support,True,False,,Honeymoon
-HoneyRain,Taiwan,,,,LMS,Bot,,Bot,True,False,,"HoneyRain, RaiN (Cheng Hao)"
-honeyTeng,South Korea,,,,Korea,Top,Riven,Top,True,False,,"HoneyTeng, HoneyTeng1"
-Grom,Poland,,,,Europe,Support,Sona,Support,True,False,,"Grøm, Grom"
+Grk,Poland,,,,Europe,Support,,Support,True,False,,Grk
+Groarr,Netherlands,,,,Europe,Mid,,Mid,True,False,,Groarr
+Grodka,Switzerland,,,,Europe,Top,,Top,True,False,,"Grodka, Gr0dka"
+Grom,Poland,,,,Europe,Support,Sona,Support,True,False,,"Grom, Grøm"
 Gromix,Spain,,,UCAM Esports Academy,EMEA,Jungle,"Bel'Veth,Viego,Kindred",Jungle,False,False,,Gromix
 groove,Russia,1983-03-02,,,CIS,Owner,,CEO,True,False,1.0,Groove
 Grosse,Russia,1996-03-07,,,CIS,Mid,Taliyah,Mid,True,False,1.0,"Grosse, MissYou"
@@ -6210,7 +6214,7 @@ Hakuho,United States,1995-02-26,,,North America,Support,Morgana,Support,True,Fal
 Haky,Norway,,,,Europe,Bot,,Bot,True,False,,Haky
 Halbua,Russia,,,,CIS,Top,,Top,True,False,,Halbua
 HALdesu,Japan,,Japan,Burning Core Toyama Academy,Asia Pacific,Jungle,"Bel'Veth,Urgot,Viego",Jungle,False,False,,HALdesu
-Half,South Korea,2005-08-21,,OKSavingsBank BRION Academy,Korea,,,Top,False,False,1.0,Half
+Half,South Korea,2005-08-21,,OKSavingsBank BRION Academy,Korea,Top,,Top,False,False,1.0,Half
 Halfers,United States,,,,North America,Top,,Top,True,False,,Halfers
 HalfPastThor,United Kingdom,,,,Europe,Mid,,Mid,True,False,,HalfPastThor
 Halier,Brazil,1990-03-01,,,Brazil,Coach,"Karthus,Heimerdinger",Assistant Coach,False,False,1.0,Halier
@@ -6335,9 +6339,9 @@ Haru (Miguel Jiménez),Spain,,Europe,,EMEA,Jungle,,Jungle,False,False,,Haru (Mig
 Haruhiro,Italy,1999-01-21,Europe,,EMEA,Top,,Top,False,False,1.0,"Haruhiro, Haruhıro, Infinity (Claudio Scuderi), InfinityCla"
 Harumi,Brazil,,,,Brazil,Support,,Support,True,False,,Harumi
 Haruna,Vietnam,,,,Vietnam,Jungle,,Jungle,True,False,,Haruna
-Harunabi,Germany,1997-03-23,,eSports Cologne e.V.,EMEA,Mid,"Galio,Orianna",Mid,False,False,1.0,Harunabi
-Harunika,Japan,,,,Japan,Mid,,Mid,True,False,,Harunika
-Harvey,Taiwan,,,,LMS,Bot,,Bot,True,False,,Harvey
+Get Snuggled,United States,,,,North America,Jungle,Volibear,Jungle,True,False,,"Get Snuggled, Dr Snugglez, Mr Dr Snugglez"
+Getback,Australia,,Oceania,Maryville University,North America,Mid,,Mid,False,False,,Getback
+GeTSloW,Portugal,2003-06-20,Europe,,EMEA,Mid,"Kassadin,Yone,Azir",Mid,False,False,1.0,GeTSloW
 Getsu,Luxembourg,2000-08-11,Europe,,EMEA,Jungle,,Jungle,False,False,1.0,Getsu
 Geum go,South Korea,2001-12-17,,,Korea,Jungle,,Jungle,True,False,1.0,"Geum go, GeumGo, YXzZz"
 Gevous,Netherlands,,Europe,Berlin International Gaming,EMEA,Coach,,Head Coach,False,False,,Gevous
@@ -6395,7 +6399,7 @@ Gine,Italy,2002-07-04,Europe,,EMEA,Coach,"Rumble,Ryze,Lee Sin,Elise",Head Coach,
 Ginko,United States,,,,North America,Manager,,Director of Operations,True,False,,Ginko
 Gino,United States,,,,North America,Coach,,Head Coach,True,False,,"Gino, Ginormous, Ginormous Noob, Noob (Peter Shyu)"
 Gino (Long Do),United States,,,University of California Irvine,North America,Top,,Top,False,False,,Gino (Long Do)
-Ginqal,United States,,,Grand View University,North America,Mid,,Mid,False,False,,Ginqal
+Ginqal,United States,,,Dorado Gaming Black,North America,Mid,,Mid,False,False,,Ginqal
 Ginrais,Denmark,2004-03-16,Europe,,EMEA,Mid,,Mid,False,False,1.0,Ginrais
 Ginsu,Sweden,1989-06-12,,,Europe,Jungle,"Elise,Nasus,Nautilus",Jungle,True,False,1.0,Ginsu
 Gint,Germany,,Europe,Babos Gaming Boys Love,EMEA,Bot,,Bot,False,False,,Gint
@@ -6424,7 +6428,7 @@ Glebo,Poland,,,,Europe,Top,Nasus,Top,True,False,,"Glebo, Konsacz150"
 Gleeb,United States,1996-03-29,,,North America,Support,"Thresh,Evelynn,Vladimir,Lee Sin",Support,True,False,1.0,"Gleeb, Gleebglarbu, Hyolyn"
 Glen,Taiwan,1990-03-05,Taiwan,,Asia Pacific,Manager,"Gragas,Kha'Zix,Elise",Team Representative,False,False,1.0,"Glen, LastHope, SAFELOVE, TL (Yang Po-Jen), TooLonG, 楊以德的老爸O口O"
 glfs,China,,,Invictus Gaming,China,Jungle,"Lee Sin,Graves",Jungle,False,False,,Glfs
-Glisha,Serbia,,Europe,,EMEA,Caster,,Top,False,False,,"Glisha, Gliśa"
+Glisha,Serbia,,Europe,Crvena zvezda Esports,EMEA,Caster,,Coach,False,False,,"Glisha, Gliśa"
 GlissyBoy,United States,1999-11-30,,,North America,Support,"Bard,Thresh,Rakan",Support,True,False,1.0,"GlissyBoy, Heavenboy"
 Gliukoze,Lithuania,1996-01-03,,,Europe,Top,"Irelia,Jax",Top,True,False,1.0,Gliukoze
 Globby,United States,,,New York University,North America,Bot,,Bot,False,False,,Globby
@@ -6478,7 +6482,7 @@ GodlikeMagic,Germany,,,,Europe,Jungle,,Jungle,True,False,,GodlikeMagic
 Godlou,China,,,,China,Mid,,Mid,True,False,,Godlou
 GoDLy (Aymen Hamza),Tunisia,,,,,Support,,Support,True,False,,"GoDLy (Aymen Hamza), HamZeus"
 Godnium,Costa Rica,1999-08-28,,,Latin America,Top,,Top,True,False,1.0,"Godnium, Pouf"
-Godo,France,,,Venomcrest Esports,EMEA,Coach,,Head Coach,False,False,,Godo
+Godo,France,,,,EMEA,Coach,,Head Coach,False,False,,Godo
 GodPickle,Spain,1997-01-25,,,Europe,Mid,"Sylas,Zoe,Cassiopeia",Mid,True,False,1.0,"GodPickle, Pickle"
 godpillar,China,,,,China,Top,,Top,False,False,,Godpillar
 Godplank,United States,,,,Latin America,Coach,,Head Coach,True,False,,Godplank
@@ -6551,7 +6555,7 @@ Goose (Connor O'Brien),Republic of Ireland,1998-03-16,,,Europe,Jungle,"Graves,Le
 goose (Kerem Katilmis),Germany,1999-07-01,Europe,ROSSMANN Centaurs,EMEA,Mid,,Mid,False,False,1.0,Goose (Kerem Katilmis)
 Goose (Lucca Schouten),Netherlands,,,,Europe,Bot,"Lucian,Twitch,Vayne",Bot,True,False,,"Goose (Lucca Schouten), Gews, IHATESMURFSXDD, Iucca, Lieve ster, Lucca, Peezy"
 Goot,Brazil,2001-01-28,,Flamengo Academy,Brazil,Jungle,Viego,Jungle,False,False,1.0,Goot
-Gordinho,Portugal,2005-08-24,,Team Refuse,EMEA,Support,,Support,False,False,1.0,Gordinho
+Gordinho,Portugal,2005-08-24,,Venomcrest Esports,EMEA,Support,,Support,False,False,1.0,Gordinho
 Gordo,United States,,,,North America,Caster,,Caster,False,False,,Gordo
 Goredrinker (Phạm Duy Khang),Vietnam,,,,Vietnam,Jungle,,Jungle,False,False,,"Goredrinker (Phạm Duy Khang), Topo (Phạm Duy Khang)"
 Gori,South Korea,2000-08-09,,CTBC Flying Oyster,Korea,Mid,,Mid,False,False,1.0,Gori
@@ -6577,7 +6581,7 @@ GouGou,Taiwan,2000-06-07,,,Asia Pacific,Top,,Top,False,False,1.0,GouGou
 Gould,Spain,,,,Europe,Bot,,Bot,True,False,,Gould
 Gov,Indonesia,,,,SEA,Support,,Support,True,False,,Gov
 Gover,Spain,,,Khore Gaming,EMEA,Jungle,,Jungle,False,False,,"Gover, Governor (Antonio Javier Azorin Maiquez)"
-Governor,United Kingdom,,Europe,,EMEA,Top,Camille,Top,False,False,,"Governor, The Governor, TheGovernor"
+Governor,United Kingdom,,Europe,Brod &amp; Friends,EMEA,Top,Camille,Top,False,False,,"Governor, The Governor, TheGovernor"
 GoWonBin,South Korea,2005-05-01,,,Korea,Mid,,Mid,False,False,1.0,"GoWonBin, ONE (Ko Won-bin)"
 Gowther,Venezuela,,,Janus Panter,Latin America,Support,,Support,False,False,,"Gowther, Gowhter"
 Gozao,Portugal,,Europe,,EMEA,Mid,,Mid,False,False,,Gozao
@@ -6651,9 +6655,10 @@ Grisen,Denmark,1997-01-15,Europe,Fourth Wall,EMEA,Support,"Thresh,Blitzcrank,Bar
 Grisha,Australia,,,,Oceania,Bot,,Bot,True,False,,Grisha
 Gristlestick,United States,,,,North America,Bot,,Bot,True,False,,"Gristlestick, Gristlestick2"
 Grizzly,South Korea,2005-05-25,,Hanwha Life Esports Challengers,Korea,Jungle,Viego,Jungle,False,False,1.0,"Grizzly, Captain (Jo Seung-hoo), Jg Test0"
-Grk,Poland,,,,Europe,Support,,Support,True,False,,Grk
-Groarr,Netherlands,,,,Europe,Mid,,Mid,True,False,,Groarr
-Grodka,Switzerland,,,,Europe,Top,,Top,True,False,,"Grodka, Gr0dka"
+Frogadog,Australia,1996-11-08,,,Oceania,Top,"Hecarim,Fiora,Trundle",Top,True,False,1.0,"Frogadog, Frog (Michael Cornish)"
+Froggen,Denmark,1994-02-21,Europe,,EMEA,Streamer,"Anivia,LeBlanc,Ahri,Kassadin,Twisted Fate",Content Creator,True,False,1.0,Froggen
+Froggy,Vietnam,2002-12-08,,,Vietnam,Mid,,Mid,False,False,1.0,Froggy
+frogurt,Estonia,,,,Europe,Jungle,Twisted Fate,Jungle,True,False,,Frogurt
 Frolic,South Korea,,,,Korea,Support,,Support,True,False,,"Frolic, Junegi"
 Frolloc,Australia,,,,Oceania,Support,,Support,True,False,,Frolloc
 From Iron,Canada,,,University of British Columbia,North America,Support,,Support,False,False,,From Iron
@@ -6722,7 +6727,7 @@ Furndog,United Kingdom,,,,Europe,Coach,,Coach,True,False,,Furndog
 Furosse,France,2001-03-21,Europe,,EMEA,Top,,Top,False,False,1.0,Furosse
 Furuy,Netherlands,2000-12-16,Europe,,EMEA,Mid,"Zoe,LeBlanc,Yasuo",Mid,False,False,1.0,"Furuy, Summoner2000"
 Fury (Jakob Burke),Germany,,,,Europe,Bot,,Bot,True,False,,"Fury (Jakob Burke), Fury III"
-Fury (Lee Jin-yong),South Korea,1995-11-11,,,Korea,Coach,"Jinx,Lucian",Coach,True,False,1.0,"Fury (Lee Jin-yong), ZetNJin"
+Fury (Lee Jin-yong),South Korea,1995-11-11,,Bilibili Gaming,Korea,Coach,"Jinx,Lucian",Coach,False,False,1.0,"Fury (Lee Jin-yong), ZetNJin"
 Fury (Phạm Xuân Tiến),Vietnam,,Southeast Asia,,Vietnam,Jungle,"Lee Sin,Jarvan IV,Pantheon",Jungle,True,False,,Fury (Phạm Xuân Tiến)
 fuRy (Roman Koulák),Czech Republic,,,,Europe,Support,,Support,True,False,,"FuRy (Roman Koulák), FuRy140, FuRyyy"
 Furyx,Norway,,,,Europe,Bot,,Bot,True,False,,"Furyx, Fury (Elias Furnes)"
@@ -6937,9 +6942,8 @@ Geser,Germany,,,,Europe,Support,,Support,True,False,,Geser
 Get Gosu,Peru,,,,Latin America,Owner,,Owner,True,False,,Get Gosu
 Get Lost,Russia,2002-02-26,,,CIS,Mid,"Katarina,Akali,Yasuo,Malphite",Mid,True,False,1.0,"Get Lost, GetLost"
 Get Right,Chile,,,,LAS,Bot,,Bot,True,False,,Get Right
-Get Snuggled,United States,,,,North America,Jungle,Volibear,Jungle,True,False,,"Get Snuggled, Dr Snugglez, Mr Dr Snugglez"
-Getback,Australia,,Oceania,Maryville University,North America,Mid,,Mid,False,False,,Getback
-GeTSloW,Portugal,2003-06-20,Europe,,EMEA,Mid,"Kassadin,Yone,Azir",Mid,False,False,1.0,GeTSloW
+Finita,Belarus,,,,CIS,Jungle,Graves,Jungle,True,False,,"Lupa, Finita, AtiniF, Fixthegame, Kasqu, L9 Belarus"
+Finn,Sweden,1999-06-03,Europe,Rogue (European Team),EMEA,Top,"Irelia,Kled",Top,False,False,1.0,"Finn, Blomster Finn, BlomsterFinn"
 Finn (Alex Herrouin),France,,Europe,,EMEA,Coach,,Head Coach,False,False,,Finn (Alex Herrouin)
 Finnry,Germany,2001-01-23,Europe,,EMEA,Jungle,,Jungle,False,False,1.0,Finnry
 Fintinhas,Portugal,,Europe,White Dragons,EMEA,Coach,,Head Coach,False,False,,"Fintinhas, Fintas"
@@ -7055,6 +7059,7 @@ Flip (Filipe Ferreira),Portugal,,,,Europe,Top,"Fiora,Akali,Gangplank,Irelia",Top
 Flip (Kim Sang-wook),South Korea,2008-05-26,,Kwangdong Freecs Academy,Korea,Mid,,Mid,False,False,1.0,Flip (Kim Sang-wook)
 Flipper,Denmark,,Europe,,EMEA,Jungle,Xin Zhao,Jungle,True,False,,"Flipper, FIipper, Flippers"
 Flips,South Korea,2001-04-17,,,Korea,Jungle,,Jungle,False,False,1.0,Flips
+fliptik,United States,2007-01-26,,,North America,Top,"Camille,Gwen,Renekton",Top,False,False,1.0,Fliptik
 Flirt,Sweden,1998-01-24,,,Europe,Bot,"Lucian,Ezreal,Kalista",Bot,True,False,1.0,Flirt
 Flocon,Canada,2006-01-07,,St. Clair College,North America,Mid,,Mid,False,False,1.0,"Flocon, Jojozz"
 Floda,Singapore,,,,SEA,Mid,,Mid,True,False,,Floda
@@ -7136,7 +7141,7 @@ Forge,China,2000-09-01,,,China,Mid,,Mid,False,False,1.0,"Forge, Xin (Deng Jie)"
 Forges,Turkey,,,,Turkey,Support,,Support,True,False,,Forges
 Forget Me Not,South Korea,,,,Korea,Mid,,Mid,True,False,,Forget Me Not
 Forlin,Brazil,,,Fluxo Academy,Brazil,Top,"Renekton,Jax",Top,False,False,,Forlin
-FORM,Italy,1999-04-25,,Lobstar,EMEA,,"Lee Sin,Nautilus,Sett,Braum",Support,False,False,1.0,FORM
+FORM,Italy,1999-04-25,,Lobstar,EMEA,Support,"Lee Sin,Nautilus,Sett,Braum",Support,False,False,1.0,FORM
 Formal,United States,1991-02-16,,,Oceania,Caster,"Aurelion Sol,Nocturne",Caster,True,False,1.0,Formal
 Formes,Czech Republic,,Europe,,EMEA,Top,,Top,False,False,,Formes
 Fornari,,,Europe,Underworld Esports,EMEA,Support,,Support,False,False,,"Fornari, Kintsugi"
@@ -7157,7 +7162,7 @@ fortunate (Daniel Priezjev),Canada,,,,North America,Top,,Top,False,False,,"Fortu
 Fortunate (Tim Merckens),Netherlands,,,,Europe,Support,Bard,Support,True,False,,Fortunate (Tim Merckens)
 fOru,South Korea,1981-02-22,,,Korea,Coach,,Coach,True,False,1.0,FOru
 Foryax,Costa Rica,2000-04-16,,,Latin America,Bot,,Bot,True,False,1.0,Foryax
-Forzent,Turkey,2000-12-14,,,Turkey,Jungle,"Rek'Sai,Lee Sin,Elise,Lillia",Jungle,True,False,1.0,Forzent
+Forzent,Turkey,2000-12-14,,,Turkey,Jungle,"Rek'Sai,Lee Sin,Elise,Kindred",Jungle,True,False,1.0,Forzent
 Fosky,Spain,,Europe,Circuito Tormenta,EMEA,Manager,,Strategic Coach,False,False,,Fosky
 Foton,Netherlands,,,,Europe,Bot,,Bot,True,False,,Foton
 Fottiti,Venezuela,,,,LAN,Mid,,Mid,True,False,,Fottiti
@@ -7210,7 +7215,7 @@ Franky (Park Seong-shik),South Korea,2003-09-23,,,Korea,Bot,,Bot,True,False,1.0,
 FrankyG,United States,,,,North America,Support,,Support,True,False,,FrankyG
 Frappii,France,2001-11-19,Europe,Akroma,EMEA,Bot,"Vayne,Kai'Sa,Aphelios,Zeri",Bot,False,False,1.0,"Frappii, Frapi"
 Frash,Poland,,,,Europe,Jungle,,Jungle,True,False,,Frash
-Fratellin,Italy,2003-10-25,,Lobstar,EMEA,,"Malphite,Camille,Teemo",Top,False,False,1.0,Fratellin
+Fratellin,Italy,2003-10-25,,Lobstar,EMEA,Top,"Malphite,Camille,Teemo",Top,False,False,1.0,Fratellin
 Frather,Hungary,,,,Europe,Coach,"Maokai,Malphite,Shen,Jax",Top;Assistant Coach,True,False,,Frather
 Frazer,United Kingdom,2000-05-13,,,Europe,Jungle,"Karthus,Lee Sin,Elise",Jungle,True,False,1.0,"Frazer, Fraze, FrazerFox, Trucker Fraze"
 FrBulldog,Russia,,,,CIS,Support,,Support,True,False,,"FrBulldog, MrBulldog"
@@ -7261,11 +7266,9 @@ Frle,Croatia,,,,Europe,Mid,,Mid,True,False,,Frle
 Frofen,Colombia,,,,Latin America,Support,,Support,True,False,,Frofen
 Frog (Lee Min-hoi),South Korea,2005-06-30,,DRX Challengers,Korea,Top,,Top,False,False,1.0,"Frog (Lee Min-hoi), Lbm"
 Frog Jesus,France,,,,Europe,Top,,Top,True,False,,"Frog Jesus, KiGuEl"
-Frogadog,Australia,1996-11-08,,,Oceania,Top,"Hecarim,Fiora,Trundle",Top,True,False,1.0,"Frogadog, Frog (Michael Cornish)"
-Froggen,Denmark,1994-02-21,Europe,,EMEA,Streamer,"Anivia,LeBlanc,Ahri,Kassadin,Twisted Fate",Content Creator,True,False,1.0,Froggen
-Froggy,Vietnam,2002-12-08,,,Vietnam,Mid,,Mid,False,False,1.0,Froggy
-frogurt,Estonia,,,,Europe,Jungle,Twisted Fate,Jungle,True,False,,Frogurt
-Exile (Fabian Schubert),Germany,1997-04-21,Europe,Unicorns of Love Sexy Edition,EMEA,Mid,"Kha'Zix,Zed",Mid,False,False,1.0,"Exileh, Exile (Fabian Schubert)"
+Exeden,Australia,,,,Oceania,Bot,,Bot,True,False,,Exeden
+Exiladissima,Brazil,2002-12-09,,Vivo Keyd Stars Ignis,Brazil,Top,Kayle,Top,False,False,1.0,"Exiladissima, Exiladissma"
+Exile (Fabian Schubert),Germany,1997-04-21,Europe,Unicorns of Love Sexy Edition,EMEA,Mid,"Kha'Zix,Zed",Mid,False,False,1.0,"Exile (Fabian Schubert), Exileh"
 Exile (Rafał Borowski),Poland,,Europe,ESPORT ARENA DOCISK,EMEA,Coach,,Coach,False,False,,Exile (Rafał Borowski)
 Exile1,Romania,2005-10-30,,Team Phantasma,EMEA,Jungle,"Xin Zhao,Diana,Bel'Veth",Jungle,False,False,1.0,"Exile1, Exile (Andrei Popa)"
 Exiled,Portugal,2001-09-15,Europe,Senshi Esports Club,EMEA,Support,"Thresh,Rakan,Pyke",Support,False,False,1.0,Exiled
@@ -7324,7 +7327,7 @@ Fa (Zhou Yu-Xuan),China,,,,China,Coach,,Coach,False,False,,Fa (Zhou Yu-Xuan)
 Faaa,South Korea,1992-01-14,,,Korea,Support,,Support,True,False,1.0,Faaa
 fabbbyyy,United States,,,,North America,Bot,"Vayne,Draven,Ryze,Lee Sin",Bot,True,False,,Fabbbyyy
 Fabes,Germany,2003-08-28,Europe,,EMEA,Bot,,Bot,False,False,1.0,Fabes
-fabFabulous,Turkey,1996-02-15,Turkey,,EMEA,Top,"Gangplank,Aatrox,Kennen,Kha'Zix",Top,False,False,1.0,"FabFabulous, Fabulous"
+fabFabulous,Turkey,1996-02-15,Turkey,FUT Esports,EMEA,Top,"Gangplank,Aatrox,Kennen,Kha'Zix",Top,False,False,1.0,"FabFabulous, Fabulous"
 Fabiox,Germany,,Europe,DKB XPERION NXT RAW,EMEA,Support,,Support,False,False,,Fabiox
 Fable,United States,,,Illinois Wesleyan University,North America,Support,,Support,False,False,,"Fable, Wigeon"
 Fabled,Colombia,,,,Latin America,Mid,,Mid,True,False,,Fabled
@@ -7564,7 +7567,7 @@ FIFA,South Korea,,,,Korea,Top,,Top,True,False,,FIFA
 FIFAHUN,South Korea,1980-03-01,,Gen.G,Korea,Manager,,Director,False,False,1.0,"FIFAHUN, Lee Ji-hoon"
 Fighto,Russia,,Oceania,Ground Zero Gaming,Asia Pacific,Mid,"Azir,Ryze,Cassiopeia",Mid,False,False,,"Fighto, Bdoink"
 Figurative,United States,,,,North America,Coach,,Head Coach,True,False,,Figurative
-Fiji,United States,2001-07-30,,Next Level Esports,North America,,"Sion,Gragas,Swain,Udyr",Top,False,False,1.0,Fiji
+Fiji,United States,2001-07-30,,Next Level Esports,North America,Top,"Sion,Gragas,Swain,Udyr",Top,False,False,1.0,Fiji
 Fikkle,Poland,,Europe,,EMEA,Bot,,Bot,False,False,,"Fikkle, Bolo"
 Fiko (Filip Jovanović),Montenegro,,Europe,,EMEA,Jungle,,Jungle,False,False,,Fiko (Filip Jovanović)
 Fiku,United States,1998-12-20,,,North America,Jungle,"Graves,Sylas,Ezreal,Senna,Jinx",Jungle,False,False,1.0,Fiku
@@ -7587,8 +7590,8 @@ Findus,France,,Europe,,EMEA,Jungle,,Jungle,False,False,,Findus
 Fine (Lee Min-hyeok),South Korea,,,,Korea,Bot,,Bot,True,False,,Fine (Lee Min-hyeok)
 Fine4Ever,Sweden,,Europe,WeSports,EMEA,Support,,Support,False,False,,Fine4Ever
 Finicky,,,Europe,,EMEA,Top,,Top,False,False,,Finicky
-Finita,Belarus,,,,CIS,Jungle,Graves,Jungle,True,False,,"Finita, AtiniF, Fixthegame, Kasqu, L9 Belarus, Lupa"
-Finn,Sweden,1999-06-03,Europe,Rogue (European Team),EMEA,Top,"Irelia,Kled",Top,False,False,1.0,"Finn, Blomster Finn, BlomsterFinn"
+Elfishguy,Australia,1994-08-30,,,Asia Pacific,Caster,,Caster,False,False,1.0,Elfishguy
+ElGrAm0,Greece,1997-01-13,Europe,,EMEA,Analyst,"Rakan,Braum",Assistant Coach,False,False,1.0,"ElGrAm0, ElGramo, Self:ElGram0"
 Eli (Sergio Jachniuk),Mexico,,,,LAN,Mid,,Mid,True,False,,Eli (Sergio Jachniuk)
 EliasGG,Costa Rica,1994-11-18,,,Latin America,Streamer,"Fiddlesticks,Syndra,Zac",Content Creator,False,False,1.0,"EliasGG, Kauxtrom, Kevo"
 Eliass,Greece,,,Guangdong Flying Tigers,North America,Mid,"Yuumi,Nami,Twisted Fate",Mid,False,False,,Eliass
@@ -7603,7 +7606,7 @@ Elite,Portugal,,,,Europe,Top,,Top,True,False,,"Elite, Elite1v9"
 Elite (Nikos Aspropotamitis),Greece,2003-08-04,,,Europe,Mid,,Mid,True,False,1.0,Elite (Nikos Aspropotamitis)
 EliteJoint,Germany,,Europe,,EMEA,Support,,Support,True,False,,"EliteJoint, Elite Joint"
 EliWood,Russia,1998-09-26,Turkey,,EMEA,Support,"Thresh,Bard,Taric,Nautilus",Support,False,False,1.0,EliWood
-Elixir,,2007-10-04,,,EMEA,,,Jungle,False,False,1.0,Elixir
+Elixir,,2007-10-04,,,EMEA,Jungle,,Jungle,False,False,1.0,Elixir
 Eliya,China,2003-10-14,,,China,Top,,Top,True,False,1.0,Eliya
 Elk,China,2001-09-29,,Bilibili Gaming,China,Bot,"Lucian,Kalista,Aphelios,Jinx,Xayah,Zeri",Bot,False,False,1.0,"Elk, JiuMeng, ZHAOlJ, 赵嘉豪"
 Ella,South Korea,1995-02-05,,,Korea,Support,,Support,False,False,1.0,Ella
@@ -7758,7 +7761,7 @@ Eolian,Algeria,1997-03-19,,,,Top,"Irelia,Nasus,Quinn,Maokai,Dr. Mundo",Top,True,
 Eomer,Turkey,,,,Turkey,Bot,,Bot,True,False,,Eomer
 Eonis,Poland,1996-09-26,,,Europe,Bot,,Bot,True,False,1.0,"Eonis, ENS, ENSS"
 Eonox,Serbia,,,,EMEA,Jungle,,Jungle,False,False,,Eonox
-Ephekles,Germany,,Europe,,EMEA,Support,,Support,False,False,,Ephekles
+Ephekles,Germany,,Europe,DKB XPERION NXT,EMEA,Support,,Support,False,False,,Ephekles
 Ephilia,United States,,,,North America,Bot,"Zeri,Kai'Sa,Ezreal",Bot,False,False,,Ephilia
 Epic,Hong Kong,1998-10-01,Taiwan,,Asia Pacific,Jungle,,Jungle,True,False,1.0,"Epic, EpicL"
 Epic (Andi Wang),Canada,,,,North America,Top,,Top,True,False,,Epic (Andi Wang)
@@ -7798,7 +7801,7 @@ Erina,Spain,1997-08-16,,,Europe,Support,"Janna,Nami,Lulu",Support,True,False,1.0
 Eritra,Mexico,1996-09-23,,,Latin America,Caster,"Jinx,Xayah,Kai'Sa,Vayne,Lucian,Senna,Thresh",Caster,False,False,1.0,Eritra
 Erixen,Norway,1999-05-24,Europe,,EMEA,Mid,,Mid,False,False,1.0,"Erixen, Nuff"
 Eriz,Vietnam,,,,Vietnam,Substitute,,Substitute,True,False,,Eriz
-Erk,United States,2000-02-04,,Contingent Esports,North America,,"Vex,Urgot",Mid,False,False,1.0,Erk
+Erk,United States,2000-02-04,,Contingent Esports,North America,Mid,"Vex,Urgot",Mid,False,False,1.0,Erk
 Erkaniem,Czech Republic,,,,Europe,Jungle,"Zac,Trundle,Xin Zhao,Graves",Jungle,True,False,,Erkaniem
 Erlo,Spain,,Europe,,EMEA,Top,,Top,False,False,,"Erlo, Amancio Ornntega, AmancioOrnntega"
 Ermin,Denmark,,Europe,Garden Gaming,EMEA,Support,Yuumi,Support,False,False,,Ermin
@@ -7919,8 +7922,8 @@ Excodar,United States,,,,North America,Jungle,,Jungle,False,False,,"Excodar, B1B
 Excoundrel,United Kingdom,,,,Europe,Caster,Sion,Caster,True,True,,Excoundrel
 Exduardo,Portugal,,,SAMCLAN Esports Club,EMEA,Bot,"Xayah,Ezreal,Vayne,Lucian",Bot,False,False,,Exduardo
 Execute,South Korea,2000-02-22,,BNK FearX Youth,Korea,Support,Pyke,Support,False,False,1.0,"Execute, Jeonghoon, 정훈이의 모험"
-Exeden,Australia,,,,Oceania,Bot,,Bot,True,False,,Exeden
-Exiladissima,Brazil,2002-12-09,,Vivo Keyd Stars Ignis,Brazil,Top,Kayle,Top,False,False,1.0,"Exiladissima, Exiladissma"
+Dreamer,Taiwan,1991-10-17,LMS,,Asia Pacific,Coach,Trundle,Head Coach,False,False,1.0,"Dreamer, Dream星羽"
+Dreamer Ace,Austria,1997-05-09,Europe,,EMEA,Support,"Thresh,Morgana,Braum",Support,True,False,1.0,"Dreamer Ace, DreamerAce"
 Dreamerr,Czech Republic,2003-06-06,Europe,,EMEA,Support,,Support,False,False,1.0,"Dreamerr, DreameR (Vojtěch Pažout)"
 Dreamery,Czech Republic,,,,Europe,Support,,Support,True,False,,Dreamery
 Dreampire,Germany,,Europe,Die Bremer Brüder,EMEA,Support,,Support,False,False,,Dreampire
@@ -8162,7 +8165,7 @@ Egg,Taiwan,1992-07-17,Taiwan,Pacific Championship Series,Asia Pacific,Caster,,Ca
 Egg (Lê Hoàng Ngà),Vietnam,1990-01-25,,,SEA,Jungle,Lee Sin,Jungle,True,False,1.0,Egg (Lê Hoàng Ngà)
 EGGLALLE,Italy,,Europe,,EMEA,Jungle,,Jungle,False,False,,EGGLALLE
 Eggsy,Ecuador,2003-03-16,,,Latin America,Bot,,Bot,False,False,1.0,Eggsy
-Egnom,Saudi Arabia,,,,EMEA,,,Support,False,False,,"Egnom, Imp (Qusai Alhazmi)"
+Egnom,Saudi Arabia,,,,EMEA,Support,,Support,False,False,,"Egnom, Imp (Qusai Alhazmi)"
 Ego (Hoarau Christony),France,1999-11-26,Europe,,EMEA,Jungle,Kindred,Jungle,False,False,1.0,Ego (Hoarau Christony)
 Ego (Hussain Ali),Canada,,,,North America,Mid,"Akali,Twisted Fate,Taliyah",Mid,False,False,,Ego (Hussain Ali)
 EGO (Nguyễn Khánh Hòa),Vietnam,2002-10-18,,,Vietnam,Jungle,,Jungle,True,False,1.0,"EGO (Nguyễn Khánh Hòa), Jesh"
@@ -8194,7 +8197,7 @@ Ejsner,Poland,,Europe,,EMEA,Bot,,Bot,False,False,,Ejsner
 Ekaos,France,,Europe,,EMEA,Manager,,Manager,False,False,,Ekaos
 Ekd,Sweden,1996-10-26,,,Europe,Bot,,Bot,True,False,1.0,Ekd
 Eki,Argentina,2002-01-15,,,Latin America,Bot,,Bot,False,False,1.0,Eki
-Ekin,Turkey,1995-09-27,,Forsaken (Polish Team),EMEA,Coach,,Head Coach,False,False,1.0,Ekin
+Ekin,Turkey,1995-09-27,,,EMEA,Coach,,Head Coach,False,False,1.0,Ekin
 Ekko the Neeko,Spain,,Europe,,EMEA,Mid,,Mid,False,False,,Ekko the Neeko
 Ekzaar,Argentina,,,,LAS,Jungle,,Jungle,True,False,,Ekzaar
 EL (Jeon Seong-hyeon),South Korea,2002-09-01,,Burning Core Toyama,Korea,Jungle,,Jungle,False,False,1.0,"EL (Jeon Seong-hyeon), Chl0e, Chloe (Jeon Seong-hyeon), Chloe1"
@@ -8214,7 +8217,7 @@ ELAN,,,,,North America,Coach,,Head Coach,False,False,,"ELAN, Elan Ehrhardt, Khô
 Elanus,Greece,2000-11-19,,,Europe,Mid,,Mid,True,False,1.0,Elanus
 Elas,Poland,1998-08-25,,,Europe,Jungle,,Jungle,True,False,1.0,"Elas, PuuLoK"
 Elated,Vietnam,,,University of California Irvine,North America,Top,,Top,False,False,,Elated
-Elative,South Korea,,,Seoul Neon,Korea,Jungle,,Jungle,False,False,,"Elative, 안치완"
+Elative,South Korea,,,,Korea,Jungle,,Jungle,False,False,,"Elative, 안치완"
 Elbakro,United States,1996-02-09,,,North America,Mid,,Mid,True,False,1.0,Elbakro
 ElBenSmurf,Costa Rica,2002-05-17,,,Latin America,Mid,"Akali,Yone,Ryze,Sylas",Mid,True,False,1.0,ElBenSmurf
 ElCe,Italy,2003-07-01,Europe,,EMEA,Coach,,Assistant Coach,False,False,1.0,"ElCe, LucaC2003"
@@ -8240,8 +8243,9 @@ Elementz,Canada,1988-10-11,,,North America,Coach,"Blitzcrank,Fiddlesticks,Nautil
 Elendix,Poland,1992-08-10,,,Europe,Support,Sona,Support,True,False,1.0,"Elendix, Worst Sona EU"
 Eleven,China,,,,China,Mid,,Mid,True,False,,Eleven
 Elf,South Korea,,,,Korea,Mid,,Mid,True,False,,Elf
-Elfishguy,Australia,1994-08-30,,,Asia Pacific,Caster,,Caster,False,False,1.0,Elfishguy
-ElGrAm0,Greece,1997-01-13,Europe,Anorthosis Famagusta Esports,EMEA,Analyst,"Rakan,Braum",Assistant Coach,False,False,1.0,"ElGrAm0, ElGramo, Self:ElGram0"
+Diintisor,Romania,1998-12-30,Europe,,EMEA,Support,"Nautilus,Thresh,Pyke",Support,False,False,1.0,"Dalia, Diintisor"
+Dika,Serbia,,,,Europe,Bot,,Bot,True,False,,"Dika, Dikaa"
+Dilanch,Ecuador,,,,Latin America,Substitute,,Substitute,True,False,,Dilanch
 Dima,Ukraine,,,,CIS,Bot,,Bot,True,False,,Dima
 Dimeh,Belgium,1997-10-02,Europe,ZennIT,EMEA,Bot,Vayne,Bot,False,False,1.0,"Dimeh, NxG Gh0st, Praise The Sun, PTS"
 Dimi,Greece,2000-01-11,,,Europe,Support,Janna,Support,True,False,1.0,Dimi
@@ -8530,7 +8534,7 @@ Dragdar,United Kingdom,1999-05-24,Europe,,EMEA,Bot,,Bot,False,False,1.0,Dragdar
 Dragflick,Netherlands,1998-09-23,Europe,,EMEA,Mid,"Aurelion Sol,Xerath,Riven",Mid,False,False,1.0,Dragflick
 Dragku,Australia,,North America,Antic Esports,Asia Pacific,Support,"Aatrox,Sylas,Jayce,Urgot",Support,False,False,,"Dragku, DragkuButBlack, Dragkuu"
 Dragneel,Greece,,,,Europe,Top,,Jungle,True,False,,Dragneel
-Drago (Adam Baba),Tunisia,,,,EMEA,,,Jungle,False,False,,"Drago (Adam Baba), Drago Black"
+Drago (Adam Baba),Tunisia,,,,EMEA,Jungle,,Jungle,False,False,,"Drago (Adam Baba), Drago Black"
 Drago (Edwin Playas),Mexico,2001-01-24,,,Latin America,Caster,"Gnar,Rumble,Lucian",Caster,False,False,1.0,Drago (Edwin Playas)
 Drago (Stefano Mortillaro),Italy,,,,Europe,Coach,,Head Coach,True,False,,"Drago (Stefano Mortillaro), Dragoonjk"
 Dragon (Lee Jun-yong),South Korea,1996-01-26,,,Korea,Coach,,Coach,True,False,1.0,Dragon (Lee Jun-yong)
@@ -8578,8 +8582,7 @@ Dream (Shek Hoi Yee),Hong Kong,1997-09-13,LMS,Reborn Esport,Asia Pacific,Caster,
 Dream (Tan Wen-Xiang),China,2002-09-15,,,China,Mid,"Sylas,Orianna",Mid,False,False,1.0,Dream (Tan Wen-Xiang)
 Dream Maker (Ivan Chiodo),,,Europe,,EMEA,Mid,"Akali,Viktor",Mid,False,False,,"Dream Maker (Ivan Chiodo), Dreammaker (Ivan Chiodo)"
 Dreamaster,China,,,,China,Support,,Support,True,False,,"Dreamaster, Anm (Chen Chen)"
-Dreamer,Taiwan,1991-10-17,LMS,,Asia Pacific,Coach,Trundle,Head Coach,False,False,1.0,"Dreamer, Dream星羽"
-Dreamer Ace,Austria,1997-05-09,Europe,,EMEA,Support,"Thresh,Morgana,Braum",Support,True,False,1.0,"Dreamer Ace, DreamerAce"
+Days4fun,Brazil,1996-02-23,,,Brazil,Jungle,"Graves,Evelynn,Kha'Zix",Jungle,True,False,1.0,"Days, Days4fun"
 dayshifted,Australia,,,,Oceania,Bot,,Bot,True,False,,Dayshifted
 Daystar,South Korea,2003-09-23,,BNK FearX Youth,Korea,Mid,,Mid,False,False,1.0,"Daystar, Sirius (Yoo Ji-myeong)"
 Daza,Bolivia,2002-07-22,,,Europe,Mid,"Vladimir,Orianna,Katarina,Sion",Mid,True,False,1.0,Daza
@@ -8638,7 +8641,7 @@ Decak,Poland,,Europe,,EMEA,Coach,,Strategic Coach,True,False,,Decak
 Decapsy,Italy,1997-02-12,,,Europe,Support,,Support,True,False,1.0,"Decapsy, Orgen"
 Decay,France,1999-12-21,Europe,Solary,EMEA,Mid,"Talon,LeBlanc,Kassadin,Akali",Mid,False,False,1.0,"Decay, Decay0"
 Deceit,China,1997-07-31,,Rare Atom,China,Coach,,Head Coach,False,False,1.0,"Deceit, SLJ, 士力架"
-Deceiving,Egypt,,,RA'AD,EMEA,,,Mid,False,False,,"Deceiving, FA Midlaner"
+Deceiving,Egypt,,,RA'AD,EMEA,Mid,,Mid,False,False,,"Deceiving, FA Midlaner"
 Deceller,Spain,,Europe,Dream Makers,EMEA,Jungle,,Jungle,False,False,,Deceller
 Decerux,United States,1990-09-15,,,North America,Caster,"Lissandra,Lee Sin,Vi,Pantheon",Caster,False,False,1.0,Decerux
 decky,South Korea,2002-07-19,,,Korea,Top,Gragas,Top,False,False,1.0,"Decky, Gragaz, Wit (Hong Dong-hyeok)"
@@ -8887,6 +8890,7 @@ DIEMdodo,Germany,2002-02-13,Europe,FC Schalke 04 Esports,EMEA,Coach,,Strategic C
 Dieninjsh,Latvia,,,,Europe,Support,,Support,True,False,,Dieninjsh
 Diesel (Darrell Jenkins),United States,,,Black Rock Esports,North America,Top,,Top,False,False,,Diesel (Darrell Jenkins)
 Diez,Russia,,,,CIS,Mid,,Bot,True,False,,Diez
+Diff3rence,Turkey,,,FoxFire (Turkish Team),EMEA,Owner,,Co-Owner,False,False,,"Diff3rence, TheDiff, TheDifference"
 Difference,Syria,2003-01-09,Europe,Akroma,EMEA,Top,"Fiora,Sett,Camille,Renekton,Wukong",Top,False,False,1.0,"Difference, Diffrenc, Grand Lan3r"
 DIGA,Portugal,2001-08-06,Europe,,EMEA,Mid,"Katarina,Vladimir,Riven,Twisted Fate",Mid,False,False,1.0,DIGA
 DiggerWacks,Lebanon,,,LDV Bzz Bzz,EMEA,Top,"Sion,Aatrox,Renekton,Mordekaiser,Kennen,Yorick",Top,False,False,,DiggerWacks
@@ -8894,10 +8898,7 @@ Digidoxs,Belgium,,,,EMEA,Top,,Top,False,False,,Digidoxs
 DiGod,Spain,,,,Europe,Bot,,Bot,True,False,,DiGod
 Digolera,Brazil,,,,Brazil,Bot,"Vayne,Draven",Bot,True,False,,Digolera
 Diima,Lebanon,,,,,Bot,,Bot,True,False,,Diima
-Diintisor,Romania,1998-12-30,Europe,,EMEA,Support,"Nautilus,Thresh,Pyke",Support,False,False,1.0,"Diintisor, Dalia"
-Dika,Serbia,,,,Europe,Bot,,Bot,True,False,,"Dika, Dikaa"
-Dilanch,Ecuador,,,,Latin America,Substitute,,Substitute,True,False,,Dilanch
-Cube (Dai Yi),China,2002-07-14,,,China,Top,,Top,True,False,1.0,"Cube1, Cube (Dai Yi)"
+Cube (Dai Yi),China,2002-07-14,,,China,Top,,Top,True,False,1.0,"Cube (Dai Yi), Cube1"
 Cube (Kim Chang-seong),South Korea,1996-08-16,,Kwangdong Freecs Challengers,Korea,Coach,,Coach,False,False,1.0,Cube (Kim Chang-seong)
 Cubo,Italy,2003-05-08,Europe,,EMEA,Support,"Thresh,Blitzcrank,Rakan,Karma",Support,False,False,1.0,"Cubo, Cubø"
 Cuce,Turkey,,,,Turkey,Top,,Top,True,False,,Cuce
@@ -8978,8 +8979,8 @@ D2K,Russia,1995-10-22,CIS,,EMEA,Coach,,Head Coach,False,False,1.0,"D2K, Dressed 
 D3O,Indonesia,,,Ottawa University,North America,Top,,Top,False,False,,"D3O, Deoniciuz"
 D4nKa,Germany,2001-11-17,Europe,E WIE EINFACH E-SPORTS,EMEA,Jungle,"Graves,Lee Sin,Nidalee,Gwen",Jungle,False,False,1.0,"D4nKa, STARGAZ1NG1"
 D4rkzelda,Norway,,Europe,,EMEA,Top,,Top,False,False,,D4rkzelda
-D4rtaine,Portugal,2004-05-18,Europe,ZeroZone Gaming,EMEA,Top,"Fiora,Camille,Ornn",Top,False,False,1.0,D4rtaine
-D4SH,Portugal,2003-03-01,Europe,Crvena zvezda Esports,EMEA,Jungle,"Graves,Taliyah,Lillia",Jungle,False,False,1.0,D4SH
+D4rtaine,Portugal,2004-05-18,Europe,Leões Porto Salvo Esports,EMEA,Top,"Fiora,Camille,Ornn",Top,False,False,1.0,D4rtaine
+D4SH,Portugal,2003-03-01,Europe,,EMEA,Jungle,"Graves,Taliyah,Lillia",Jungle,False,False,1.0,D4SH
 D4ZE,Taiwan,,,,North America,Bot,,Bot,False,False,,D4ZE
 Da7,China,1989-07-26,,,China,Coach,"Thresh,Annie",Coach,True,False,1.0,"Da7, ComA (Fang Hong-Ri), ComA7, DaDa7, DaDa77, DaDa777, SunnGoo, Trickyboy"
 Daan Stylez,Netherlands,,,,Europe,Mid,,Mid,True,False,,"Daan Stylez, DaanStylez"
@@ -9040,7 +9041,7 @@ Dama,Egypt,,,,EMEA,Bot,,Bot,False,False,,Dama
 Damage,Brazil,1997-06-20,,INTZ,Brazil,Support,"Thresh,Alistar,Morgana",Support,False,False,1.0,Damage
 Damarros,,,Europe,,EMEA,Jungle,,Jungle,False,False,,Damarros
 Dami,Spain,,,,Europe,Jungle,,Jungle,True,False,,Dami
-DaMimZ,,,,,North America,,"Riven,Yasuo,Fiora",Top,False,False,,"DaMimZ, Mimz"
+DaMimZ,,,,,North America,Top,"Riven,Yasuo,Fiora",Top,False,False,,"DaMimZ, Mimz"
 DaminGGe,China,,,,China,Support,,Support,True,False,,DaminGGe
 DAMKEXHINO4,Poland,2002-06-29,Europe,Juicy Ballers,EMEA,Bot,,Bot;Owner,False,False,1.0,"DAMKEXHINO4, DAMKEX, DAMKEXINHO4, RulerPL"
 Damles,France,2001-02-06,Europe,Team EYA,EMEA,Manager,,President,False,False,1.0,Damles
@@ -9226,7 +9227,6 @@ Daylight,China,2000-05-02,,,China,Jungle,,Jungle,True,False,1.0,"Daylight, Bear 
 Dayor,Hungary,,,,Europe,Support,,Support,True,False,,Dayor
 Dayos,Canada,,,Saint Louis University,North America,Coach,,Coach,False,False,,Dayos
 dayruin,Russia,1995-01-05,,,CIS,Coach,"Ezreal,Lucian,Corki",Secondary Coach,True,False,1.0,Dayruin
-Days4fun,Brazil,1996-02-23,,,Brazil,Jungle,"Graves,Evelynn,Kha'Zix",Jungle,True,False,1.0,"Days4fun, Days"
 CÒ,Vietnam,,,,Vietnam,Bot,,Bot,True,False,,"CÒ, CÒ IZ DABEST"
 CO4,Malaysia,,,,SEA,Bot,,Bot,True,False,,CO4
 Coach Adam,United States,,,Park University,North America,Coach,,Head Coach,False,False,,"Coach Adam, Adam Farm"
@@ -9446,6 +9446,7 @@ Crazylegs,United States,1994-01-24,,Weber State University,North America,Coach,,
 CrazyPine,Singapore,,,,SEA,Support,,Support,True,False,,"CrazyPine, CrazyPINEAPPLE"
 Crea,Hungary,1999-12-12,,,Europe,Top,"Gnar,Gangplank,Azir,Vayne",Top,True,False,1.0,Crea
 creabae,Netherlands,1994-06-20,Europe,,EMEA,Manager,,Manager,False,False,1.0,Creabae
+Creal,Turkey,,,FoxFire (Turkish Team),EMEA,Mid,,Mid,False,False,,Creal
 Cream,South Korea,1997-07-17,,,Korea,Jungle,,Jungle,True,False,1.0,Cream
 CreamSoda,United States,,,University of North Carolina at Charlotte,North America,Support,,Support,False,False,,CreamSoda
 Creation,Turkey,,,,Turkey,Top,,Top,True,False,,Creation
@@ -9764,7 +9765,7 @@ Circus (Jacob Yoh),United States,,,,North America,Jungle,Shaco,Jungle,False,Fals
 Cirilo,Brazil,,,RED Academy,Brazil,Bot,"Aphelios,Lucian,Kai'Sa",Bot,False,False,,Cirilo
 Cisse,Belgium,2000-07-29,Europe,,EMEA,Support,Maokai,Support,False,False,1.0,Cisse
 CitizenWayne,Germany,,,,Europe,Mid,"Lux,Gragas,Veigar,Ziggs",Mid,True,False,,"CitizenWayne, Citizen (Victor Toll)"
-Citron (Edward Thelin),Sweden,,Europe,Karolinerna,EMEA,Jungle,,Jungle,False,False,,"Citron (Edward Thelin), Citron Njutare"
+Citron (Edward Thelin),Sweden,,Europe,Rich Gang (Norwegian Team),EMEA,Jungle,,Jungle,False,False,,"Citron (Edward Thelin), Citron Njutare"
 citronson,Slovakia,,,,Europe,Top,,Top,True,False,,"Citronson, Citron (Marek Kunštár), CytroN"
 Citrus,South Korea,2001-04-14,,Aegis (French Team),Korea,Jungle,,Jungle,False,False,1.0,"Citrus, KAYNKlNG"
 Citrus9,China,,,,China,Jungle,,Jungle,False,False,,Citrus9
@@ -9895,7 +9896,7 @@ CaoPio,Venezuela,,,,LAN,Bot,,Bot,True,False,,CaoPio
 Caos (Jonas Vriesman),Brazil,1996-11-12,,,Brazil,Coach,"Sejuani,Elise,Kha'Zix",Positional Coach,True,False,1.0,Caos (Jonas Vriesman)
 Caos (Nicolás Guzmán),Chile,,Latin America South,,Latin America,Support,Poppy,Support,True,False,,Caos (Nicolás Guzmán)
 Cape (Alex Cruz),El Salvador,,,,Latin America,Jungle,,Jungle,True,False,,"Cape (Alex Cruz), Capecito"
-Cape (Bedirhan Çalişkan),Turkey,,Turkey,,EMEA,Jungle,"Taliyah,Graves,Viego,Lee Sin",Jungle,True,False,,Cape (Bedirhan Çalişkan)
+Cape (Bedirhan Çalişkan),Turkey,,Turkey,NASR eSports Turkey,EMEA,Jungle,"Taliyah,Graves,Viego,Lee Sin",Jungle,False,False,,Cape (Bedirhan Çalişkan)
 Capi (Ignacio del Rio),Argentina,,,,LAS,Support,,Support,True,False,,Capi (Ignacio del Rio)
 Capi1,Argentina,,,,Latin America,Bot,"Aphelios,Sivir,Ezreal",Bot,False,False,,"Capi1, Capi (Franco Licitra)"
 Capivara,Brazil,,,MIBR,Brazil,Coach,,Head Coach,False,False,,Capivara
@@ -9970,7 +9971,7 @@ Castiel (Nguyễn Quốc Huy),Vietnam,2004-07-19,,,Vietnam,Jungle,,Jungle,False,
 CastielMid,Germany,1998-08-10,,,Europe,Coach,,Assistant Coach,True,False,1.0,CastielMid
 Casting,South Korea,2003-10-30,,KT Rolster Challengers,Korea,Top,,Top,False,False,1.0,Casting
 Castle (Cho Hyeon-seong),South Korea,2002-10-08,,,Korea,Top,,Top,False,False,1.0,"Castle (Cho Hyeon-seong), TOP (Cho Hyeon-seong)"
-Castle (Matthew Castle),United States,,,L’art de la Guerre,North America,Jungle,,Jungle,False,False,,Castle (Matthew Castle)
+Castle (Matthew Castle),United States,,,Dorado Gaming Black,North America,Jungle,,Jungle,False,False,,Castle (Matthew Castle)
 cat (All Gamers),China,,,,China,Jungle,,Jungle,True,False,,Cat (All Gamers)
 Cat (Cha Woo-jae),South Korea,,,,Korea,Support,,Support,True,False,,Cat (Cha Woo-jae)
 Cat (Phạm Lê Mai Thiên),Vietnam,,,,SEA,Top,,Top,True,False,,Cat (Phạm Lê Mai Thiên)
@@ -10068,7 +10069,7 @@ CH (Cheng He),China,,,,China,Coach,,Head Coach,True,False,,"CH (Cheng He), Cheng
 Ch (Panagiotis Chalkias),Greece,,,,Europe,Jungle,,Jungle,True,False,,"Ch (Panagiotis Chalkias), Anonymoos, AnOnyMoOsLeGenD"
 Ch1Chi,,,,,PCS,Top,,Top,False,False,,Ch1Chi
 ch1rry,China,,,,China,Bot,,Bot,True,False,,Ch1rry
-Cha0s,Sweden,2004-02-23,Europe,Packmiko E-Sports,EMEA,Top,"Olaf,Camille,Gangplank",Top,False,False,1.0,"Cha0s, Chaos (Alec Jablonski), Chaos Senpai"
+Cha0s,Sweden,2004-02-23,Europe,Rich Gang (Norwegian Team),EMEA,Top,"Olaf,Camille,Gangplank",Top,False,False,1.0,"Cha0s, Chaos (Alec Jablonski), Chaos Senpai"
 Cha9,Taiwan,2000-10-21,LMS,West Point Esports Philippines,Asia Pacific,Support,,Support,False,False,1.0,"Cha9, Cha"
 ChaChaRon,Turkey,2005-08-05,,,EMEA,Mid,,Mid,False,False,1.0,ChaChaRon
 Chacon,Mexico,,,,Latin America,Support,,Support,True,False,,Chacon
@@ -10321,7 +10322,7 @@ BubblePeeT,Czech Republic,1998-12-31,,,Europe,Jungle,,Jungle,True,False,1.0,Bubb
 Bubbling,South Korea,1993-04-13,,Dplus KIA,Korea,Coach,"Lee Sin,Elise,Rek'Sai",Coach,False,False,1.0,Bubbling
 Bublekanos,Greece,2000-10-24,Europe,,EMEA,Jungle,"Yasuo,Yone",Jungle,True,False,1.0,"Bublekanos, Bubblekanos"
 Bubnik2,Poland,,,,Europe,Top,Brand,Top,True,False,,"Bubnik2, Bubnik, Bubnik Zwei"
-Buchi,Sweden,2005-11-24,Europe,DMG Esports,EMEA,Top,"Jayce,Aatrox,Camille,Gragas",Top,False,False,1.0,Buchi
+Buchi,Sweden,2005-11-24,Europe,Venomcrest Esports,EMEA,Top,"Jayce,Aatrox,Camille,Gragas",Top,False,False,1.0,Buchi
 Bucket,Peru,1996-01-01,Latin America North,,Latin America,Support,"Alistar,Thresh,Bard",Support,True,False,1.0,Bucket
 bucu,Poland,,Europe,,EMEA,Mid,"Talon,Zed,LeBlanc,Syndra",Mid,True,False,,"Bucu, Messi10, Ronaldinho"
 budall,Sweden,,,,EMEA,Support,,Support,False,False,,Budall
@@ -10590,7 +10591,7 @@ bl0wtuz,Argentina,,,,LAS,Jungle,,Jungle,True,False,,Bl0wtuz
 Blaber,United States,2000-01-04,,Cloud9,North America,Jungle,"Kindred,Lee Sin,Nidalee,Elise",Jungle,False,False,1.0,"Blaber, Blaberfish, Blaberfish2"
 Black (Esteban Lobos),Sweden,,,Universae Instituto FP,EMEA,Bot,Vayne,Bot,False,False,,Black (Esteban Lobos)
 Black (Kim Jun-hwan),South Korea,,,,Korea,Support,,Support,True,False,,"Black (Kim Jun-hwan), GGyuAng, Soft (Kim Jun-hwan), Yes sad"
-Black (Murat Ulukan Ayaz),Turkey,2000-02-23,Turkey,Dynamo Eclot,EMEA,Bot,,Bot,False,False,1.0,Black (Murat Ulukan Ayaz)
+Black (Murat Ulukan Ayaz),Turkey,2000-02-23,Turkey,,EMEA,Bot,,Bot,False,False,1.0,Black (Murat Ulukan Ayaz)
 Black Fire,Ecuador,1996-06-15,,,Latin America,Support,Karma,Support,True,False,1.0,"Black Fire, BlackFire"
 Black Orchid,Russia,,,,CIS,Support,,Support,True,False,,Black Orchid
 Black Widow,Colombia,2002-09-13,,Janus Sekhmet,Latin America,Mid,,Mid,False,False,1.0,Black Widow
@@ -10681,7 +10682,7 @@ Blodsteel,Sweden,2003-06-13,Europe,,EMEA,Coach,,Head Coach,False,False,1.0,Blods
 Blonde,United States,,,Ottawa University,North America,Mid,"Cassiopeia,LeBlanc,Zoe,Jayce,Ryze",Mid,False,False,,Blonde
 BLonski,Egypt,1999-08-07,,,EMEA,Top,"Akali,Camille,Kennen,Irelia",Top,False,False,1.0,"BLonski, BLonski v2, NeverOne, Βlonski"
 BlooBzY,Spain,,Europe,,EMEA,Support,"Thresh,Lulu,Nami,Nautilus",Support,False,False,,BlooBzY
-Blood (Caterina Domitilla Dorigo),Italy,2005-10-04,,Axolotl,EMEA,,"Karma,Yuumi,Shyvana",Head Coach,False,False,1.0,Blood (Caterina Domitilla Dorigo)
+Blood (Caterina Domitilla Dorigo),Italy,2005-10-04,,Axolotl,EMEA,Coach,"Karma,Yuumi,Shyvana",Head Coach,False,False,1.0,Blood (Caterina Domitilla Dorigo)
 Blooddragon,Germany,1988-01-08,,,Europe,Top,,Jungle,True,False,1.0,Blooddragon
 BloodFenix,Sweden,1998-09-07,,,Europe,Top,,Top,True,False,1.0,"BloodFenix, BloodFenics"
 Bloodline (Jiang Tao),China,,,,China,Top,,Top,True,False,,Bloodline (Jiang Tao)
@@ -10811,7 +10812,7 @@ Backstairs,Taiwan,1984-01-27,Taiwan,J Team,Asia Pacific,Streamer,,Streamer,False
 Backstroke98,Italy,,Europe,,EMEA,Support,,Support,False,False,,"Backstroke98, Backstroke"
 Bad Habit,Iceland,,,,Europe,Support,"Alistar,Thresh,Morgana",Support,True,False,,Bad Habit
 bademan,China,1998-06-21,,,China,Jungle,,Jungle,True,False,1.0,"Bademan, Aman"
-Bader,Saudi Arabia,,,Baam Esports,EMEA,,,Jungle,False,False,,"Bader, 8mr"
+Bader,Saudi Arabia,,,Baam Esports,EMEA,Jungle,,Jungle,False,False,,"Bader, 8mr"
 BadFeelings,Argentina,,,,LAS,Support,,Support,True,False,,BadFeelings
 Badgamelol,New Zealand,,,,Oceania,Top,,Top,True,False,,Badgamelol
 Badlulu,France,2002-09-13,Europe,Aegis (French Team),EMEA,Top,,Top,False,False,1.0,Badlulu
@@ -11042,7 +11043,7 @@ Bel,Lebanon,,,,,Support,,Support,True,False,,"Bel, Beł"
 Belette,France,,,,Europe,Mid,,Mid,True,False,,"Belette, BeletteBrutale"
 Belgianbeast,Belgium,1994-07-29,,,Europe,Mid,"Viktor,Rengar",Mid,True,False,1.0,"Belgianbeast, Dervz"
 Believe (Chan Hing Fung),Hong Kong,,,,LMS,Top,,Top,True,False,,Believe (Chan Hing Fung)
-belit,Poland,2002-09-22,Europe,GRP Esports,EMEA,Jungle,"Graves,Lee Sin,Viego,Gragas",Jungle,False,False,1.0,Belit
+belit,Poland,2002-09-22,Europe,Forsaken (Polish Team),EMEA,Jungle,"Graves,Lee Sin,Viego,Gragas",Jungle,False,False,1.0,Belit
 Bell (Dahlia Gonzalez),Mexico,,,,Latin America,Top,,Top,False,False,,Bell (Dahlia Gonzalez)
 Bell (Ryan Bell),United States,,,,North America,Support,,Support,True,False,,Bell (Ryan Bell)
 Bella (Lee Yan Wing),Hong Kong,1997-01-04,LMS,,Asia Pacific,Caster,Shen,Caster,False,False,1.0,"Bella (Lee Yan Wing), BellaGor"
@@ -11097,7 +11098,7 @@ Berik,United States,2003-10-09,,grompcord,North America,Top,,Top,False,False,1.0
 Berkan,Turkey,2000-11-06,Turkey,,EMEA,Mid,"Anivia,Viktor,Cassiopeia",Mid,False,False,1.0,Berkan
 Berke Baris,Turkey,,,,Turkey,Support,,Support,True,False,,Berke Baris
 Berni,Spain,,Europe,,EMEA,Bot,,Bot,False,False,,Berni
-BerNNas,Portugal,2002-08-21,Europe,Crvena zvezda Esports,EMEA,Coach,"Azir,Aphelios,Senna",Coach,False,False,1.0,BerNNas
+BerNNas,Portugal,2002-08-21,Europe,,EMEA,Coach,"Azir,Aphelios,Senna",Coach,False,False,1.0,BerNNas
 BeRr,South Korea,2005-06-01,,DRX Challengers,Korea,Support,,Support,False,False,1.0,"BeRr, 6622, Clover (Lee Joon-min)"
 Berserker (Kim Min-cheol),South Korea,2003-05-25,,,Korea,Bot,Zeri,Bot,False,False,1.0,"Berserker (Kim Min-cheol), Berseker"
 Berserker (Mark Mikha),,,,,Oceania,Top,"Darius,Olaf,Renekton",Top,True,False,,Berserker (Mark Mikha)
@@ -11731,7 +11732,7 @@ Ari,Brazil,,,,Brazil,Mid,,Mid,True,False,,Ari
 Aria (An Yu-Run),China,,,,China,Jungle,,Jungle,True,False,,Aria (An Yu-Run)
 Aria (Lee Ga-eul),South Korea,2000-10-14,,DetonatioN FocusMe,Korea,Mid,Zoe,Mid,False,False,1.0,"Aria (Lee Ga-eul), Luna (Lee Gyu-sang), 이규상"
 Aria51,Iran,1998-07-04,Europe,Direct Rising eSports,EMEA,Bot,"Vayne,Zeri,Kai'Sa,Varus,Ezreal,Ashe,Smolder",Bot,False,False,1.0,Aria51
-Ariana,Poland,2003-12-08,Europe,,EMEA,Top,,Top,False,False,1.0,Ariana
+Ariana,Poland,2003-12-08,Europe,Dorado Gaming Black,EMEA,Top,,Top,False,False,1.0,Ariana
 Ariendel,United States,,,,North America,Mid,Orianna,Mid,False,False,,"Ariendel, Descraton"
 Aries (Grégoire Biganzoli),France,2002-03-26,Europe,Lille Esport,EMEA,Coach,Yone,Analyst,False,False,1.0,Aries (Grégoire Biganzoli)
 Aries (Michael Lau),Hong Kong,1993-03-21,,,LMS,Mid,Anivia,Mid,True,False,1.0,"Aries (Michael Lau), Wish (Michael Lau)"
@@ -11773,7 +11774,7 @@ Arphan,Germany,,,,Europe,Support,,Support,True,False,,"Arphan, Kyrone"
 Arqi,Mexico,,,,Latin America,Bot,,Bot,True,False,,Arqi
 ArQuel,Poland,1994-07-23,Europe,,EMEA,Top,"Vladimir,Blitzcrank,Nasus,Mordekaiser",Top,False,False,1.0,ArQuel
 AeonBlast,South Korea,1996-07-15,,,Korea,Mid,,Mid,True,False,1.0,"다음팟PD미모좀, AeonBlast"
-AEQ,Saudi Arabia,2002-02-21,,,EMEA,,"Draven,Twitch,Vayne",Bot,False,False,1.0,AEQ
+AEQ,Saudi Arabia,2002-02-21,,,EMEA,Bot,"Draven,Twitch,Vayne",Bot,False,False,1.0,AEQ
 Aerados,Netherlands,,Europe,24 7 Tower Dive,EMEA,Mid,Aurelion Sol,Mid,False,False,,"Aerados, Aera"
 Aero (Jacob Stell),United States,,,,North America,Mid,,Mid,False,False,,"Aero (Jacob Stell), AllAero, Stell"
 Aeru,Tunisia,,,,EMEA,Bot,,Bot,False,False,,"Aeru, NUC Aeru"
@@ -11892,7 +11893,7 @@ Akaman,China,1999-08-16,,,China,Mid,,Mid,True,False,1.0,"Akaman, Dianjing, Lyon 
 Akame (Lại Nguyễn Anh Khoa),Vietnam,2001-02-22,,,Vietnam,Top,,Top,True,False,1.0,Akame (Lại Nguyễn Anh Khoa)
 Akamezz,United Kingdom,,,,Europe,Support,,Support,True,False,,"Akamezz, Akamez"
 Akano,,,Oceania,,PCS,Jungle,,Jungle,False,False,,Akano
-Akashi (Oussama Cherradi),Morocco,,,Dynamo Eclot,EMEA,Mid,"Irelia,Zed,Kassadin",Mid,False,False,,"Akashi (Oussama Cherradi), Akashii"
+Akashi (Oussama Cherradi),Morocco,,,,EMEA,Mid,"Irelia,Zed,Kassadin",Mid,False,False,,"Akashi (Oussama Cherradi), Akashii"
 Akasi,Japan,1997-02-02,,,Japan,Bot,Jhin,Bot,True,False,1.0,"Akasi, AkasiMIkot"
 Akayso,Netherlands,1993-07-24,,,Europe,Mid,,Mid,True,False,1.0,Akayso
 Akazan,Morocco,2000-03-01,,,EMEA,Mid,"Akali,Sylas,Yasuo,Yone,Zed",Top,False,False,1.0,"Akazan, Damon (Ali Mkharbeche)"
@@ -11942,7 +11943,7 @@ AlanQ,Mexico,1994-12-30,,,Latin America,Caster,"Zoe,Vayne,Lee Sin",Caster,False,
 Alaracle,Turkey,1992-06-09,,,Turkey,Jungle,,Jungle,True,False,1.0,Alaracle
 Alaric,Sweden,2006-07-10,,Ruddy Esports,EMEA,Support,,Support,False,False,1.0,Alaric
 Alastair,Canada,,,,North America,Bot,,Bot,False,False,,Alastair
-Alba,Portugal,,Europe,Senshi Esports Club,EMEA,Jungle,"Ivern,Taliyah,Warwick,Kindred,Shyvana",Jungle,False,False,,"Alba, Albinha"
+Alba,Portugal,,Europe,Leões Porto Salvo Esports,EMEA,Jungle,"Ivern,Taliyah,Warwick,Kindred,Shyvana",Jungle,False,False,,"Alba, Albinha"
 Alban,Denmark,1997-09-12,,,Europe,Jungle,"Rek'Sai,Ekko,Kindred",Jungle,True,False,1.0,"Alban, AlbanTheMan"
 ALBANIAN KING,Albania,,,Michigan State University,North America,Bot,"Jhin,Karthus,Vayne,Varus",Bot,False,False,,ALBANIAN KING
 Albert,China,,,,China,Bot,,Bot,True,False,,Albert
@@ -12011,7 +12012,7 @@ alisavage,United States,,,University of South Florida,North America,Top,,Top,Fal
 alishor,Romania,2003-09-22,Europe,,EMEA,Top,"Camille,Lee Sin,Yasuo",Top,False,False,1.0,Alishor
 Alive,South Korea,1998-02-27,,DRX,Korea,Support,"Xayah,Jinx,Lucian,Ezreal",Support,False,False,1.0,"Alive, Laftel"
 Alive (Daniel Binder),United States,,,,North America,Coach,,Coach,True,False,,Alive (Daniel Binder)
-alix,Turkey,2006-08-14,Turkey,,EMEA,Mid,"Zed,Syndra,LeBlanc",Mid,False,False,1.0,Alix
+alix,Turkey,2006-08-14,Turkey,NASR eSports Turkey,EMEA,Mid,"Zed,Syndra,LeBlanc",Mid,False,False,1.0,Alix
 alk,Japan,1992-12-15,,,Japan,Support,,Support,True,False,1.0,"Alk, Alkalkalkalk"
 AlkBattery,,,,,North America,Caster,,Caster,False,False,,AlkBattery
 Allanon,Germany,,,,Europe,Coach,,Head Coach,True,False,,Allanon
@@ -12054,7 +12055,7 @@ AlphaCloud,Norway,,,,Europe,Top,"Hecarim,Gangplank",Top,True,False,,"AlphaCloud,
 Alphamong,South Korea,1998-10-24,,,Korea,Top,,Top,True,False,1.0,"Alphamong, Mong, MongMong"
 Alphari,United Kingdom,1999-10-20,Europe,,EMEA,Top,"Camille,Jayce,Gnar,Jarvan IV",Top,True,False,1.0,Alphari
 Alphen,Algeria,1995-11-25,,,,Support,"Leona,Nami,Rakan",Support,True,False,1.0,"Alphen, Lyesoo"
-Alrighty,United States,,,,North America,,,Jungle,True,False,,Alrighty
+Alrighty,United States,,,,North America,Jungle,,Jungle,True,False,,Alrighty
 Alroquan,Ecuador,1996-05-09,,,Latin America,Caster,"Jinx,Seraphine,Malzahar",Caster,False,False,1.0,Alroquan
 Alt,Japan,,,,Japan,Support,,Support,True,False,,Alt
 Altair,Ecuador,,,,Latin America,Jungle,,Jungle,True,False,,Altair
@@ -12102,7 +12103,7 @@ amatr,Japan,,,,Japan,Mid,,Mid,True,False,,"Amatr, Amatyy"
 0din,China,,,,China,Mid,Aurelion Sol,Mid,False,False,,"0din, Odin (Shuai Wang)"
 0kay,Canada,,,,North America,Top,,Top,True,False,,0kay
 0noken,Peru,2001-01-26,,,Latin America,Top,"Riven,Fiora,Jayce,Camille",Top,True,False,1.0,"0noken, Safaera"
-0ri (Adam Matěj),Czech Republic,2003-07-05,Europe,Fly5,EMEA,Jungle,,Jungle,False,False,1.0,"0ri (Adam Matěj), 0rinet3r"
+0ri (Adam Matěj),Czech Republic,2003-07-05,Europe,FLY5,EMEA,Jungle,,Jungle,False,False,1.0,"0ri (Adam Matěj), 0rinet3r"
 1000 Rounds,Greece,,,,Europe,Jungle,,Jungle,True,False,,1000 Rounds
 1024,China,1999-10-24,,,China,Top,,Top,False,False,1.0,1024
 1026,Taiwan,2004-10-08,,,PCS,Bot,,Bot,False,False,1.0,1026
@@ -12250,7 +12251,7 @@ A1,China,,,,China,Bot,,Bot,True,False,,"A1, Wish单杀你瘫, WJK"
 A1ter,South Korea,,,,Korea,Bot,,Bot,True,False,,A1ter
 A266,Mexico,,,,Latin America,Jungle,,Jungle,True,False,,"A266, Jun (Oscar Hernández)"
 A8000,Taiwan,,,,LMS,Mid,"Sona,Miss Fortune",Mid,True,False,,A8000
-AAdaMM,Czech Republic,2006-09-15,,Fly5,EMEA,Bot,"Zeri,Xayah,Ezreal,Sivir",Bot,False,False,1.0,AAdaMM
+AAdaMM,Czech Republic,2006-09-15,,FLY5,EMEA,Bot,"Zeri,Xayah,Ezreal,Sivir",Bot,False,False,1.0,AAdaMM
 aadurrr,Canada,2005-10-28,,Mirage Alliance Baguette,North America,Mid,Yasuo,Mid,False,False,1.0,Aadurrr
 AAey,Thailand,,,,SEA,Mid,,Mid,True,False,,AAey
 Aagie,Spain,1996-12-29,,MAD Lions,EMEA,Analyst,,Analyst,False,False,1.0,Aagie
@@ -12289,7 +12290,7 @@ Abou222,United States,,,,North America,Support,,Support,True,False,,Abou222
 About,South Korea,2005-04-17,,Ultra Prime Academy,Korea,Bot,,Bot,False,False,1.0,"About, Rhea"
 Abow,Sweden,,,SAMCLAN Esports Club,EMEA,Jungle,,Jungle,False,False,,Abow
 Abscense,Colombia,,,,Latin America,Top,,Top,True,False,,"Abscense, AbssoluTe"
-Absolut,Brazil,1998-04-26,,,Brazil,Coach,"Lucian,Kalista",Bot,True,False,1.0,Absolut
+Absolut,Brazil,1999-04-26,,,Brazil,Bot,"Varus,Tristana,Aphelios",Bot,True,False,1.0,Absolut
 Absolute (Batuhan Okta),Turkey,1999-08-24,Turkey,,EMEA,Support,,Support,False,False,1.0,Absolute (Batuhan Okta)
 Abyss (Lin Po-Reng),Taiwan,2002-06-26,,,Asia Pacific,Jungle,Graves,Jungle,False,False,1.0,"Abyss (Lin Po-Reng), Kai (Lin Yen-Kai), 林延楷"
 Abyss (Osman Hibeljić),Bosnia and Herzegovina,,Europe,,EMEA,Support,,Support,True,False,,"Abyss (Osman Hibeljić), Abyss xx"
