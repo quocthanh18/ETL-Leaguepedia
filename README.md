@@ -7,7 +7,7 @@ This project is an ETL process that extracts data from the Leaguepedia API, tran
 
 ## Data Extraction
 ### Source: 
-(Leaguepedia API)[https://lol.fandom.com/wiki/Help:Leaguepedia_API]
+[Leaguepedia API](https://lol.fandom.com/wiki/Help:Leaguepedia_API)
 
 ## Tables extracted
 - Players
