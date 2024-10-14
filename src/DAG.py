@@ -1,7 +1,7 @@
 from airflow.models import DAG
 import os
-from dotenv import load_dotenv
-load_dotenv()
+# from dotenv import load_dotenv
+# load_dotenv()
 from airflow.operators.python import PythonOperator
 import extractor 
 import transformer 
