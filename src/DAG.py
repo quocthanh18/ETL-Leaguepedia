@@ -1,7 +1,5 @@
 from airflow.models import DAG
 import os
-# from dotenv import load_dotenv
-# load_dotenv()
 from airflow.operators.python import PythonOperator
 import extractor 
 import transformer 
@@ -10,13 +8,15 @@ import creator
 from mwrogue.esports_client import EsportsClient
 import psycopg2
 from airflow.models import Variable
+from airflow.providers.amazon.aws.hooks.s3 import S3Hook
+
 
 conn = psycopg2.connect(database=Variable.get("ETL_dbname"),
                         user=Variable.get("user"),
                         password=Variable.get("password"),
                         host=Variable.get("host")
                         )
-site_dict = {"LoL": EsportsClient("lol"), "dest":"/home/quocthanh/ETL-Leaguepedia/staging/", "db_con":conn}
+site_dict = {"LoL": EsportsClient("lol"), "s3": S3Hook("s3_conn"), "db_con":conn}
 
 default_args ={
     'owner': 'Quoc Thanh',
