@@ -17,7 +17,7 @@ def players_transformer(**kwargs):
     write_buffer = BytesIO()
     main.to_csv(write_buffer, index=False, mode='wb', encoding='utf-8')
     write_buffer.seek(0)
-    s3.load_file_obj(write_buffer, bucket_name='leaguepedia', key='transformed/players.csv')
+    s3.load_file_obj(write_buffer, bucket_name='leaguepedia', key='transformed/players.csv', replace=True)
     return 
 def tournaments_transformer(**kwargs):
     # tournaments = pd.read_csv("../staging/extracted/tournaments.csv")
@@ -47,7 +47,7 @@ def tournaments_transformer(**kwargs):
     # filtered_TCL.to_csv(kwargs.get("dest") + "transformed/tournaments.csv", index=False)
     filtered_TCL.to_csv(write_buffer, index=False, mode='wb', encoding='utf-8')
     write_buffer.seek(0)
-    s3.load_file_obj(write_buffer, bucket_name='leaguepedia', key='transformed/tournaments.csv')
+    s3.load_file_obj(write_buffer, bucket_name='leaguepedia', key='transformed/tournaments.csv', replace=True)
     return 
 
 def tournamentresults_transformer(**kwargs):
@@ -58,7 +58,6 @@ def tournamentresults_transformer(**kwargs):
     obj.download_fileobj(read_buffer)
     read_buffer.seek(0)
     tournamentresults_pd = pd.read_csv(read_buffer)
-    major_regions = pd.read_csv(kwargs.get("dest") + "transformed/tournaments.csv")["OverviewPage"]
     obj_ = s3.get_key('transformed/tournaments.csv', 'leaguepedia')
     read_buffer_ = BytesIO()
     obj_.download_fileobj(read_buffer_)
@@ -66,12 +65,14 @@ def tournamentresults_transformer(**kwargs):
     major_regions = pd.read_csv(read_buffer_)["OverviewPage"]
     filtered_tournamentresults = tournamentresults_pd[tournamentresults_pd["OverviewPage"].isin(major_regions)]
     filtered_TCL = filtered_tournamentresults[~filtered_tournamentresults["OverviewPage"].str.contains("TCL")]
-    rename_teams = {"DWG KIA": "Dplus KIA", "KOO Tigers": "ROX Tigers"}
+    rename_teams = {"DWG KIA": "Dplus KIA", "KOO Tigers": "ROX Tigers",
+                    "DAMWON Gaming": "Dplus KIA", "Star Horn Royal Club": "Royal Club",
+                    "against All authority": "Against All authority"}
     filtered_TCL["Team"] = filtered_TCL["Team"].replace(rename_teams)
     write_buffer = BytesIO()
     filtered_TCL.to_csv(write_buffer, index=False, mode='wb', encoding='utf-8')
     write_buffer.seek(0)
-    s3.load_file_obj(write_buffer, bucket_name='leaguepedia', key='transformed/tournamentresults.csv')
+    s3.load_file_obj(write_buffer, bucket_name='leaguepedia', key='transformed/tournamentresults.csv', replace=True)
     return 
 
 def scoreboardgames_transformer(**kwargs):
@@ -89,12 +90,16 @@ def scoreboardgames_transformer(**kwargs):
     read_buffer_.seek(0)
     major_regions = pd.read_csv(read_buffer_)["OverviewPage"]
     filtered_scoreboardgames = scoreboardgames_pd[scoreboardgames_pd["OverviewPage"].isin(major_regions)]
-    rename_teams = {"DWG KIA": "Dplus KIA", "KOO Tigers": "ROX Tigers"}
-    filtered_scoreboardgames["Team"] = filtered_scoreboardgames["Team"].replace(rename_teams)
+    rename_teams = {"DWG KIA": "Dplus KIA", "KOO Tigers": "ROX Tigers",
+                    "DAMWON Gaming": "Dplus KIA", "Star Horn Royal Club": "Royal Club",
+                    "against All authority": "Against All authority"}
+    filtered_scoreboardgames["Team1"] = filtered_scoreboardgames["Team1"].replace(rename_teams)
+    filtered_scoreboardgames["Team2"] = filtered_scoreboardgames["Team2"].replace(rename_teams)
+    filtered_scoreboardgames["WinTeam"] = filtered_scoreboardgames["WinTeam"].replace(rename_teams)
     write_buffer = BytesIO()
     filtered_scoreboardgames.to_csv(write_buffer, index=False, mode='wb', encoding='utf-8')
     write_buffer.seek(0)
-    s3.load_file_obj(write_buffer, bucket_name='leaguepedia', key='transformed/scoreboardgames.csv')
+    s3.load_file_obj(write_buffer, bucket_name='leaguepedia', key='transformed/scoreboardgames.csv', replace=True)
     return 
 
 def teams_transformer(**kwargs):
@@ -109,7 +114,7 @@ def teams_transformer(**kwargs):
     write_buffer = BytesIO()
     teams_pd.to_csv(write_buffer, index=False, mode='wb', encoding='utf-8')
     write_buffer.seek(0)
-    s3.load_file_obj(write_buffer, bucket_name='leaguepedia', key='transformed/teams.csv')
+    s3.load_file_obj(write_buffer, bucket_name='leaguepedia', key='transformed/teams.csv', replace=True)
     return 
 
 def main():

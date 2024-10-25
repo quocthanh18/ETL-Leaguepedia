@@ -1,11 +1,18 @@
 import pandas as pd
 import psycopg2
 from airflow.models import Variable
+from io import BytesIO
 def teams_loader(**kwargs):
     # cur = db_con.cursor()
     cur = kwargs.get("db_con").cursor()
+    s3 = kwargs.get("s3")
+    obj = s3.get_key("transformed/teams.csv", "leaguepedia")
+    read_buffer = BytesIO()
+    obj.download_fileobj(read_buffer)
+    read_buffer.seek(0)
     # teams = pd.read_csv("../staging/transformed/teams.csv")
-    teams = pd.read_csv(kwargs.get("dest") + "transformed/teams.csv")
+    teams = pd.read_csv(read_buffer)
+    print(teams)
     for row in teams.itertuples(index=None,name=None):
         cur.execute("INSERT INTO teams VALUES (%s, %s, %s, %s, %s, %s)", row)
     cur.close()
@@ -15,8 +22,13 @@ def teams_loader(**kwargs):
 def players_loader(**kwargs):
     # cur = db_con.cursor()
     cur = kwargs.get("db_con").cursor()
+    s3 = kwargs.get("s3")
+    obj = s3.get_key("transformed/players.csv", "leaguepedia")
+    read_buffer = BytesIO()
+    obj.download_fileobj(read_buffer)
+    read_buffer.seek(0)
     # players = pd.read_csv("../staging/transformed/players.csv", keep_default_na=False)
-    players = pd.read_csv(kwargs.get("dest") + "transformed/players.csv", keep_default_na=False)
+    players = pd.read_csv(read_buffer, keep_default_na=False)
     players = players.replace("", None)
     for row in players.itertuples(index=None):
         parameters = (row.Player, row.Country, row.ResidencyFormer, row.Team, row.Residency, row.Role, row.RoleLast, row.IsRetired, row.ToWildrift, row.Birthdate)
@@ -34,15 +46,20 @@ def players_loader(**kwargs):
                 allname_table = (row.Player, name)
                 cur.execute("""INSERT INTO playerspronames VALUES (%s, %s)""", allname_table)
     cur.close()
+    print(players)
     kwargs.get("db_con").commit()
     return 
 
 def tournaments_loader(**kwargs):
     # cur = db_con.cursor()
     cur = kwargs.get("db_con").cursor()
-
+    s3 = kwargs.get("s3")
+    obj = s3.get_key("transformed/tournaments.csv", "leaguepedia")
+    read_buffer = BytesIO()
+    obj.download_fileobj(read_buffer)
+    read_buffer.seek(0)
     # tournaments = pd.read_csv("../staging/transformed/tournaments.csv", parse_dates=["DateStart", "Date"])
-    tournaments = pd.read_csv(kwargs.get("dest") + "transformed/tournaments.csv", parse_dates=["DateStart", "Date"])
+    tournaments = pd.read_csv(read_buffer, parse_dates=["DateStart", "Date"])
     tournaments = tournaments.replace([pd.NaT], [None])
     print(tournaments.dtypes)
     for row in tournaments.itertuples(index=None):
@@ -50,6 +67,7 @@ def tournaments_loader(**kwargs):
         print(parameters)
         cur.execute("INSERT INTO tournaments VALUES (%s, %s, %s, %s, %s, %s, %s)", parameters)
     cur.close()
+    print(tournaments)
     kwargs.get("db_con").commit()
 
     return 
@@ -57,11 +75,14 @@ def tournaments_loader(**kwargs):
 def tournamentresults_loader(**kwargs):
     # cur = db_con.cursor()
     cur = kwargs.get("db_con").cursor()
-
+    s3 = kwargs.get("s3")
+    obj = s3.get_key("transformed/tournamentresults.csv", "leaguepedia")
+    read_buffer = BytesIO()
+    obj.download_fileobj(read_buffer)
+    read_buffer.seek(0)
     # tournamentresults = pd.read_csv("../staging/transformed/tournamentresults.csv", names=["OverviewPage", "Prize_USD", "Place", "Team"], skiprows=[0]).convert_dtypes()
-    tournamentresults = pd.read_csv(kwargs.get("dest") + "transformed/tournamentresults.csv", names=["OverviewPage", "Prize_USD", "Place", "Team"], skiprows=[0]).convert_dtypes()
+    tournamentresults = pd.read_csv(read_buffer, names=["OverviewPage", "Prize_USD", "Place", "Team"], skiprows=[0]).convert_dtypes()
     tournamentresults = tournamentresults.replace([pd.NaT], [None])
-    print(tournamentresults)
     # tournamentresults["Prize_USD"] = tournamentresults["Prize_USD"].astype(float)
     for row in tournamentresults.itertuples(index=None):
         parameters = (row.OverviewPage, row.Prize_USD, row.Place, row.Team)
@@ -69,17 +90,20 @@ def tournamentresults_loader(**kwargs):
         cur.execute("INSERT INTO tournamentresults VALUES (%s, %s, %s, %s)", parameters)
     cur.close()
     kwargs.get("db_con").commit()
-
+    print(tournamentresults)
     return
 
 def scoreboardgames_loader(**kwargs):
     # cur = db_con.cursor()
     cur = kwargs.get("db_con").cursor()
-
+    s3 = kwargs.get("s3")
+    obj = s3.get_key("transformed/scoreboardgames.csv", "leaguepedia")
+    read_buffer = BytesIO()
+    obj.download_fileobj(read_buffer)
+    read_buffer.seek(0)
     # scoreboardgames = pd.read_csv("../staging/transformed/scoreboardgames.csv").convert_dtypes()
-    scoreboardgames = pd.read_csv(kwargs.get("dest") + "transformed/scoreboardgames.csv").convert_dtypes()
+    scoreboardgames = pd.read_csv(read_buffer).convert_dtypes()
     scoreboardgames = scoreboardgames.rename(columns={"GameID": "gameid", "OverviewPage": "overviewpage", "Team1": "team1", "Team2": "team2", "WinTeam": "winteam", "DateTime UTC": "timestamp", "Gamelength": "gamelength"})
-    print(scoreboardgames.columns)
     for row in scoreboardgames.itertuples(index=None):
         parameters = (row.overviewpage, row.team1, row.team2, row.winteam, row.timestamp, row.gamelength, row.GameId)        
         cur.execute("INSERT INTO scoreboardgames VALUES (%s, %s, %s, %s, %s, %s, %s)", parameters)
@@ -102,6 +126,7 @@ def scoreboardgames_loader(**kwargs):
             cur.execute("INSERT INTO gamepicks VALUES (%s, %s, %s, %s)", team2_picks)
     cur.close()
     kwargs.get("db_con").commit()
+    print(scoreboardgames)
     return
 def main():
     conn = psycopg2.connect(database=Variable.get("ETL_dbname"),
