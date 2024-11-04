@@ -1,0 +1,14 @@
+version: 2
+
+sources:
+    -   name: staging
+        database: ETL_Leaguepedia
+        schema: staging
+
+        tables:
+            -   name: scoreboardgames
+            - name: teams
+            - name: players
+            - name: tournamentresults
+
+

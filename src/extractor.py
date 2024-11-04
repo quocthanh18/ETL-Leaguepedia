@@ -4,7 +4,8 @@ import requests
 from bs4 import BeautifulSoup
 import re
 import time
-from io import BytesIO
+from sqlalchemy import create_engine
+
 
 def extract_records(tableName):
     BASE_URL = "https://lol.fandom.com/wiki/Special:CargoTables/"
@@ -18,7 +19,9 @@ def extract_records(tableName):
 
 def player_extractor(**kwargs):
     site = kwargs.get("LoL")
-    s3 = kwargs.get("s3")
+    conn = kwargs.get("db_con")
+    engine = create_engine(f'postgresql+psycopg2://{conn.login}:{conn.password}@{conn.host}:{conn.port}/{conn.schema}')
+    engine.execute(f"CREATE SCHEMA IF NOT EXISTS {kwargs.get('schema')}")
     players_field = "P.Player, P.Country, P.Birthdate, P.ResidencyFormer, P.Team, P.Residency, P.Role, P.FavChamps, P.RoleLast, P.IsRetired, P.ToWildrift, PR.AllName"
     players_pd = pd.DataFrame()
     for players_batch in tqdm(range(0, extract_records("Players") + 500, 500)):
@@ -30,16 +33,18 @@ def player_extractor(**kwargs):
             limit=500,
             offset=players_batch)
         players_pd = pd.concat([pd.DataFrame(players), players_pd], ignore_index=True)
-    csv_buffer = BytesIO()
-    players_pd.to_csv(csv_buffer, mode='wb', index=False, encoding='utf-8')
-    csv_buffer.seek(0)
-    s3.load_file_obj(csv_buffer, key="extracted/players.csv", bucket_name="leaguepedia", replace=True)
+    players_pd.to_sql("players", engine, if_exists="replace", index=False, schema=kwargs.get("schema"))
+    # csv_buffer = BytesIO()
+    # players_pd.to_csv(csv_buffer, mode='wb', index=False, encoding='utf-8')
+    # csv_buffer.seek(0)
+    # s3.load_file_obj(csv_buffer, key="extracted/players.csv", bucket_name="leaguepedia", replace=True)
     # players_pd.to_csv(kwargs.get("dest") + "extracted/players.csv", index=False)
     return 
 
 def scoreboardplayers_extractor(**kwargs):
     site = kwargs.get("LoL")
-    s3 = kwargs.get("s3")
+    conn = kwargs.get("db_con")
+    engine = create_engine(f'postgresql+psycopg2://{conn.login}:{conn.password}@{conn.host}:{conn.port}/{conn.schema}')
     field = "SBP.OverviewPage, SBP.Name, SBP.Champion, SBP.Kills, SBP.Deaths, SBP.Assists, SBP.SummonerSpells, SBP.Gold, SBP.CS, SBP.PlayerWin, SBP.DateTime_UTC, SBP.Team, SBP.TeamVs, SBP.Role, SBP.Side"
     scoreboardplayers_pd = pd.DataFrame()
     for scoreboardplayers_batch in tqdm(range(0, extract_records("ScoreboardPlayers") + 500, 500)):
@@ -51,15 +56,17 @@ def scoreboardplayers_extractor(**kwargs):
         scoreboardplayers_pd = pd.concat([pd.DataFrame(scoreboardplayers), scoreboardplayers_pd], ignore_index=True)
         time.sleep(1)
     # scoreboardplayers_pd.to_csv(kwargs.get("dest") + "extracted/scoreboardplayers.csv", index=False)
-    csv_buffer = BytesIO()
-    scoreboardplayers_pd.to_csv(csv_buffer, mode='wb', index=False, encoding='utf-8')
-    csv_buffer.seek(0)
-    s3.load_file_obj(csv_buffer, key="extracted/scoreboardplayers.csv", bucket_name="leaguepedia", replace=True)
+    scoreboardplayers_pd.to_sql("scoreboardplayers", engine, if_exists="replace", index=False, schema=kwargs.get("schema"))
+    # csv_buffer = BytesIO()
+    # scoreboardplayers_pd.to_csv(csv_buffer, mode='wb', index=False, encoding='utf-8')
+    # csv_buffer.seek(0)
+    # s3.load_file_obj(csv_buffer, key="extracted/scoreboardplayers.csv", bucket_name="leaguepedia", replace=True)
     return 
 
 def scoreboardgames_extractor(**kwargs):
     site = kwargs.get("LoL")
-    s3 = kwargs.get("s3")
+    conn = kwargs.get("db_con")
+    engine = create_engine(f'postgresql+psycopg2://{conn.login}:{conn.password}@{conn.host}:{conn.port}/{conn.schema}')        
     field="SBG.OverviewPage, SBG.Team1, SBG.Team2, SBG.WinTeam, SBG.DateTime_UTC, SBG.Gamelength, SBG.Team1Bans, SBG.Team2Bans, SBG.Team1Picks, SBG.Team2Picks, SBG.Team1Players, SBG.Team2Players, SBG.MatchId, SBG.GameId"
     scoreboardgames_pd = pd.DataFrame()
     for scoreboardgames_batch in tqdm(range(0, extract_records("ScoreboardGames") + 500, 500)):
@@ -71,15 +78,17 @@ def scoreboardgames_extractor(**kwargs):
         scoreboardgames_pd = pd.concat([pd.DataFrame(scoreboardgames), scoreboardgames_pd], ignore_index=True)
         time.sleep(1)
     # scoreboardgames_pd.to_csv(kwargs.get("dest") + "extracted/scoreboardgames.csv", index=False)
-    csv_buffer = BytesIO()
-    scoreboardgames_pd.to_csv(csv_buffer, mode='wb', index=False, encoding='utf-8')
-    csv_buffer.seek(0)
-    s3.load_file_obj(csv_buffer, key="extracted/scoreboardgames.csv", bucket_name="leaguepedia", replace=True)
+    scoreboardgames_pd.to_sql("scoreboardgames", engine, if_exists="replace", index=False, schema=kwargs.get("schema"))
+    # csv_buffer = BytesIO()
+    # scoreboardgames_pd.to_csv(csv_buffer, mode='wb', index=False, encoding='utf-8')
+    # csv_buffer.seek(0)
+    # s3.load_file_obj(csv_buffer, key="extracted/scoreboardgames.csv", bucket_name="leaguepedia", replace=True)
     return 
     
 def tournaments_extractor(**kwargs):
     site = kwargs.get("LoL")
-    s3 = kwargs.get("s3")
+    conn = kwargs.get("db_con")
+    engine = create_engine(f'postgresql+psycopg2://{conn.login}:{conn.password}@{conn.host}:{conn.port}/{conn.schema}')      
     field="T.OverviewPage, T.DateStart, T.Date, T.Region, T.Country, T.EventType, T.League"
     tournamets_pd = pd.DataFrame()
     for tournament in tqdm(range(0, extract_records("Tournaments") + 500, 500)):
@@ -91,15 +100,17 @@ def tournaments_extractor(**kwargs):
         tournamets_pd = pd.concat([pd.DataFrame(tournaments), tournamets_pd], ignore_index=True)
         time.sleep(1)
     # tournamets_pd.to_csv(kwargs.get("dest") + "extracted/tournaments.csv", index=False)
-    csv_buffer = BytesIO()
-    tournamets_pd.to_csv(csv_buffer, mode='wb', index=False, encoding='utf-8')
-    csv_buffer.seek(0)
-    s3.load_file_obj(csv_buffer, key="extracted/tournaments.csv", bucket_name="leaguepedia", replace=True)
+    tournamets_pd.to_sql("tournaments", engine, if_exists="replace", index=False, schema=kwargs.get("schema"))
+    # csv_buffer = BytesIO()
+    # tournamets_pd.to_csv(csv_buffer, mode='wb', index=False, encoding='utf-8')
+    # csv_buffer.seek(0)
+    # s3.load_file_obj(csv_buffer, key="extracted/tournaments.csv", bucket_name="leaguepedia", replace=True)
     return 
     
 def tournamentresults_extractor(**kwargs):
     site = kwargs.get("LoL")
-    s3 = kwargs.get("s3")
+    conn = kwargs.get("db_con")
+    engine = create_engine(f'postgresql+psycopg2://{conn.login}:{conn.password}@{conn.host}:{conn.port}/{conn.schema}')    
     fields="TR.OverviewPage, TR.Prize_USD, TR.Place, TR.Team"
     tournametresults_pd = pd.DataFrame()
     for result in tqdm(range(0, extract_records("TournamentResults") + 500, 500)):
@@ -111,15 +122,17 @@ def tournamentresults_extractor(**kwargs):
         tournametresults_pd = pd.concat([pd.DataFrame(tournamentresults), tournametresults_pd], ignore_index=True)
         time.sleep(1)
     # tournametresults_pd.to_csv(kwargs.get("dest") + "extracted/tournamentresults.csv", index=False)
-    csv_buffer = BytesIO()
-    tournametresults_pd.to_csv(csv_buffer, mode='wb', index=False, encoding='utf-8')
-    csv_buffer.seek(0)
-    s3.load_file_obj(csv_buffer, key="extracted/tournamentresults.csv", bucket_name="leaguepedia", replace=True)
+    tournametresults_pd.to_sql("tournamentresults", engine, if_exists="replace", index=False, schema=kwargs.get("schema"))
+    # csv_buffer = BytesIO()
+    # tournametresults_pd.to_csv(csv_buffer, mode='wb', index=False, encoding='utf-8')
+    # csv_buffer.seek(0)
+    # s3.load_file_obj(csv_buffer, key="extracted/tournamentresults.csv", bucket_name="leaguepedia", replace=True)
     return 
 
 def teams_extractor(**kwargs):
     site = kwargs.get("LoL")
-    s3 = kwargs.get("s3")
+    conn = kwargs.get("db_con")
+    engine = create_engine(f'postgresql+psycopg2://{conn.login}:{conn.password}@{conn.host}:{conn.port}/{conn.schema}')  
     fields="T.OverviewPage, T.Short, T.Location, T.Region, T.IsDisbanded, T.RenamedTo"
     teams_pd = pd.DataFrame()
     for team in tqdm(range(0, extract_records("Teams") + 500, 500)):
@@ -131,10 +144,11 @@ def teams_extractor(**kwargs):
         teams_pd = pd.concat([pd.DataFrame(teams), teams_pd], ignore_index=True)
         time.sleep(1)
     # teams_pd.to_csv(kwargs.get("dest") + "extracted/teams.csv", index=False)
-    csv_buffer = BytesIO()
-    teams_pd.to_csv(csv_buffer, mode='wb', index=False, encoding='utf-8')
-    csv_buffer.seek(0)
-    s3.load_file_obj(csv_buffer, key="extracted/teams.csv", bucket_name="leaguepedia", replace=True)
+    teams_pd.to_sql("teams", engine, if_exists="replace", index=False, schema=kwargs.get("schema"))
+    # csv_buffer = BytesIO()
+    # teams_pd.to_csv(csv_buffer, mode='wb', index=False, encoding='utf-8')
+    # csv_buffer.seek(0)
+    # s3.load_file_obj(csv_buffer, key="extracted/teams.csv", bucket_name="leaguepedia", replace=True)
     return 
 
 # def main():

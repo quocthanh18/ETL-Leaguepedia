@@ -1,32 +1,39 @@
 import pandas as pd
-from io import BytesIO
+from sqlalchemy import create_engine
 
 def players_transformer(**kwargs):
-    s3 = kwargs.get("s3")
-    obj = s3.get_key('extracted/players.csv', 'leaguepedia')
-    read_buffer = BytesIO()
-    obj.download_fileobj(read_buffer)
-    read_buffer.seek(0)
-    players_pd = pd.read_csv(read_buffer)
+    # s3 = kwargs.get("s3")
+    conn = kwargs.get("db_con")
+    engine = create_engine(f'postgresql+psycopg2://{conn.login}:{conn.password}@{conn.host}:{conn.port}/{conn.schema}')
+    # obj = s3.get_key('extracted/players.csv', 'leaguepedia')
+    # read_buffer = BytesIO()
+    # obj.download_fileobj(read_buffer)
+    # read_buffer.seek(0)
+    # players_pd = pd.read_csv(read_buffer)
+    players_pd = pd.read_sql_table("players", engine,schema='raw')
     renames = players_pd.groupby("Player")["AllName"].apply(", ".join).to_frame().reset_index()
     main = players_pd.drop_duplicates(subset=["Player"], keep="first").reset_index(drop=True)
     main = pd.merge(main, renames, on="Player", how="left").drop(columns=["AllName_x"]).rename(columns={"AllName_y": "AllName"})
     main["IsRetired"] = main["IsRetired"].astype(bool)
     main["ToWildrift"] = main["ToWildrift"].astype(bool)
     main = main.replace([pd.NaT], [None])
-    write_buffer = BytesIO()
-    main.to_csv(write_buffer, index=False, mode='wb', encoding='utf-8')
-    write_buffer.seek(0)
-    s3.load_file_obj(write_buffer, bucket_name='leaguepedia', key='transformed/players.csv', replace=True)
+    main.to_sql("players", engine, if_exists="replace", index=False, schema='staging')
+    # write_buffer = BytesIO()
+    # main.to_csv(write_buffer, index=False, mode='wb', encoding='utf-8')
+    # write_buffer.seek(0)
+    # s3.load_file_obj(write_buffer, bucket_name='leaguepedia', key='transformed/players.csv', replace=True)
     return 
 def tournaments_transformer(**kwargs):
     # tournaments = pd.read_csv("../staging/extracted/tournaments.csv")
-    s3 = kwargs.get("s3")
-    obj = s3.get_key('extracted/tournaments.csv', 'leaguepedia')
-    read_buffer = BytesIO()
-    obj.download_fileobj(read_buffer)
-    read_buffer.seek(0)
-    tournaments = pd.read_csv(read_buffer)
+    # s3 = kwargs.get("s3")
+    # obj = s3.get_key('extracted/tournaments.csv', 'leaguepedia')
+    conn = kwargs.get("db_con")
+    engine = create_engine(f'postgresql+psycopg2://{conn.login}:{conn.password}@{conn.host}:{conn.port}/{conn.schema}')
+    tournaments = pd.read_sql_table("tournaments", engine, schema='raw')
+    # read_buffer = BytesIO()
+    # obj.download_fileobj(read_buffer)
+    # read_buffer.seek(0)
+    # tournaments = pd.read_csv(read_buffer)
     # tournaments = pd.read_csv(kwargs.get("dest") + "extracted/tournaments.csv")
     tournaments["DateStart"] = pd.to_datetime(tournaments["DateStart"])
     tournaments["Date"] = pd.to_datetime(tournaments["Date"])
@@ -43,52 +50,57 @@ def tournaments_transformer(**kwargs):
     ]
     tournaments = tournaments[tournaments["League"].isin(major_regions)]
     filtered_TCL = tournaments[~tournaments["League"].str.contains("TCL")]
-    write_buffer = BytesIO()
+    # write_buffer = BytesIO()
     # filtered_TCL.to_csv(kwargs.get("dest") + "transformed/tournaments.csv", index=False)
-    filtered_TCL.to_csv(write_buffer, index=False, mode='wb', encoding='utf-8')
-    write_buffer.seek(0)
-    s3.load_file_obj(write_buffer, bucket_name='leaguepedia', key='transformed/tournaments.csv', replace=True)
+    # filtered_TCL.to_csv(write_buffer, index=False, mode='wb', encoding='utf-8')
+    # write_buffer.seek(0)
+    # s3.load_file_obj(write_buffer, bucket_name='leaguepedia', key='transformed/tournaments.csv', replace=True)
+    filtered_TCL.to_sql("tournaments", engine, if_exists="replace", index=False, schema='staging')
     return 
 
 def tournamentresults_transformer(**kwargs):
     # tournamentresults_pd = pd.read_csv("../staging/extracted/tournamentresults.csv")
-    s3 = kwargs.get("s3")
-    obj = s3.get_key('extracted/tournamentresults.csv', 'leaguepedia')
-    read_buffer = BytesIO()
-    obj.download_fileobj(read_buffer)
-    read_buffer.seek(0)
-    tournamentresults_pd = pd.read_csv(read_buffer)
-    obj_ = s3.get_key('transformed/tournaments.csv', 'leaguepedia')
-    read_buffer_ = BytesIO()
-    obj_.download_fileobj(read_buffer_)
-    read_buffer_.seek(0)
-    major_regions = pd.read_csv(read_buffer_)["OverviewPage"]
+    # s3 = kwargs.get("s3")
+    # obj = s3.get_key('extracted/tournamentresults.csv', 'leaguepedia')
+    conn = kwargs.get("db_con")
+    engine = create_engine(f'postgresql+psycopg2://{conn.login}:{conn.password}@{conn.host}:{conn.port}/{conn.schema}')
+    # read_buffer = BytesIO()
+    # obj.download_fileobj(read_buffer)
+    # read_buffer.seek(0)
+    # tournamentresults_pd = pd.read_csv(read_buffer)
+    tournamentresults_pd = pd.read_sql_table("tournamentresults", engine, schema='raw')
+    major_regions = pd.read_sql_table("tournaments", engine, schema='staging')["OverviewPage"]
+    print(major_regions)
     filtered_tournamentresults = tournamentresults_pd[tournamentresults_pd["OverviewPage"].isin(major_regions)]
     filtered_TCL = filtered_tournamentresults[~filtered_tournamentresults["OverviewPage"].str.contains("TCL")]
     rename_teams = {"DWG KIA": "Dplus KIA", "KOO Tigers": "ROX Tigers",
                     "DAMWON Gaming": "Dplus KIA", "Star Horn Royal Club": "Royal Club",
                     "against All authority": "Against All authority"}
     filtered_TCL["Team"] = filtered_TCL["Team"].replace(rename_teams)
-    write_buffer = BytesIO()
-    filtered_TCL.to_csv(write_buffer, index=False, mode='wb', encoding='utf-8')
-    write_buffer.seek(0)
-    s3.load_file_obj(write_buffer, bucket_name='leaguepedia', key='transformed/tournamentresults.csv', replace=True)
+    # write_buffer = BytesIO()
+    # filtered_TCL.to_csv(write_buffer, index=False, mode='wb', encoding='utf-8')
+    # write_buffer.seek(0)
+    # s3.load_file_obj(write_buffer, bucket_name='leaguepedia', key='transformed/tournamentresults.csv', replace=True)
+    filtered_TCL.to_sql("tournamentresults", engine, if_exists="replace", index=False, schema='staging')
+    print(filtered_TCL)
     return 
 
 def scoreboardgames_transformer(**kwargs):
     # scoreboardgames_pd = pd.read_csv("../staging/extracted/scoreboardgames.csv")
-    s3 = kwargs.get("s3")
-    obj = s3.get_key('extracted/scoreboardgames.csv', 'leaguepedia')
-    read_buffer = BytesIO()
-    obj.download_fileobj(read_buffer)
-    read_buffer.seek(0)
-    scoreboardgames_pd = pd.read_csv(read_buffer)
-
-    read_buffer_ = BytesIO()
-    obj_ = s3.get_key('transformed/tournaments.csv', 'leaguepedia')
-    obj_.download_fileobj(read_buffer_)
-    read_buffer_.seek(0)
-    major_regions = pd.read_csv(read_buffer_)["OverviewPage"]
+    # s3 = kwargs.get("s3")
+    # obj = s3.get_key('extracted/scoreboardgames.csv', 'leaguepedia')
+    # read_buffer = BytesIO()
+    # obj.download_fileobj(read_buffer)
+    # read_buffer.seek(0)
+    conn = kwargs.get("db_con")
+    engine = create_engine(f'postgresql+psycopg2://{conn.login}:{conn.password}@{conn.host}:{conn.port}/{conn.schema}')
+    # read_buffer_ = BytesIO()
+    # obj_ = s3.get_key('transformed/tournaments.csv', 'leaguepedia')
+    # obj_.download_fileobj(read_buffer_)
+    # read_buffer_.seek(0)
+    # major_regions = pd.read_csv(read_buffer_)["OverviewPage"]
+    major_regions = pd.read_sql_table("tournaments", engine,schema='staging')["OverviewPage"]
+    scoreboardgames_pd = pd.read_sql_table("scoreboardgames", engine,schema='raw')
     filtered_scoreboardgames = scoreboardgames_pd[scoreboardgames_pd["OverviewPage"].isin(major_regions)]
     rename_teams = {"DWG KIA": "Dplus KIA", "KOO Tigers": "ROX Tigers",
                     "DAMWON Gaming": "Dplus KIA", "Star Horn Royal Club": "Royal Club",
@@ -96,25 +108,25 @@ def scoreboardgames_transformer(**kwargs):
     filtered_scoreboardgames["Team1"] = filtered_scoreboardgames["Team1"].replace(rename_teams)
     filtered_scoreboardgames["Team2"] = filtered_scoreboardgames["Team2"].replace(rename_teams)
     filtered_scoreboardgames["WinTeam"] = filtered_scoreboardgames["WinTeam"].replace(rename_teams)
-    write_buffer = BytesIO()
-    filtered_scoreboardgames.to_csv(write_buffer, index=False, mode='wb', encoding='utf-8')
-    write_buffer.seek(0)
-    s3.load_file_obj(write_buffer, bucket_name='leaguepedia', key='transformed/scoreboardgames.csv', replace=True)
+    # write_buffer = BytesIO()
+    # filtered_scoreboardgames.to_csv(write_buffer, index=False, mode='wb', encoding='utf-8')
+    # write_buffer.seek(0)
+    # s3.load_file_obj(write_buffer, bucket_name='leaguepedia', key='transformed/scoreboardgames.csv', replace=True)
+    filtered_scoreboardgames.to_sql("scoreboardgames", engine, if_exists="replace", index=False, schema='staging')
     return 
 
 def teams_transformer(**kwargs):
     # teams_pd = pd.read_csv("../staging/extracted/teams.csv",dtype={"IsDisbanded":bool})
-    s3 = kwargs.get("s3")
-    obj = s3.get_key('extracted/teams.csv', 'leaguepedia')
-    read_buffer = BytesIO()
-    obj.download_fileobj(read_buffer)
-    read_buffer.seek(0)
-    teams_pd = pd.read_csv(read_buffer)
+    # s3 = kwargs.get("s3")
+    # obj = s3.get_key('extracted/teams.csv', 'leaguepedia')
+    # read_buffer = BytesIO()
+    # obj.download_fileobj(read_buffer)
+    # read_buffer.seek(0)
+    conn = kwargs.get("db_con")
+    engine = create_engine(f'postgresql+psycopg2://{conn.login}:{conn.password}@{conn.host}:{conn.port}/{conn.schema}')
+    teams_pd = pd.read_sql_table("teams", engine,schema='raw')
     teams_pd["IsDisbanded"] = teams_pd["IsDisbanded"].astype(bool)
-    write_buffer = BytesIO()
-    teams_pd.to_csv(write_buffer, index=False, mode='wb', encoding='utf-8')
-    write_buffer.seek(0)
-    s3.load_file_obj(write_buffer, bucket_name='leaguepedia', key='transformed/teams.csv', replace=True)
+    teams_pd.to_sql("teams", engine, if_exists="replace", index=False, schema='staging')
     return 
 
 def main():
