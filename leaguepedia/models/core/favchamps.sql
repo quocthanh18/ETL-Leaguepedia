@@ -12,7 +12,7 @@ main as (
 
 main1 as (
     select "player", "name"
-    from main, unnest("Champion") as "Champion_name"
+    from main, unnest("Champion") as "name"
 )
 
 select * from main1
